@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "কুমিল্লা বোর্ড-২০১৭",
+    "year": "২০১৭",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "দুটি বিন্দুর ত্রিমাত্রিক স্থানাঙ্ক ব্যবস্থায় স্থানাঙ্ক যথাক্রমে $A(1, 0, -1)$ এবং $B(1, 1, 0)$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "ডান হাতি স্ক্রু নিয়মটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "একটি বিপরীত ভেক্টরকে সমরেখ ভেক্টর বলা যেতে পারে-ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "$\\vec{AB}$ ভেক্টরের সমান্তরালে একটি একক ভেক্টর নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "দুটি বিন্দুর A ও B এর অবস্থান ভেক্টরদ্বয়ের X অক্ষের উপর লম্ব অভিক্ষেপ এর তুলনামূলক বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "একটি ফুটবল প্রশিক্ষণকালে দুজন খেলোয়াড় উভয়ই $10ms^{-1}$ বেগে যথাক্রমে $30^{\circ}$ এবং $60^{\circ}$ কোণে ফুটবল কিক করলেন। একজন গোলকিপার বল দুটিকে মাটিতে পড়ার ঠিক আগে মুহূর্তে ধরার জন্য দাঁড়িয়েছিলেন।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "কেন্দ্রমুখী ত্বরণ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "ঘূর্ণনশীল কণার ক্ষেত্রে রৈখিক বেগ ও কৌণিক বেগ পরস্পরের সাথে লম্ব- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "১ম খেলোয়াড়ের ক্ষেত্রে $1sec$ পরে বলটির বেগের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "গোলকিপার স্থান পরিবর্তন না করে ভিন্ন সময়ে বল দুটি ধরতে সক্ষম হবে-এর সত্যতা গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "$142 cm$ এবং $122 cm$ ব্যাসের দুটি বৈদ্যুতিক পাখা বানানো হলো। প্রথমটি মিনিটে $150$ বার ও দ্বিতীয়টি মিনিটে $180$ বার ঘুরে। সুইচ বন্ধ করার $2s$ পর উভয় পাখা থেমে যায়।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "টর্কের সংজ্ঞা লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "ঘূর্ণন গতির ক্ষেত্রে জড়তার ভ্রামক বস্তুর ভরের সমতুল্য—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "প্রথম পাখাটির প্রান্তবিন্দুতে কেন্দ্রমুখী ত্বরণ হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "সুইচ বন্ধ করার পর থেমে যাওয়ার আগ পর্যন্ত উভয় পাখা-ই কী সমান সংখ্যক বার ঘুরে থেমেছে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "$2m$ বাহুবিশিষ্ট ABCD বর্গক্ষেত্রের কেন্দ্র O এবং উক্ত বিন্দুতে $1kg$ ভরের বস্তু রাখা আছে। A, B, C ও D বিন্দুতে যথাক্রমে $4kg, 4kg, 2kg$ ও $2kg$ ভরের চারটি বস্তু রাখা আছে। $[G=6.673 \times 10^{-11} Nm^2kg^{-2}]$",
+        "has_image": true,
+        "image_description": "ABCD square with masses at corners",
+        "image_url": "images/cq_CB17_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-01",
+          "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
+          "question_text": "অভিকর্ষ কেন্দ্র কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "পৃথিবীর অভ্যন্তরে কোনো স্থানে অভিকর্ষজ ত্বরণ পৃথিবীর কেন্দ্র হতে দূরত্বের সমানুপাতিক—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "‘O’ বিন্দুতে মহাকর্ষীয় বিভব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-01",
+          "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
+          "question_text": "O বিন্দুতে বস্তুটি স্থির থাকবে কি না—গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "A ও B দুটি তরল পদার্থ যাদের ঘনত্ব যথাক্রমে $100 kgm^{-3}$ ও $800 kgm^{-3}$। প্রথমে A তরল হতে $0.1m$ দৈর্ঘ্যের তারকে অনুভূমিকভাবে উপরে উঠানো হল। পরে $4mm$ ব্যাসার্ধের ও $7.8 \times 10^3 kgm^{-3}$ ঘনত্বের একটি লোহার গোলককে A ও B উভয় তরলে ছেড়ে দিয়ে দেখা গেল তাদের প্রান্তবেগ যথাক্রমে $2.36 \times 10^{-2} ms^{-1}$ ও $4 \times 10^{-2} ms^{-1}$। [A তরলের পৃষ্ঠটান $72 \times 10^{-3} Nm^{-1}$ এবং $g=9.8 ms^{-2}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "স্থিতিস্থাপক সীমা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-06",
+          "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
+          "question_text": "তারের সম্প্রসারণে বিভবশক্তি সঞ্চিত হয়—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-08",
+          "topic_name": "পৃষ্ঠটান",
+          "question_text": "উদ্দীপকের তারটিকে উঠানোর সময় প্রযুক্ত বল এর মান হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-07",
+          "topic_name": "সান্দ্রতা এবং স্টোকসের সূত্র",
+          "question_text": "উদ্দীপকের কোন তরলটি বেশি সান্দ্র—গাণিতিক বিশ্লেষণের মাধ্যমে উত্তরের পক্ষে যুক্তি দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "দুটি ভিন্ন পাত্রে সংরক্ষিত $325 gm$ এবং $288 gm$ ভরের $10 mole$ করে যথাক্রমে X গ্যাস ও Y গ্যাস এর জন্য দুটি P-V লেখ অঙ্কিত আছে।",
+        "has_image": true,
+        "image_description": "P-V graphs for Gas X and Gas Y",
+        "image_url": "images/cq_CB17_fig02.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "আপেক্ষিক আর্দ্রতার সংজ্ঞা লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "কুয়াশায় কোনো একদিন সন্ধ্যায় শিশিরাঙ্ক $15^{\circ}C$ বলতে কি বুঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "উদ্দীপক অনুযায়ী গ্যাসদ্বয়ের আয়তনের তুলনা ($V_1 : V_2$) কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "পাত্র দুটির মুখ একই সময়ে খুলে দিলে কোন পাত্রটি আগে খালি হবে—গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "একটি অগ্রগামী তরঙ্গের সমীকরণ নিম্নরূপ যা পরবর্তীতে স্থির তরঙ্গ সৃষ্টি করে। $Y = 0.5 \sin \left( 800 \pi t - \frac{2\pi}{0.5} x \right)$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "তরঙ্গমুখ কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-02",
+          "topic_name": "অগ্রগামী তরঙ্গ ও স্থির তরঙ্গ",
+          "question_text": "রডীর মধ্যে কোন অষ্টক নেই—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "আগামী তরঙ্গটির তরঙ্গবেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-02",
+          "topic_name": "অগ্রগামী তরঙ্গ ও স্থির তরঙ্গ",
+          "question_text": "উদ্দীপকে যে স্থিরতরঙ্গটি সৃষ্টি হবে তার কম্পাঙ্ক এবং মূল তরঙ্গের কম্পাঙ্কের তুলনামূলক বিশ্লেষণ গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "চিত্রে একটি সরল দোলক যার সুতার দৈর্ঘ্য $1.1m$ এবং ববের ব্যাসার্ধ $1.5 cm$, ভর $60 gm$ এবং OA সাম্যাবস্থান। চিত্রে $QC = 3cm$ এবং $PB = 2cm$ $[g = 9.8 ms^{-2}]$",
+        "has_image": true,
+        "image_description": "Simple pendulum diagram with points A, B, C",
+        "image_url": "images/cq_CB17_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "পর্যাবৃত্ত গতির সংজ্ঞা লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-02",
+          "topic_name": "স্প্রিং বল দ্বারা কৃতকাজ",
+          "question_text": "বল-সরণ গ্রাফ হতে স্প্রিং সম্প্রসারণে কৃত কাজের পরিমাণ পাওয়া যায়—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "সরল দোলকটির দোলনকাল হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "সরল দোলকটির A, B ও C বিন্দুতে কার্যকর বলের মানের তুলনামূলক গাণিতিক বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

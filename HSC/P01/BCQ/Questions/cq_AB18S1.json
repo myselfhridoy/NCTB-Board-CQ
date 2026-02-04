@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "সম্মিলিত বোর্ড ২০১৮",
+    "year": "২০১৮",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "$m = (10 \\text{ kg})$ ভরের একটি বস্তুর উপর একই সময়ে তিনটি বল ক্রিয়া করছে যা ১নং চিত্রে দেখানো হলো।",
+        "has_image": true,
+        "image_description": "একটি বস্তুর উপর তিনটি ভিন্ন দিক থেকে বল প্রয়োগের চিত্র (ভেক্টর ডায়াগ্রাম)।",
+        "image_url": "image_q1_stem.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "কৌণিক বেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "বল ও সরণ ভেক্টর রাশি হলেও তাদের দ্বারা সৃষ্ট কাজ স্কেলার রাশি—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-06",
+          "topic_name": "দুইয়ের অধিক ভেক্টরের লব্ধি",
+          "question_text": "১নং চিত্রে বস্তুটির উপর ক্রিয়াশীল নিট বলের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-06",
+          "topic_name": "দুইয়ের অধিক ভেক্টরের লব্ধি",
+          "question_text": "চিত্র-১ এর আলোকে চিত্র-২ এর সঠিকতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "$66 \\text{ m}$ গড় ব্যাসার্ধের একটি ক্রিকেট মাঠে ক্রিকেট দল A ফিল্ডিং এবং B ব্যাটিং করছে। একজন বোলার $100 \\text{ kmh}^{-1}$ বেগে ব্যাটসম্যানের দিকে বল নিক্ষেপ করলে ব্যাটসম্যান অনুভূমিকের সাথে $30^{\\circ}$ কোণে বলটিতে আঘাত করে। ফলে বলটি বোলারের নিক্ষেপ বেগের সমান বেগ লাভ করে। সংশ্লিষ্ট ব্যাটসম্যান হতে $20 \\text{ m}$ দূরে অবস্থানরত একজন ফিল্ডার ব্যাটসম্যান কর্তৃক বলে আঘাত করার সাথে সাথে বল অভিমুখে $10 \\text{ ms}^{-1}$ বেগে দৌড় শুরু করল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-09",
+          "topic_name": "পৃষ্ঠশক্তি",
+          "question_text": "পৃষ্ঠ শক্তি কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "গতির সাধারণ সমীকরণের ব্যবহার",
+          "question_text": "কোনো বাসযাত্রী রাস্তার পাশের কিলোমিটার স্টোন এবং সাথে থাকা একটি হাতঘড়ি ব্যবহার করে চলমান বাসটির গড় বেগ কীভাবে নির্ণয় করবে ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "উদ্দীপকের বলটি সর্বাধিক কত উচ্চতায় উঠবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "উদ্দীপকের ঘটনার ব্যাটসম্যানকে 'ক্যাচ আউট' করা সম্ভব কি-না গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "অপু $20 \\text{ m}$ ব্যাসার্ধবিশিষ্ট একটি বৃত্তাকার মাঠের চতুর্পার্শ্বে সর্বোচ্চ $30^{\\circ}$ কোণে কেন্দ্রের দিকে হেলানো অবস্থায় নিরাপদে সাইকেল চালাতে পারে। সে $20 \\text{ kmh}^{-1}$ বেগে সাইকেল চালাচ্ছিল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "টর্ক কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "বলের প্রকারভেদ",
+          "question_text": "ঘর্ষণ বল একটি অসংরক্ষণশীল বল—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "বৃত্তাকার পথে $5 \\text{ km}$ এর সমান পথ অতিক্রম করতে কতবার মাঠ প্রদক্ষিণ করতে হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "উদ্দীপকে উল্লিখিত মাঠে দ্বিগুণ বেগে অপু ঐ পথ নিরাপদে অতিক্রম করতে পারবে। সত্যতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "প্রতি তলার উচ্চতা $5 \\text{ m}$ হিসেবে $10$ তলা ভবনের সর্বোচ্চ তলায় বসবাসরত একটি পরিবারে একটি শিশু আছে। শিশুটি বারান্দার গ্রীল দিয়ে $100 \\text{ gm}$ ভরের একটি টেনিস বল ছেড়ে দিলে তা কিছুক্ষণের মধ্যে মাটিতে আঘাত করে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "চক্রগতি ব্যাসার্ধ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "একটি বস্তুর স্থিতিস্থাপক ক্লান্তি সৃষ্টি হওয়ার কারণ ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "উলম্ব গতি",
+          "question_text": "উদ্দীপকে উল্লিখিত টেনিস বলটি কত সময় পরে মাটিতে আঘাত করবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "ভবনটির ৭ম ও ৪র্থ তলায় বলটি মোট শক্তি উদ্দীপকের তথ্য ব্যবহার করে গণনা করলে তা শক্তির সংরক্ষণ সূত্র মেনে চলবে— এ উক্তিটির সত্যতা যাচাই করে তোমার মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "প্রতি সেকেন্ডে ৫টি বিট সৃষ্টি করার লক্ষ্যে দুটি সুরশলাকা A ও B নেওয়া হলো। A সুরশলাকা হতে সৃষ্ট শব্দের তীব্রতা $1.01 \\times 10^5 \\text{ Wm}^{-2}$ এবং বিস্তার $0.02 \\text{ m}$। B সুরশলাকার কম্পাঙ্ক $161 \\text{ Hz}$। (মাধ্যমের ঘনত্ব $1.25 \\text{ kg m}^{-3}$ এবং শব্দের বেগ $350 \\text{ ms}^{-1}$)।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-02",
+          "topic_name": "অগ্রগামী তরঙ্গ ও স্থির তরঙ্গ",
+          "question_text": "অনুনাদ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "আলোক তরঙ্গ ও শব্দ তরঙ্গের মধ্যে পার্থক্য লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "B সুরশলাকা $250$ কম্পনে শব্দ কত দূরত্ব অতিক্রম করবে নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "উদ্দীপকে উল্লিখিত বিট উৎপন্ন করতে হলে A সুরশলাকার কী পরিবর্তন আনা প্রয়োজন গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "$5 \\text{ kg}$ ভরের একটি বস্তু ভূপৃষ্ঠ হতে মুক্তিবেগে নিক্ষেপ করায় সেটি মহাশূন্যের অন্য একটি গ্রহে পৌঁছায় যার ভর পৃথিবীর ভরের ষোলগুণ এবং ব্যাস পৃথিবীর ব্যাসার্ধের আটগুণ। (পৃথিবীর ভর $= 6 \\times 10^{24} \\text{ kg}$, পৃথিবীর ব্যাসার্ধ $= 6.4 \\times 10^3 \\text{ km}$)",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "কাজ শক্তি উপপাদ্যটি লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "কোনো একটি যন্ত্রের ক্ষমতা $50 \\text{ MW}$—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "উদ্দীপকে উল্লিখিত অন্য গ্রহের পৃষ্ঠে অভিকর্ষজ ত্বরণের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "উদ্দীপকে উল্লিখিত বস্তুটির ভর অর্ধেক হলেও ঐ বস্তুটিকে পুনরায় অন্য গ্রহটি হতে মহাশূন্যে নিক্ষেপ করতে প্রয়োজনীয় মুক্তিবেগ ভূপৃষ্ঠের মুক্তিবেগের সমান হবে কি? গাণিতিক বিশ্লেষণপূর্বক তোমার মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "দৃঢ় অবলম্বন হতে $1 \\text{ m}$ দৈর্ঘ্যের একই উপাদানের দুটি তারের প্রত্যেকটির মুক্তপ্রান্তে $0.05 \\text{ kg}$ ভর ঝুলানো হলো। তারগুলোর ব্যাস যথাক্রমে $2 \\text{ mm}$ ও $4 \\text{ mm}$ (ইয়ং এর গুণাঙ্ক $= 2 \\times 10^{11} \\text{ Nm}^{-2}$)।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-07",
+          "topic_name": "সান্দ্রতা এবং স্টোকসের সূত্র",
+          "question_text": "সান্দ্রতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-08",
+          "topic_name": "পৃষ্ঠটান",
+          "question_text": "বৃষ্টির ফোঁটা গোলাকার কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-06",
+          "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
+          "question_text": "প্রথম তারটির একক আয়তনে স্থিতিশক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "ভরসহ প্রত্যেকটি ঝুলানো তার সরল দোলকের ন্যায় আচরণ করলে কোনটি ধীরে চলবে? গাণিতিক বিশ্লেষণসহ ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "A স্থানের একটি হ্রদের তলদেশ হতে একটি বায়ু বুদবুদ পানির উপরিতলে আসায় বুদবুদের ব্যাসার্ধ দ্বিগুণ হয়। হ্রদটিতে বায়ুমণ্ডলের চাপ $10^5 \\text{ Nm}^{-2}$, বায়ুর তাপমাত্রা $18.6^{\\circ}\\text{C}$ এবং আপেক্ষিক আর্দ্রতা $52.4\\%$। অন্য কোনো দিন B স্থানের অন্য একটি হ্রদে বায়ুর তাপমাত্রা A স্থানের হ্রদের সমান এবং শিশিরাঙ্ক $7.4^{\\circ}\\text{C}, 7^{\\circ}\\text{C}, 8^{\\circ}\\text{C}, 18^{\\circ}\\text{C}$ ও $19^{\\circ}\\text{C}$ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে $7.5 \\times 10^{-3} \\text{ m}, 8.2 \\times 10^{-3} \\text{ m}, 15.6 \\times 10^{-3} \\text{ m}$ ও $16.5 \\times 10^{-3} \\text{ m}$ পারদ।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "প্রমাণ চাপ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "শীতকাল অপেক্ষা বর্ষাকালে কাপড় দেরিতে শুকায়—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "A স্থানের হ্রদের গভীরতা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "উদ্দীপকের কোন স্থানে একজন ব্যক্তি বেশি স্বস্তিবোধ করবে? গাণিতিক বিশ্লেষণসহ ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -177,7 +177,7 @@
     {
       "question_no": 3,
       "stem": {
-        "text": "\\includegraphics[width=0.4\\textwidth]{images/cq_BB16_fig02.jpg}\\\\পৃথিবীর ভর $= 5.98 \\times 10^{24} kg$\\\\মহাকর্ষ ধ্রুবক $= 6.67 \\times 10^{-11} Nm^2kg^{-2}$",
+        "text": "পৃথিবীর ভর $= 5.98 \\times 10^{24} kg$\\\\মহাকর্ষ ধ্রুবক $= 6.67 \\times 10^{-11} Nm^2kg^{-2}$",
         "has_image": true,
         "image_description": "কৃত্রিম উপগ্রহ ও পৃথিবীর চিত্র",
         "image_url": "images/cq_BB16_fig02.jpg"

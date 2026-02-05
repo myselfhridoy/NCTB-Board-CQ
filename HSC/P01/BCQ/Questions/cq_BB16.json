@@ -11,7 +11,7 @@
     {
       "question_no": 1,
       "stem": {
-        "text": "\\includegraphics[width=0.4\\textwidth]{images/cq_BB16_fig01.jpg}\\\\উপরের চিত্রে $\\vec{A} = \\hat{i} - \\hat{j} + \\hat{k}$ এবং $\\vec{B} = 2\\hat{i} - 3\\hat{j} + 6\\hat{k}$।",
+        "text": "উপরের চিত্রে $\\vec{A} = \\hat{i} - \\hat{j} + \\hat{k}$ এবং $\\vec{B} = 2\\hat{i} - 3\\hat{j} + 6\\hat{k}$।",
         "has_image": true,
         "image_description": "ভেক্টর A এবং B এর চিত্র",
         "image_url": "images/cq_BB16_fig01.jpg"

@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "বরিশাল বোর্ড",
+    "year": "২০২৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "দুটি ভেক্টর যথাক্রমে $\\vec{A} = 3\\hat{i} + 4\\hat{j} - \\hat{k}$ ও $\\vec{B} = \\hat{i} - \\hat{j} + 6\\hat{k}$ এবং একটি ভেক্টরক্ষেত্র $\\vec{C} = 2x^2yz\\hat{i} + y^2z\\hat{j} + x^2y^2z^2\\hat{k}$.",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "সমরেখ ভেক্টর কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "দুটি ভেক্টরের যোগফল ও বিয়োগফল সমান হতে পারে কি-না? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "$\\vec{A}$ ও $\\vec{B}$-এর তলের লম্বদিকে ভেক্টর নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "$(2, -1, 2)$ বিন্দুতে $\\vec{C}$ ভেক্টরক্ষেত্রটি তরলের উৎস হিসেবে কাজ করবে কি-না? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "একজন ছাত্র $0.1 \\text{ kg}$ ভরের একটি পাথরখণ্ডকে $0.20 \\text{ m}$ লম্বা একটি সুতার এক প্রান্তে বেঁধে বৃত্তাকার পথে প্রতি মিনিটে $60$ বার ঘুরাতে পারে। পরবর্তীতে সে সুতার দৈর্ঘ্য ৩ গুণ করে একইভাবে ঘুরাতে চেয়েছিল। সুতাটি সর্বোচ্চ $2 \\text{ N}$ বল সহ্য করতে পারে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "এক নিউটন বল কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "দ্রুত দরজা খোলার জন্য বল কোথায় প্রয়োগ করতে হয়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-09",
+          "topic_name": "কৌণিক গতিশক্তি",
+          "question_text": "পাথরখণ্ডটির ঘূর্ণন গতিশক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "ছাত্রটি সফল হতে পেরেছিল কি-না? গাণিতিকভাবে বিশ্লেষণ করে যুক্তি দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "পৃথিবীর ভর $6 \\times 10^{24} \\text{ kg}$ এবং ব্যাসার্ধ $6400 \\text{ km}$। একটি চিত্রে দেখানো হলো একটি কৃত্রিম উপগ্রহ কোনো এক সময় B এবং পরবর্তীতে C অবস্থানে আবর্তন করে। চিত্রে A-B দূরত্ব $600 \\text{ km}$ এবং B-C দূরত্ব $250 \\text{ km}$। $[G = 6.67 \\times 10^{-11} \\text{ Nm}^2\\text{kg}^{-2}]$",
+        "has_image": true,
+        "image_description": "Diagram showing Earth, positions A, B, C and satellite orbit",
+        "image_url": "images/cq_BB25_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "কৃত্রিম উপগ্রহ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "পৃথিবীর কেন্দ্রে বস্তুর ভরকেন্দ্র ও ভারকেন্দ্র দুটোই পাওয়া যাবে কি-না? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "'A' বিন্দুতে মহাকর্ষীয় প্রাবল্য নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "কোন অবস্থানে উপগ্রহটি স্থির হবে? গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "একটি ইঞ্জিন $1200 \\text{ kg}$ ভরের একটি গাড়িকে আনুভূমিকের সাথে $1.13^\\circ$ কোণে ঢালু ঘর্ষণবিহীন পথে $72 \\text{ km h}^{-1}$ ধ্রুব বেগে $5 \\text{ m}$ উপরে তুলতে পারে। ধরি, $g = 9.8 \\text{ m s}^{-2}$। এক ব্যক্তি উক্ত ইঞ্জিনটির সাহায্যে $100 \\text{ m}$ গভীর একটি কুয়া থেকে $5$ মিনিটে $1000 \\text{ kg}$ পানি তোলার কাজে ব্যবহার করতে চাইলেন।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "পৃথিবীর আহ্নিক গতি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "ভরবেগ, ভরবেগের সংরক্ষণ সূত্র ও সংঘর্ষ",
+          "question_text": "অসম ভরের দুটি বস্তুর ভরবেগ সমান হলে গতিশক্তিও সমান হবে কি? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "গাড়িটি তুলতে ইঞ্জিনটির কৃতকাজ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-06",
+          "topic_name": "কুয়া ও চৌবাচ্চা",
+          "question_text": "ঐ ব্যক্তি পানি তুলতে সক্ষম হয়েছিলেন কি-না? গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "চিত্রে প্রদর্শিত P-তার ও Q-তার দুটিতে $98 \\text{ N}$ ওজনের ভার ঝুলিয়ে উভয় তারে দৈর্ঘ্য প্রসারণ পাওয়া গেল যথাক্রমে $3.1 \\times 10^{-3} \\text{ m}$ এবং $4.8 \\times 10^{-3} \\text{ m}$। চিত্রে উভয় তারের আদি দৈর্ঘ্য $5 \\text{ m}$ এবং ব্যাস $1 \\text{ mm}$। P তারের ইয়ং গুণাঙ্ক $Y_P = 2 \\times 10^{11} \\text{ Nm}^{-2}$।",
+        "has_image": true,
+        "image_description": "Diagram showing wires P and Q with loads",
+        "image_url": "images/cq_BB25_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "ধাতব বন্ধন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-04",
+          "topic_name": "পয়সনের অনুপাত",
+          "question_text": "'তামার পয়সনের অনুপাত $0.31$'– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-06",
+          "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
+          "question_text": "P তারটি প্রসারিত করতে কী পরিমাণ কাজ করতে হয়েছে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "উদ্দীপক অনুসারে বিল্ডিং তৈরি করার জন্য কোন তারটি বেশি উপযোগী হবে? গাণিতিকভাবে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "একটি গতিশীল $0.2 \\text{ kg}$ ভরের বস্তুুকণার কোনো এক সময়ে সরণ $\\vec{r} = (\\hat{i} \\cos 3t + \\hat{j} \\sin 3t) \\text{ m}$। বস্তুটি সরল ছন্দিত স্পন্দনে দুলছে যার বল ধ্রুবক = $1.8 \\text{ Nm}^{-1}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-01",
+          "topic_name": "সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ",
+          "question_text": "আদিদশা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "সরল দোলকের কৌণিক বিস্তার $4^\\circ$-এর মধ্যে রাখা হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "স্পন্দনশীল বস্তুটির কম্পাঙ্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-04",
+          "topic_name": "সরল ছন্দিত গতি সম্পন্ন কণার শক্তি",
+          "question_text": "উদ্দীপকে উল্লেখিত সরণে বস্তুটির গতিশক্তি ও বিভবশক্তি সমান হবে কি-না – গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "$600 \\text{ kg}$ ভরের একটি গাড়ির চাকার ব্যাস $1.2 \\text{ m}$ এবং চাকাটি $15$ সেকেন্ডে $50$ বার ঘূর্ণন সম্পন্ন করতে পারে। গাড়িটি $3600 \\text{ kg m s}^{-1}$ ভরবেগ নিয়ে চিত্রে প্রদর্শিত একটি রাস্তার বাঁক অতিক্রম করছিল। চিত্রে রাস্তার প্রস্থ $5 \\text{ m}$, উচ্চতার পার্থক্য $0.2 \\text{ m}$ এবং বাঁকের ব্যাসার্ধ $140 \\text{ m}$।",
+        "has_image": true,
+        "image_description": "Diagram of a banked road and car wheel info",
+        "image_url": "images/cq_BB25_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "কৌণিক বেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "বালির উপর দিয়ে সহজে হাঁটা যায় না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "চাকাটির প্রান্তের রৈখিক বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "গাড়িটি নিরাপদে বাঁকটি অতিক্রম করতে পারবে কি-না – গাণিতিকভাবে যাচাই করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "নিচের চিত্রে A ও B দুটি সিলিন্ডারের একটির মধ্যে নাইট্রোজেন গ্যাস ও অন্যটিতে একটি অজানা গ্যাস নেওয়া হলো। সিলিন্ডার A: $P = 630 \\text{ kPa}$, $C_{rms} = 150 \\text{ ms}^{-1}$, $V = 10^{-3} \\text{ m}^3$, $n = 3 \\text{ mole}$। সিলিন্ডার B: $P = 825 \\text{ kPa}$, $C_{rms} = 171.5 \\text{ ms}^{-1}$, $V = 10^{-3} \\text{ m}^3$, $n = 3 \\text{ mole}$।",
+        "has_image": true,
+        "image_description": "Diagram showing two cylinders A and B with gas properties",
+        "image_url": "images/cq_BB25_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "শক্তির সমবিভাজন নীতি কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "গ্যাস ও বাষ্পের মধ্যে পার্থক্য লেখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "'A' সিলিন্ডারের গ্যাসের তাপমাত্রা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "উভয় সিলিন্ডারে একই গ্যাস রাখা ছিল কি-না– গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

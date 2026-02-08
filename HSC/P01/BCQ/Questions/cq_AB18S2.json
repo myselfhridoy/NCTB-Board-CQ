@@ -186,10 +186,10 @@
         {
           "label": "ক",
           "type": "জ্ঞানমূলক",
-          "chapter_no": 4,
-          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
-          "topic_code": "T-01",
-          "topic_name": "নিউটনের সূত্র",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
           "question_text": "কৌণিক ত্বরণ কাকে বলে?",
           "marks": 1,
           "answer": {
@@ -260,7 +260,7 @@
     {
       "question_no": 4,
       "stem": {
-        "text": "ব্যাডমিন্টন খেলার রেফারি বাঁশি বাজিয়ে $Y_1 = 10 \sin \pi (200t - \frac{x}{3.4})$ তরঙ্গের শব্দ সৃষ্টি করে খেলোয়াড়দের মনোযোগ আকর্ষণ করল। শব্দটি $40 m$ দূরের একটি দেয়ালে প্রতিফলিত হয়ে রেফারির কাছে ফিরে আসল। রেফারি থেকে দেয়ালের দিকে $13.6 m$ দূরে রীতা এবং $18.7 m$ দূরে মিতা নামের খেলোয়াড় দাঁড়িয়ে ছিল।",
+        "text": "ব্যাডমিন্টন খেলার রেফারি বাঁশি বাজিয়ে $Y_1 = 10 \\sin \\pi (200t - \\frac{x}{3.4})$ তরঙ্গের শব্দ সৃষ্টি করে খেলোয়াড়দের মনোযোগ আকর্ষণ করল। শব্দটি $40 m$ দূরের একটি দেয়ালে প্রতিফলিত হয়ে রেফারির কাছে ফিরে আসল। রেফারি থেকে দেয়ালের দিকে $13.6 m$ দূরে রীতা এবং $18.7 m$ দূরে মিতা নামের খেলোয়াড় দাঁড়িয়ে ছিল।",
         "has_image": false,
         "image_description": "",
         "image_url": ""
@@ -426,7 +426,7 @@
     {
       "question_no": 6,
       "stem": {
-        "text": "নিচের সারণিটি লক্ষ কর:\\\n\\begin{tabular}{|c|c|c|}\n\\hline\nস্থান & শুষ্ক বাল্ব থার্মোমিটার পাঠ & সিক্ত বাল্ব থার্মোমিটার পাঠ \\\\\n\\hline\nকুমিল্লা & $20^{\\circ}C$ & $12^{\\circ}C$ \\\\\n\\hline\n\\end{tabular}\\\n\\begin{tabular}{|c|c|c|}\n\\hline\nস্থান & বায়ুর তাপমাত্রা & শিশিরাঙ্ক \\\\\n\\hline\nখুলনা & $20^{\\circ}C$ & $8.5^{\\circ}C$ \\\\\n\\hline\n\\end{tabular}\\\n\\begin{tabular}{|c|c|}\n\\hline\nতাপমাত্রা & সম্পৃক্ত জলীয় বাষ্পচাপ \\\\\n\\hline\n$5.68^{\\circ}C$ & $6.856 \\times 10^{-3} mHgP$ \\\\\n\\hline\n$8^{\\circ}C$ & $8.04 \\times 10^{-3} mHgP$ \\\\\n\\hline\n$9^{\\circ}C$ & $8.61 \\times 10^{-3} mHgP$ \\\\\n\\hline\n$20^{\\circ}C$ & $17.6 \\times 10^{-3} mHgP$ \\\\\n\\hline\n\\end{tabular}",
+        "text": "নিচের সারণিটি লক্ষ কর:\\n\\begin{tabular}{|c|c|c|}\\n\\hline\\nস্থান & শুষ্ক বাল্ব থার্মোমিটার পাঠ & সিক্ত বাল্ব থার্মোমিটার পাঠ \\\\\\n\\hline\\nকুমিল্লা & $20^{\\circ}C$ & $12^{\\circ}C$ \\\\\\n\\hline\\n\\end{tabular}\\n\\begin{tabular}{|c|c|c|}\\n\\hline\\nস্থান & বায়ুর তাপমাত্রা & শিশিরাঙ্ক \\\\\\n\\hline\\nখুলনা & $20^{\\circ}C$ & $8.5^{\\circ}C$ \\\\\\n\\hline\\n\\end{tabular}\\n\\begin{tabular}{|c|c|}\\n\\hline\\nতাপমাত্রা & সম্পৃক্ত জলীয় বাষ্পচাপ \\\\\\n\\hline\\n$5.68^{\\circ}C$ & $6.856 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n$8^{\\circ}C$ & $8.04 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n$9^{\\circ}C$ & $8.61 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n$20^{\\circ}C$ & $17.6 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n\\end{tabular}",
         "has_image": false,
         "image_description": "",
         "image_url": ""

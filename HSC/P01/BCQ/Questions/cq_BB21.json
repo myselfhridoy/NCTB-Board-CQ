@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "বরিশাল বোর্ড",
+    "year": "২০২১",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "নিচে তিনটি ভেক্টর দেওয়া আছে :\n$\\vec{A}=2\\hat{i}+3\\hat{j}+4\\hat{k}, \\quad \\vec{B}=5\\hat{i}-\\hat{j}+6\\hat{k}, \\quad \\vec{C}=4\\hat{i}+2\\hat{j}-3\\hat{k}$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "অবস্থান ভেক্টর কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "$\\hat{i}$ ও $\\hat{j}$ এর মধ্যবর্তী কোণ $90^{\\circ}$ এর চেয়ে কম হওয়া সম্ভব নয়– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "$\\vec{A}$ এবং $\\vec{C}$ এর মধ্যবর্তী কোণ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "ভেক্টর $\\vec{A}$ এবং $\\vec{B}$ পরস্পর একই দিকে ক্রিয়াশীল কি-না তা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "নিচের উদ্দীপকটি লক্ষ্য কর যেখানে ত্রিমাত্রিক স্থানাঙ্ক ব্যবস্থায় $\\mathrm{A}(3,3,1)$ এবং $\\mathrm{B}(4,-5,1)$ দুটি বিন্দু।",
+        "has_image": true,
+        "image_description": "ত্রিমাত্রিক স্থানাঙ্ক ব্যবস্থায় দুটি বিন্দুর অবস্থান ভেক্টর সংক্রান্ত চিত্র।",
+        "image_url": "images/cq_BB21_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "সরণ ভেক্টর কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "দুটি ভেক্টরের ভেক্টর গুণন বিনিময় সূত্র মেনে চলে না– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "$\\vec{\\mathrm{AB}}$ এর সমান্তরাল একটি একক ভেক্টর নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "$\\mathrm{O}, \\mathrm{A}$ ও $\\mathrm{B}$ বিন্দুসমূহের সংযোগে গঠিত ত্রিভুজটি একটি সমকোণী ত্রিভুজ কি-না– গাণিতিক বিশ্লেষণপূর্বক তোমার মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "করিম $400 \\mathrm{~g}$ ভরের বস্তু অণুভূমিকের সাথে $30^{\\circ}$ কোণে $11.76 \\mathrm{~J}$ গতিশক্তি প্রয়োগে $\\mathrm{M}$ থেকে $\\mathrm{A}$ বিন্দুতে তুলে নিল। পরবর্তীতে সে বস্তুটিকে আরও বল প্রয়োগে $2 \\mathrm{~m}$ দূরত্বে $\\mathrm{B}$ বিন্দুতে নিয়ে গেল। পুনরায় বস্তুটিকে $\\mathrm{A}$ বিন্দুতে এনে আনত তল $\\mathrm{AM}$ বরাবর ছেড়ে দিল। এখানে ঘর্ষণবল উপেক্ষণীয়। $\\mathrm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}$। এখানে $\\mathrm{MN}=\\mathrm{ON}=\\mathrm{OP}=\\mathrm{PQ}=\\mathrm{QR}=\\mathrm{AR}$",
+        "has_image": true,
+        "image_description": "আনত তলে বস্তুর গতি ও বিভিন্ন বিন্দুর অবস্থান নির্দেশক চিত্র।",
+        "image_url": "images/cq_BB21_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "কর্মদক্ষতা কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-05",
+          "topic_name": "স্প্রিং",
+          "question_text": "একটি আদর্শ স্প্রিং এর বল ধ্রুবক $125 \\mathrm{~N} \\mathrm{~m}^{-1}$ বলতে কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "চিত্রে MAB পথের মোট দূরত্ব কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "$\\mathrm{R}$ এবং $\\mathrm{P}$ বিন্দুতে বস্তুটির মোট শক্তি সমান কি-না গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "নিচের উদ্দীপকটি লক্ষ্য কর যেখানে $\\mathrm{BA}$ এবং $\\mathrm{BC}$ আনত তল। $\\mathrm{BA}$ তলের ঘর্ষণবল $1.5 \\mathrm{~N} \\mathrm{~kg}^{-1}$ এবং $\\mathrm{BC}$ তলে ঘর্ষণ বল $1 \\mathrm{~N} \\mathrm{~kg}^{-1}$। $3 \\mathrm{~kg}$ ভরের একটি ধাতব গোলক $\\mathrm{B}$ বিন্দুতে রাখা আছে।",
+        "has_image": true,
+        "image_description": "দুটি ভিন্ন আনত তল BA এবং BC এর চিত্র এবং গোলকের অবস্থান।",
+        "image_url": "images/cq_BB21_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-05",
+          "topic_name": "স্প্রিং",
+          "question_text": "প্রত্যয়নী বল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "ঘর্ষণ বল একটি অসংরক্ষণশীল বল– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "$\\mathrm{B}$ বিন্দুতে থাকা গোলকটির বিভবশক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "গোলকটিকে একবার $\\mathrm{BA}$ পথে এবং আর একবার $\\mathrm{BC}$ পথে পড়তে দেওয়া হলো। $\\mathrm{A}$ বিন্দু ও $\\mathrm{C}$ বিন্দুতে গোলকটির গতিশক্তি সমান হবে কি-না– গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "$\\mathrm{A}$ ও $\\mathrm{B}$ দুটি হ্রদের তলদেশ থেকে একটি বায়ু বুদবুদ পানির উপরিতলে উঠলে এর আয়তন চারগুণ হয়। $\\mathrm{A}$ ও $\\mathrm{B}$ হ্রদের পানির ঘনত্ব যথাক্রমে $1000 \\mathrm{~kg} \\mathrm{~m}^{-3}$ ও $1100 \\mathrm{~kg} \\mathrm{~m}^{-3}$। বায়ুমণ্ডলের চাপ $10^{5} \\mathrm{~Pa}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "সার্বজনীন গ্যাস ধ্রুবক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "কোনো স্থানের আপেক্ষিক আর্দ্রতা $40\\%$ বলতে কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "$\\mathrm{A}$ হ্রদের তলদেশে চাপ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "$\\mathrm{A}$ ও $\\mathrm{B}$ হ্রদের মধ্যে কোনটির গভীরতা বেশি তা গাণিতিক বিশ্লেষণের মাধ্যমে নির্ধারণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "নিচের চিত্রে অতি নগণ্য ভরের একটি স্প্রিংকে অণুভূমিক মসৃণ টেবিলের উপর রেখে এক প্রান্ত দৃঢ় অবলম্বনে আটকিয়ে অপর প্রান্তে $3.5 \\mathrm{~kg}$ ভর যুক্ত করা হয়েছে। বস্তুটিকে সাম্যাবস্থান হতে $3 \\mathrm{~m}$ সরণ ঘটালে স্প্রিংটিতে $24 \\mathrm{~N}$ প্রত্যয়নী বল ক্রিয়া করে।",
+        "has_image": true,
+        "image_description": "অনুভূমিক স্প্রিং ও ভরের ব্যবস্থা।",
+        "image_url": "images/cq_BB21_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "কালিক পর্যায়ক্রম কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "গ্রীষ্মকালে দোলক ঘড়ি ধীরে চলে– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-05",
+          "topic_name": "স্প্রিং",
+          "question_text": "প্রসারিত অবস্থা হতে ছেড়ে দিলে স্প্রিংটি কত কম্পাঙ্কে স্পন্দিত হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-05",
+          "topic_name": "স্প্রিং",
+          "question_text": "স্প্রিং এ সংযুক্ত ভরের কীরূপ পরিবর্তন করলে স্প্রিংটি সেকেন্ড দোলকে পরিণত হবে? গাণিতিক বিশ্লেষণ দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "কোনো একদিন ঢাকা ও কুমিল্লার তাপমাত্রা যথাক্রমে $24^{\\circ} \\mathrm{C}$ ও $26^{\\circ} \\mathrm{C}$ এবং শিশিরাঙ্ক যথাক্রমে $15.8^{\\circ} \\mathrm{C}$ ও $20^{\\circ} \\mathrm{C}$। $15^{\\circ} \\mathrm{C}, 16^{\\circ} \\mathrm{C}, 20^{\\circ} \\mathrm{C}, 24^{\\circ} \\mathrm{C}$ ও $26^{\\circ} \\mathrm{C}$ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে $12.81,13.63,17.54, 22.38$ ও $25.21 \\mathrm{~mm} \\mathrm{~Hg}$ এবং $24^{\\circ} \\mathrm{C}$ তাপমাত্রায় গ্লেসিয়ার এর উৎপাদক $1.72$.",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "প্রমাণ চাপ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "মোলার গ্যাস ধ্রুবক $8.31 \\mathrm{~J} \\mathrm{mole}^{-1} \\mathrm{K}^{-1}$ বলতে কী বুঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "উল্লিখিত দিনে ঢাকায় সিক্ত ও শুষ্ক বাল্ব আপেক্ষিক আর্দ্রতামাপক যন্ত্রের সিক্ত বাল্ব থার্মোমিটারের তাপমাত্রা কত ছিল?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "উদ্দীপকে উল্লিখিত স্থান দুটির মধ্যে কোথায় বেশি স্বস্তিবোধ হবে– গাণিতিকভাবে আর্দ্রতা বিশ্লেষণের মাধ্যমে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "নিচের চিত্র-১ এ একটি বৃত্তাকার চাকতির কেন্দ্র দিয়ে পাতের অভিলম্বভাবে $\\mathrm{AB}$ অক্ষ দণ্ডটি এবং চিত্র-২ এ চাকতির পাতের সমতলে ব্যাসের মধ্যদিয়ে $\\mathrm{PQ}$ অক্ষ দণ্ডটি আছে। প্রতিটি পাতের ভর $\\mathrm{m}=2 \\mathrm{~kg}$ এবং ব্যাসার্ধ $\\mathrm{r}=1 \\mathrm{~m}$.",
+        "has_image": true,
+        "image_description": "বৃত্তাকার চাকতির বিভিন্ন অক্ষের সাপেক্ষে ঘূর্ণন চিত্র।",
+        "image_url": "images/cq_BB21_fig05.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "বল কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "রাস্তার বাঁকে রাস্তার ভিতরের প্রান্ত হতে বাইরের প্রান্ত উঁচু রাখা হয়– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "$\\mathrm{AB}$ অক্ষের সাপেক্ষে চাকতির জড়তার ভ্রামকের মান বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "পাত দুটিতে সমপরিমাণ টর্ক প্রয়োগ করলে এদের মধ্যে একই ঘূর্ণন সৃষ্টি হবে কি? গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

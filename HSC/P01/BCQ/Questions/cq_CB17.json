@@ -263,7 +263,7 @@
         "text": "$2m$ বাহুবিশিষ্ট ABCD বর্গক্ষেত্রের কেন্দ্র O এবং উক্ত বিন্দুতে $1kg$ ভরের বস্তু রাখা আছে। A, B, C ও D বিন্দুতে যথাক্রমে $4kg, 4kg, 2kg$ ও $2kg$ ভরের চারটি বস্তু রাখা আছে। $[G=6.673 \times 10^{-11} Nm^2kg^{-2}]$",
         "has_image": true,
         "image_description": "ABCD square with masses at corners",
-        "image_url": "images/cq_CB17_fig01.jpg"
+        "image_url": "images/cq_CB17_fig01.png"
       },
       "sub_questions": [
         {
@@ -595,7 +595,7 @@
         "text": "চিত্রে একটি সরল দোলক যার সুতার দৈর্ঘ্য $1.1m$ এবং ববের ব্যাসার্ধ $1.5 cm$, ভর $60 gm$ এবং OA সাম্যাবস্থান। চিত্রে $QC = 3cm$ এবং $PB = 2cm$ $[g = 9.8 ms^{-2}]$",
         "has_image": true,
         "image_description": "Simple pendulum diagram with points A, B, C",
-        "image_url": "images/cq_CB17_fig03.jpg"
+        "image_url": "images/cq_CB17_fig03.png"
       },
       "sub_questions": [
         {

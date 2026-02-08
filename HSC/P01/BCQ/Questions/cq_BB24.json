@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "বরিশাল বোর্ড",
+    "year": "২০২৪",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "একজন সাঁতারু AB এর সাথে $10^\\circ$ কোণে $16 \\text{ km h}^{-1}$ বেগে সাঁতার কাটা শুরু করলো। নদীতে স্রোতের বেগ $8 \\text{ km h}^{-1}$। অপর সাঁতারু একই নদীতে একই বেগে স্রোতের সাথে $60^\\circ$ কোণে সাঁতার কাটা শুরু করলো।",
+        "has_image": true,
+        "image_description": "Illustration of the swimmer's path and angles",
+        "image_url": "images/cq_BB24_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "আয়ত একক ভেক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-03",
+          "topic_name": "ভেক্টরের উপাংশ",
+          "question_text": "লন রোলার ঠেলার চেয়ে টানা সহজ।— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "প্রথম সাঁতারু B বিন্দুতে পৌঁছানোর উদ্দেশ্যে AC বরাবর রওয়ানা দিয়ে D বিন্দুতে পৌঁছালো। BD দূরত্ব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "সাঁতারুদ্বয়ের মধ্যে কোন সাঁতারু আগে অপর পাড়ে পৌঁছাবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে A ও B দুটি ঘনকাকৃতি গ্যাসপাত্র যাদের প্রতিটি বাহুর দৈর্ঘ্য $20 \\text{ cm}$ এবং উভয় পাত্রে গ্যাসের চাপ $24 \\times 10^5 \\text{ Nm}^{-2}$।",
+        "has_image": true,
+        "image_description": "Illustration of two cubic gas containers A and B",
+        "image_url": "images/cq_BB24_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "আপেক্ষিক আর্দ্রতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "আপেক্ষিক আর্দ্রতা 100% হলে শিশিরাঙ্ক কেমন হবে?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "তাপমাত্রা স্থির রেখে A পাত্রের বাহুর দৈর্ঘ্য অর্ধেক করা হলে পরিবর্তিত চাপ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "A ও B উভয় পাত্রের প্রাথমিক অবস্থায় গ্যাসের $C_{\\text{rms}}$ বেগের মান সমান হবে কিনা— গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "$0.5 \\text{ kg}$ ভরের কোনো বস্তুকে $80 \\text{ cm}$ লম্বা একটি সুতার সাহায্যে অনুভূমিক বৃত্তাকার পথে ঘুরানো হচ্ছে। বস্তুটি স্থির অবস্থা থেকে সমকৌণিক ত্বরণে ঘুরা আরম্ভ করে 2 মিনিট পর থেকে প্রতি মিনিটে 120 বার ঘুরছে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "কৌণিক ভরবেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "ক্রিয়া ও প্রতিক্রিয়ার কারণে কোনো বস্তুর সাম্যাবস্থার সৃষ্টি হয় না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "2 মিনিট পর বস্তুটির উপর কি পরিমাণ টর্ক ক্রিয়া করছে তার মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "বস্তুর উপর টানের মান যদি পূর্বের টানের তিনগুণ করা হয় তাহলে কৌণিক বেগের কী পরিবর্তন হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "একটি পাত্র বিশুদ্ধ পানি দ্বারা পূর্ণ করা হলো। পাত্রের গভীরতা $20 \\text{ m}$। $0.08 \\text{ m}^3$ আয়তনের একটি বায়ু বুদবুদ পাত্রের তলদেশ থেকে উপরে উঠে এলো। পরবর্তীতে পানির পরিবর্তে পাত্রটি অন্য একটি তরল দ্বারা পূর্ণ করা হলে বুদবুদ তলদেশ থেকে উপরে আসলে এর ব্যাসার্ধ 2 গুণ হয়ে যায়। [ভূ-পৃষ্ঠে বায়ুমণ্ডলের চাপ $10^5 \\text{ Nm}^{-2}$ এবং পানির ঘনত্ব $1000 \\text{ kgm}^{-3}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "আদর্শ গ্যাস কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "কোনো স্থানের আপেক্ষিক আর্দ্রতা 85% বলতে কী বোঝ? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "বিশুদ্ধ পানির ক্ষেত্রে পাত্রের উপরিপৃষ্ঠে বুদবুদের আয়তন কত হবে? নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "উদ্দীপকে ব্যবহৃত তরলটি পানির চেয়ে ভারী নাকি হালকা তা গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "একজন পদার্থবিদ পৃথিবীর ঘূর্ণনের সাথে অভিকর্ষজ ত্বরণ 'g' এর সম্পর্ক স্থাপনের জন্য $70 \\text{ kg}$ ভরের একটি বস্তুকে ভূ-পৃষ্ঠে $70^\\circ$ উত্তর অক্ষাংশে রাখলেন। পৃথিবীর নিজ অক্ষে 24 ঘণ্টায় একবার আবর্তন করে। (পৃথিবীর ভর $M=6 \\times 10^{24} \\text{ kg}$, ব্যাসার্ধ $R=6.4 \\times 10^6 \\text{ m}$, মহাকর্ষীয় ধ্রুবক $G=6.673 \\times 10^{-11} \\text{ Nm}^2\\text{kg}^{-2}$, অভিকর্ষজ ত্বরণ $g=9.77 \\text{ ms}^{-2}$)",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "মহাকর্ষীয় বিভব কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "চন্দ্র ও পৃথিবীর মধ্যে কোন ক্ষেত্রে মুক্তিবেগ বেশি? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "পৃথিবী ঘূর্ণনের জন্য $70^\\circ$ উত্তর অক্ষাংশে বস্তুটির রৈখিক বেগ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "আবর্তনজনিত কারণে উদ্দীপকে উল্লিখিত স্থানে বস্তুটির ওজন বাড়বে না কমবে গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "দুটি সরল ছন্দিত গতিতে স্পন্দিত বস্তুর একটির গতির সমীকরণ $x = 8 \\cos \\left(6\\pi t + \\frac{\\pi}{2}\\right)$ মিটার এবং অপরটির গতির সমীকরণ $x = 10 \\sin (12 \\pi t)$ মিটার (উভয় বস্তুর ভর সমান)।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "পর্যায়কাল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "ফাঁকা দোলকপিণ্ডকে তরল দ্বারা অর্ধপূর্ণ করলে দোলকটি ধীরে চলবে না দ্রুত চলবে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "2 sec পর সরলছন্দিত গতিতে স্পন্দিত ১ম বস্তুর বেগ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-04",
+          "topic_name": "সরল ছন্দিত গতি সম্পন্ন কণার শক্তি",
+          "question_text": "উভয় সরলছন্দিত গতিতে স্পন্দিত বস্তুর মোট শক্তি গাণিতিকভাবে তুলনা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "একটি তারের আদি দৈর্ঘ্য $826 \\text{ cm}$ এবং তারের ব্যাস $4 \\text{ mm}$, তারের ইয়ং এর গুণাঙ্ক $Y = 2 \\times 10^{11} \\text{ N/m}^2$। তারটির দৈর্ঘ্য $2 \\text{ mm}$ বৃদ্ধি করতে প্রয়োজনীয় ভর যুক্ত করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "ইয়ং এর গুণাঙ্ক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "ইস্পাতের ইয়ং এর গুণাঙ্ক $2 \\times 10^{11} \\text{ Nm}^{-2}$ বলতে কী বুঝায়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "কী পরিমাণ ভর যুক্ত করা হয়েছিল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-04",
+          "topic_name": "পয়সনের অনুপাত",
+          "question_text": "উদ্দীপক অনুসারে তারটির দৈর্ঘ্য বৃদ্ধি করাতে ব্যাস $0.02 \\text{ mm}$ হ্রাস পাওয়া সম্ভব কি? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "$W_1$ ও $W_2$ দুটি পানিপূর্ণ কুয়া যাদের গভীরতা যথাক্রমে $12 \\text{ m}$ ও $10 \\text{ m}$ এবং ব্যাস যথাক্রমে $1.8 \\text{ m}$ ও $2 \\text{ m}$। $X_1$ ও $X_2$ দুটি পাম্প যাদের কর্মদক্ষতা যথাক্রমে $75\\%$ ও $65\\%$। $X_1$ পাম্পটি $W_1$ কুয়াকে 24 মিনিটে পানিশূন্য করতে পারে। $X_2$ পাম্পের ক্ষমতা $2.5 \\text{ HP}$.",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "পরিবর্তনশীল বল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "মহাকর্ষ বল সংরক্ষণশীল বল— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-06",
+          "topic_name": "কুয়া ও চৌবাচ্চা",
+          "question_text": "$X_1$ পাম্পটির ক্ষমতা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-06",
+          "topic_name": "কুয়া ও চৌবাচ্চা",
+          "question_text": "$X_1$ ও $X_2$ পাম্প দ্বারা $W_2$ কুয়াকে একই সময়ে পানিশূন্য করা যাবে কিনা— গাণিতিকভাবে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

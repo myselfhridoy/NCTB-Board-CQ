@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "ঢাকা বোর্ড",
+    "year": "২০১৭",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "উপরের চিত্র অনুসারে OABC একটি আয়তক্ষেত্র। এর OA এবং OB বাহু দ্বারা দুটি ভেক্টর যথাক্রমে $\\vec{P} = \\hat{i} - 2\\hat{j} - \\hat{k}$ এবং $\\vec{Q} = 2\\hat{i} - 3\\hat{j} + 2\\hat{k}$ নির্দেশিত হয়েছে।",
+        "has_image": true,
+        "image_description": "Vectors OA and OB forming a rectangle OABC",
+        "image_url": "images/cq_DB17_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "গতির সাধারণ সমীকরণের ব্যবহার",
+          "question_text": "তাৎক্ষণিক বেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "পরবশ কম্পন ও অনুনাদের মধ্যে দুইটি পার্থক্য লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "উদ্দীপক অনুসারে $\\Delta OAB$ এর ক্ষেত্রফল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "উদ্দীপক অনুসারে $\\theta_1$ ও $\\theta_2$ এর মধ্যে কোনটি বড় তা গাণিতিক বিশ্লেষণের সাহায্যে বের কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "দুই বন্ধু সুমন ও রানা দেখলো যে, ভূ-পৃষ্ঠস্থ O বিন্দু হতে একটি বস্তুকে $32 ms^{-1}$ বেগে $30^\\circ$ কোণে নিক্ষেপ করায় $85m$ দূরে অবস্থিত $2m$ উঁচু AB দেয়ালের উপর দিয়ে বস্তুটি ভূ-পৃষ্ঠে পতিত হয়।",
+        "has_image": true,
+        "image_description": "Projectile motion over a wall",
+        "image_url": "images/cq_DB17_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "মহাকর্ষীয় বিভব কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "বল কীভাবে ক্রিয়াশীল থাকলে একটি বস্তু সমদ্রুতিতে গতিশীল থাকবে তা ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "O বিন্দু হতে নিক্ষেপের $1.2s$ সময় পরে নিক্ষিপ্ত বস্তুটির বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "উদ্দীপক অনুসারে নিক্ষেপণ কোণের পরিবর্তন করলে প্রাসটি AB দেয়ালে বাঁধা পাবে? গাণিতিক বিশ্লেষণসহ মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "একটি সুউচ্চ অফিস বিল্ডিং-এ আরোহীসহ সর্বোচ্চ $400kg$ ভরের ধারণ ক্ষমতা সম্পন্ন একটি লিফট দুইতলা হতে সাততলার মধ্যে ওঠা-নামা করে। বিল্ডিংটির প্রতিটি ফ্লোরের উচ্চতা $3m$। উক্ত অফিসের একজনের ভর $45kg$ এবং তিনি একদিন লিফটিতে চড়ে $2 ms^{-2}$ ত্বরণে উঠানামার সময় ওয়েট মেশিনে তার ওজন পরিমাপ করলেন। এক্ষেত্রে সর্বত্র অভিকর্ষজ ত্বরণের মান $9.8 ms^{-2}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-07",
+          "topic_name": "সান্দ্রতা এবং স্টোকসের সূত্র",
+          "question_text": "সান্দ্রতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "ভরবেগ, ভরবেগের সংরক্ষণ সূত্র ও সংঘর্ষ",
+          "question_text": "স্থিতিস্থাপক সংঘর্ষ ও অস্থিতিস্থাপক সংঘর্ষের মধ্যে পার্থক্য লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "লিফটটিকে দুই তলা হতে সাত তলায় $2 ms^{-1}$ সমবেগে উঠাতে সর্বনিম্ন কত অশ্ব ক্ষমতার একটি মোটরের প্রয়োজন হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "লিফট",
+          "question_text": "উক্ত ব্যক্তির ওজন ওয়েট মেশিনের সাহায্যে সেদিন সঠিকভাবে নির্ণয় করা গেল কি-না তা গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "উদ্দীপকে পৃথিবীর কেন্দ্র হতে দূরত্ব সাপেক্ষে অভিকর্ষজ ত্বরণের লেখচিত্র দেখান হয়েছে। পৃথিবীর ভর $M = 6.0 \\times 10^{24} kg$ এবং পৃথিবীর ব্যাসার্ধ, $R = 6400 km$।",
+        "has_image": true,
+        "image_description": "Graph showing gravitational acceleration g vs distance from center",
+        "image_url": "images/cq_DB17_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "গ্রাডিয়েন্ট কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "প্রাসের গতিপথের সর্বোচ্চ বিন্দুতে বেগ কি শূন্য? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "উদ্দীপকের A বিন্দুতে মহাকর্ষীয় প্রাবল্য নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "একটি সেকেন্ড দোলককে A অবস্থান হতে B অবস্থানে নিলে সেকেন্ড দোলকটি দ্রুত না ধীরে চলবে তা গাণিতিক বিশ্লেষণের মাধ্যমে উপস্থাপন কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "চিত্র অনুসারে A তারের আদি দৈর্ঘ্য $1m$ এবং প্রস্থচ্ছেদের ক্ষেত্রফল $1mm^2$। অপরদিকে $2m$ দৈর্ঘ্যের B তারের উপাদানের ইয়ং-এর গুণাঙ্ক $1.2 \\times 10^{11} Nm^{-2}$। তার দুটির একটি অপেক্ষাকৃত মোটা এবং অপরটি অধিক স্থিতিস্থাপক। প্রযুক্ত বলের সাথে তার দুটির দৈর্ঘ্য বৃদ্ধির লেখচিত্র চিত্রে প্রদর্শিত হয়েছে। A ও B দুটি তারের একটি দিয়ে বড় একটি বোঝাকে বেঁধে অপর তারটি দিয়ে তা টেনে নিয়ে যাওয়া হলো।",
+        "has_image": true,
+        "image_description": "Graph of Force vs Elongation for two wires A and B",
+        "image_url": "images/cq_DB17_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "বিট বা স্বরকম্প কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "একই জাতীয় দুটি ভেক্টরের যোগফল ও বিয়োগফলের মান সমান হতে পারে কিনা তা ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "A তারটির উপাদানের ইয়ং-এর গুণাঙ্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-06",
+          "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
+          "question_text": "তার দুটির কোনটিকে কোন কাজে ব্যবহার করা উপযোগী তা গাণিতিকভাবে বিশ্লেষণের মাধ্যমে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "কোনো সুউচ্চ পাহাড়ে নিয়ে যাওয়ায় একটি সরলদোলক $10$ ঘণ্টায় $11990$টি পূর্ণ দোলন সম্পন্ন করলো। কিন্তু ভূ-পৃষ্ঠে দোলকটি $3s$-এ একটি পূর্ণ দোলন সম্পন্ন করে। পৃথিবীর গড় ব্যাসার্ধ $6400km$ এবং সর্বোচ্চ শৃঙ্গ এভারেস্টের উচ্চতা $8.854km$। [ভূ-পৃষ্ঠে অভিকর্ষজ ত্বরণ $9.8 ms^{-2}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "পীড়ন কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-10",
+          "topic_name": "কৈশিকতা ও স্পর্শ কোণ",
+          "question_text": "কাচের তৈরি কৈশিক নলের মধ্যে দিয়ে পানির উপরে উঠার কারণ ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "সরলদোলকটির কার্যকর দৈর্ঘ্য নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "পাহাড়টি এভারেস্টের তুলনায় কত উচ্চ বা নিচু ছিল তা গাণিতিক যুক্তিসহ ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "বায়ু মাধ্যমে C সুরশলাকাটি A ও B দুটি সুরশলাকার সাথে $5$টি করে বিট উৎপন্ন করে। A সুরশলাকার কম্পাঙ্ক $385Hz$। B সুরশলাকা হতে বায়ু মাধ্যমে নির্গত তরঙ্গের সমীকরণ হলো—\n$y = 0.9 \\sin 10\\pi \\left(30t - \\frac{x}{4.8}\\right)$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "কৌণিক ভরবেগের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "রাস্তার বাঁকযুক্ত অংশ কোনদিকে কত কোণে ঢালু রাখা হয় তা কারণসহ ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "B সুরশলাকা হতে নির্গত তরঙ্গের তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "C সুরশলাকার কম্পাঙ্ক কীভাবে নিশ্চিত হওয়া যায় তা গাণিতিক যুক্তিসহ ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "কোনো একদিন ল্যাবরেটরিতে সিক্ত ও শুষ্ক বাল্ব আর্দ্রতা মাপক যন্ত্রের শুষ্ক বাল্বের পাঠ $30^\\circ C$ এবং সিক্ত বাল্বের পাঠ $28^\\circ C$ পাওয়া গেল। ভিন্ন ভিন্ন তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ ও গ্লেইসারের উৎপাদকের মান নিচের সারণি-১ এ প্রদত্ত হলো:\\\n\\textbf{সারণি-১}\\\n\\begin{tabular}{|c|c|c|} \\hline তাপমাত্রা & সম্পৃক্ত জলীয় বাষ্পচাপ (mHg) & গ্লেইসারের উৎপাদক \\\\ \\hline $26^\\circ C$ & $25.21 \\times 10^{-3}$ & $1.69$ \\\\ $28^\\circ C$ & $28.35 \\times 10^{-3}$ & $1.67$ \\\\ $29^\\circ C$ & $29.93 \\times 10^{-3}$ & $1.66$ \\\\ $30^\\circ C$ & $31.83 \\times 10^{-3}$ & $1.65$ \\\\ \\hline \\end{tabular}",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "সংরক্ষণশীল বলের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "স্থিতিস্থাপক সীমা ও স্থিতিস্থাপক ক্লান্তির মধ্যে প্রধান পার্থক্য কী?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "ল্যাবরেটরিতে ঐ দিন আপেক্ষিক আর্দ্রতা কত ছিল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "যদি ঐ দিন তাপমাত্রা হঠাৎ $1^\\circ C$ হ্রাস পায় তবে শিশিরাঙ্কের পরিবর্তন কিরূপ হবে তা গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

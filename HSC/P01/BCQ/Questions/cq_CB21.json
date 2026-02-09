@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "কুমিল্লা বোর্ড",
+    "year": "২০২১",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "চিত্রে $\\vec{F}_1$ ও $\\vec{F}_2$ বলদ্বয় $\\mathrm{O}$ বিন্দুতে ক্রিয়াশীল। $\\vec{F}_1=(-2\\hat{i}+3\\hat{j}+\\hat{k}) \\mathrm{N}$ এবং $\\vec{F}_2=(5\\hat{i}+2\\hat{j}+2\\hat{k}) \\mathrm{N}$",
+        "has_image": true,
+        "image_description": "Two vectors F1 and F2 acting at point O",
+        "image_url": "images/cq_CB21_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "একক ভেক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "একই তলে ক্রিয়াশীল দুটি ভেক্টরকে ঘড়ির কাঁটার দিকে এবং বিপরীত দিকে ঘোরালে লব্ধির দিক একই হবে কি-না ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "$\\vec{F}_1 \\times \\vec{F}_2$ বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "$\\vec{F}_1+\\vec{F}_2$ ও $\\vec{F}_1-\\vec{F}_2$ পরস্পর লম্ব কি-না যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "$1400 \\mathrm{~kg}$ ভরের একটি গাড়ি $20 \\mathrm{~m}$ প্রশস্ত কোনো বাঁকা রাস্তায় বাঁক নিচ্ছে। রাস্তার বাইরের প্রান্ত ভিতরের প্রান্ত অপেক্ষা $0.75 \\mathrm{~m}$ উঁচু। রাস্তার বাঁকের ব্যাসার্ধ $100 \\mathrm{~m}$। যাত্রীরা চালককে $8 \\mathrm{~m} \\mathrm{~s}^{-1}$ বেগে গাড়ি চালাতে অনুরোধ করে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "কৌণিক ভরবেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "বলের ঘাত ও ঘাত বল",
+          "question_text": "দেয়ালের সাথে ধাক্কা খেয়ে বল বিপরীত দিকে ফিরে আসে কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "রাস্তায় গাড়ির উপর ক্রিয়াশীল প্রতিক্রিয়া বল হিসেব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "গাড়ির চালক যাত্রীদের অনুরোধ রক্ষা করতে পারবেন কি-না যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "একজন ডুবুরী লবণাক্ত হ্রদের গভীরতা পরিমাপের জন্য $1.013 \\times 10^5 \\mathrm{~N} \\mathrm{~m}^{-2}$ চাপে $2.5 \\times 10^{-2} \\mathrm{~m}^3$ আয়তনের $1$ মোল হিলিয়াম গ্যাস ভর্তি বেলুনকে হ্রদের পৃষ্ঠ হতে তলদেশে নিয়ে যাওয়ায় এর আয়তন অর্ধেক হয়ে গেল। এতে ডুবুরী মন্তব্য করলেন “হ্রদের গভীরতা $9 \\mathrm{~m}$।” উল্লেখ্য গ্যাস ও হ্রদের পানির তাপমাত্রা একই। [হ্রদের পানির ঘনত্ব $1.1 \\times 10^3 \\mathrm{~kg} \\mathrm{~m}^{-3}, \\mathrm{~g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}, \\mathrm{R}=8.314 \\mathrm{~J} \\mathrm{~mol}^{-1} \\mathrm{~K}^{-1}$, হ্রদের পৃষ্ঠে বায়ুর চাপ $1.013 \\times 10^5 \\mathrm{~N} \\mathrm{~m}^{-2}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "ক্ষমতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-02",
+          "topic_name": "স্প্রিং বল দ্বারা কৃতকাজ",
+          "question_text": "কখন স্প্রিং দ্বারা ধনাত্মক কাজ সম্পন্ন হয়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "গ্যাসের তাপমাত্রা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "ডুবুরির মন্তব্যের সত্যতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "অত্যধিক ঠান্ডার কারণে ‘$\\mathrm{P}$’ স্থানে একটি সেকেন্ড দোলকের দোলনকাল এমনভাবে পরিবর্তিত হলো যে, ইহা দিনে $15$ সেকেন্ড দ্রুত চলে। পরে এই দোলকটিকে একই তাপমাত্রার অপর একটি স্থান ‘$\\mathrm{N}$’ তে নেয়া হলো। $\\mathrm{P}$ স্থানের চেয়ে $\\mathrm{N}$ স্থানে অভিকর্ষীয় ত্বরণ $5\\%$ কম। $[\\mathrm{g}=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}]$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "পর্যায়কাল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "সাম্যাবস্থান হতে সরণের পরিবর্তনে একটি ববের বেগ কীভাবে পরিবর্তিত হয়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "$\\mathrm{P}$ স্থানে সেকেন্ড দোলকটির পরিবর্তিত দোলনকাল হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "দোলকটিকে ‘$\\mathrm{N}$’ স্থানে সেকেন্ড দোলক হিসাবে ব্যবহারের জন্য কী পরিবর্তন করতে হবে? গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "একটি হাসপাতাল কর্তৃপক্ষ সবসময় রোগীদের কেবিনের আপেক্ষিক আর্দ্রতা $46\\%$ এর কম রাখার চেষ্টা করে। কিন্তু একদিন তাদের এসি নিয়ন্ত্রণ ইউনিট ঠিকমতো কাজ করছিল না। কর্তৃপক্ষ লক্ষ করলো যে তাদের হাসপাতালে শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটারের পাঠ দিচ্ছে যথাক্রমে $23{ }^{\\circ} \\mathrm{C}$ এবং $15.8{ }^{\\circ} \\mathrm{C}$, গ্লেইসার উৎপাদক $23{ }^{\\circ} \\mathrm{C}$ এ $1.74 ; 10{ }^{\\circ} \\mathrm{C}, 11{ }^{\\circ} \\mathrm{C}$ এবং $23{ }^{\\circ} \\mathrm{C}$ এ সম্পৃক্ত বাষ্পচাপ যথাক্রমে $9.2 \\mathrm{~mm}, 9.865 \\mathrm{~mm}$ এবং $21.105 \\mathrm{~mm} \\mathrm{Hg}$.",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "পরম শূন্য তাপমাত্রা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "শীতের সকালে শিশির দেখা যায় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "ঐ দিনের শিশিরাঙ্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "হাসপাতাল কর্তৃপক্ষ আপেক্ষিক আর্দ্রতা নিয়ে ঐ দিন কোনো সংকটে পড়েছিল কি-না? গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "একটি কূপের গভীরতা এবং ব্যাসার্ধ যথাক্রমে $10 \\mathrm{~m}$ এবং $3.44 \\mathrm{~m}$। একটি ইঞ্জিন $3$ মিনিটে কূপটি পানিশূন্য করতে পারে। পরে ইঞ্জিনটিকে $1200 \\mathrm{~kg}$ ভরের একটি গাড়ির ইঞ্জিন হিসেবে ব্যবহার করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "ব্যাংকিং কোণ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "উল্লম্ব তলে দ্রুত ঘূর্ণনরত পানি ভর্তি বালতির পানি পড়ে যায় না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-06",
+          "topic_name": "কুয়া ও চৌবাচ্চা",
+          "question_text": "কূপের ক্ষেত্রে ইঞ্জিন দ্বারা সম্পাদিত কাজের হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "$2.4$ সেকেন্ড সময়ের মধ্যে স্থিরাবস্থা থেকে $20 \\mathrm{~m} \\mathrm{~s}^{-1}$ বেগ অর্জন ঐ গাড়িটির পক্ষে সম্ভব কি-না? গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "$5 \\mathrm{~kg}$ ভর ও $30 \\mathrm{~cm}$ ব্যাসার্ধের একটি চাকা মিনিটে $60$ বার ঘুরছে। চাকাটিকে $5 \\mathrm{sec}$ এ থামানোর জন্য $0.45 \\mathrm{~N}-\\mathrm{m}$ টর্ক প্রয়োগ করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "কেন্দ্রমুখী বলের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "টর্ক ও বলের মধ্যে পার্থক্য লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "চাকাটির কৌণিক ভরবেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "উদ্দীপকে উল্লিখিত সময়ে চাকাটিকে থামানো যাবে কি-না যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "সরল ছন্দিত স্পন্দনে স্পন্দনশীল $0.5 \\mathrm{~kg}$ ভরের কণা সাম্যাবস্থান হতে $0.015 \\mathrm{~m}$ টেনে ছেড়ে দিলে এটি $0.12 \\mathrm{~m}$ বিস্তারে দোলে। এটির ব্যবকলনীয় সমীকরণ নিম্নরূপ: \\[\\frac{\\mathrm{d}^2 \\mathrm{x}}{\\mathrm{dt}^2}+4 \\pi^2 \\mathrm{x}=0\\]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "পরম আর্দ্রতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-02",
+          "topic_name": "স্প্রিং বল দ্বারা কৃতকাজ",
+          "question_text": "স্থিতিস্থাপক বল এবং অভিকর্ষীয় বল দ্বারা সম্পাদিত কাজের মধ্যে পার্থক্য ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "কণার দশা ধ্রুবক বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-04",
+          "topic_name": "সরল ছন্দিত গতি সম্পন্ন কণার শক্তি",
+          "question_text": "$\\mathrm{t}=1.125$ সেকেন্ড ও $\\mathrm{t}=1.625$ সেকেন্ডে যান্ত্রিক শক্তির নিত্যতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

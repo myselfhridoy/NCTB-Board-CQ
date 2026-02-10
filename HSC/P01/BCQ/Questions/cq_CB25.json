@@ -65,7 +65,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": ["Start with an **SVG Code instead of Crafts** of diagram visualizing the problem. The style must be a minimalist technical line drawing suitable for a textbook. Use clean black lines on a white background, similar to a hand-drawn exam diagram. \\n \\text{স্রোতের অনুকূলে নৌকার বেগ} = $v + u$ \\\\ \\text{স্রোতের প্রতিকূলে নৌকার বেগ} = $v - u$ \\\\ $\\tan{\\theta} = \\frac{u \\sin{\\alpha}}{v + u \\cos{\\alpha}}$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""
@@ -83,7 +83,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": ["Start with an **SVG Code instead of Crafts** of diagram visualizing the problem. The style must be a minimalist technical line drawing suitable for a textbook. Use clean black lines on a white background, similar to a hand-drawn exam diagram. \\n \\text{নদীপার হতে প্রয়োজনীয় সময়}, $t = \\frac{d}{v \\sin{\\alpha}}$ \\n \\text{সমবেগে অতিক্রান্ত দূরত্ব}, $s = vt$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""

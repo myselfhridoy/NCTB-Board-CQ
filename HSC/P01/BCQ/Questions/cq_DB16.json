@@ -180,7 +180,7 @@
         "text": "পৃথিবীর ব্যাসার্ধ $R = 6.4 \\times 10^6 \\text{ m}$ \\n ভূ-পৃষ্ঠে $g = 9.8 \\text{ ms}^{-2}$",
         "has_image": true,
         "image_description": "Diagram related to earth or gravity",
-        "image_url": "images/cq_DB16_fig03.jpg"
+        "image_url": "images/cq_DB16_fig03.png"
       },
       "sub_questions": [
         {
@@ -263,7 +263,7 @@
         "text": "$2 \\text{ kg}$ ভরের একটি বস্তুকে $10 \\text{ m}$ সুতার সাহায্যে O বিন্দুতে ঝুলানো হলো এবং A বিন্দু থেকে স্বাধীনভাবে দুলতে দেওয়া হলো। ঘর্ষণ ও বায়ুজনিত বাধা অগ্রাহ্য কর। \\n $g = 10 \\text{ ms}^{-2}$",
         "has_image": true,
         "image_description": "Pendulum diagram with points O, A, B, C",
-        "image_url": "images/cq_DB16_fig04.jpg"
+        "image_url": "images/cq_DB16_fig04.png"
       },
       "sub_questions": [
         {

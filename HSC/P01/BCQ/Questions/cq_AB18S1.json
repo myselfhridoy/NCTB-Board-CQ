@@ -314,7 +314,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": ["n-তম তলার উচ্চতা, $h_n = (n-1) x \\text{তলার উচ্চতা}$, পড়ন্ত বস্তুর সূত্র, $h = ut + \\frac{1/2}at^{2}$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""
@@ -332,7 +332,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": ["n-তম তলার উচ্চতা, $h_n = (n-1) x \\text{তলার উচ্চতা}$, বিভবশক্তি, $E_p = mgh$, গতিশক্তি, $E_k = \\frac{1/2}mv^{2}$, মোট শক্তি, $E = E_p + E_k$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""

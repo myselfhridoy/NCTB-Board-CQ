@@ -646,7 +646,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": ["$\\text{শিশিরাঙ্ক } \\theta = \\theta_1 - G(\\theta_1 - \\theta_2)$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""
@@ -664,7 +664,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": ["$\\textbf{সম্পৃক্ত বাষ্পচাপ নির্ণয়ের সূত্র:} \\\\ F = F_1 + \\frac{F_2 - F_1}{\\theta_2 - \\theta_1} \\times (\\theta - \\theta_1) \\\\ \\text{যেখানে:} \\\\ F = \\text{নির্ণেয় বাষ্পচাপ}, \\theta = \\text{নির্ণেয় তাপমাত্রা} \\\\ F_1 = \\text{চার্টে দেওয়া ঠিক আগের (ছোট) তাপমাত্রার বাষ্পচাপ} \\\\ \\theta_1 = \\text{চার্টে দেওয়া ঠিক আগের (ছোট) তাপমাত্রা} \\\\ F_2 = \\text{চার্টে দেওয়া ঠিক পরের (বড়) তাপমাত্রার বাষ্পচাপ} \\\\ \\theta_2 = \\text{চার্টে দেওয়া ঠিক পরের (বড়) তাপমাত্রা}$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""

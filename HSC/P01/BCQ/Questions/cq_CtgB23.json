@@ -147,7 +147,7 @@
           "marks": 3,
           "answer": {
             "full_explanation": "",
-            "final_answer": "",
+            "final_answer": "যাত্রা শুরুর 15 min পরে ট্রাকের বেগ, $v' = 20.75 ms^{-1}$",
             "steps": [],
             "has_image": false,
             "image_description": "",
@@ -165,7 +165,7 @@
           "marks": 4,
           "answer": {
             "full_explanation": "",
-            "final_answer": "",
+            "final_answer": "ট্রাকটিকে থামানোর জন্য প্রয়োজনীয় বলের মান হিসাব করা সম্ভব এবং বলের মান $47600 N$।",
             "steps": [],
             "has_image": false,
             "image_description": "",

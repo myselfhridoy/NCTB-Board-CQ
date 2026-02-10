@@ -97,7 +97,7 @@
         "text": "নিচে সমতল রাস্তায় দুটি মোটর গাড়ির বেগ বনাম সময় লেখচিত্র দেখানো হলো। গাড়ি দুটির ভর যথাক্রমে $500 \\text{ kg}$ ও $320 \\text{ kg}$। উভয় গাড়ির চাকা ও রাস্তায় ঘর্ষণজনিত বল $120 \\text{ N}$।",
         "has_image": true,
         "image_description": "Velocity vs Time graph of two cars",
-        "image_url": "images/cq_DB16_fig02.jpg"
+        "image_url": "images/cq_DB16_fig02.png"
       },
       "sub_questions": [
         {

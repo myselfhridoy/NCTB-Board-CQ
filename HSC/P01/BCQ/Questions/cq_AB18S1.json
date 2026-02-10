@@ -314,7 +314,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "টেনিস বলটি  $3.03 s$ পরে মাটিতে আঘাত করবে",
-            "steps": ["Write a **SVG Code** before the answer starts with every floor and measerment \\ n-তম তলার উচ্চতা, $h_n = (n-1) x \\text{তলার উচ্চতা}$ \\ পড়ন্ত বস্তুর সূত্র, $h = ut + \\frac{1/2}at^{2}$"],
+            "steps": ["Write a **SVG Code** before the answer starts with every floor and measerment where the position of baby on celling of 9th Floor \\ n-তম তলার উচ্চতা, $h_n = (n-1) x \\text{তলার উচ্চতা}$ \\ পড়ন্ত বস্তুর সূত্র, $h = ut + \\frac{1/2}at^{2}$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""

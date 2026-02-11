@@ -14,7 +14,7 @@
         "text": "একটি নৌকা সোজাসুজি $2.5 km$ প্রস্থের একটি নদীতে A অবস্থান হতে অন্য প্রান্তে AD বরাবর যাচ্ছে। স্থির পানিতে নৌকার বেগ $(3\\hat{i} + 3\\hat{j})ms^{-1}$ এবং স্রোতের বেগ $2\\hat{i} ms^{-1}$, অন্য একটি ক্ষেত্রে নৌকাটিকে AB বরাবর একই দ্রুতিতে চালানো হয়।",
         "has_image": true,
         "image_description": "River boat vector diagram",
-        "image_url": "images/cq_JB17_fig01.jpg"
+        "image_url": "images/cq_JB17_fig01.png"
       },
       "sub_questions": [
         {
@@ -97,7 +97,7 @@
         "text": "একজন গলফ খেলোয়ার চিত্র (i) ও চিত্র (ii) পরিস্থিতিতে বল গর্তে ফেলার জন্য O বিন্দু থেকে বলকে আঘাত করে।",
         "has_image": true,
         "image_description": "Golf player projectile diagrams",
-        "image_url": "images/cq_JB17_fig02.jpg"
+        "image_url": "images/cq_JB17_fig02.png"
       },
       "sub_questions": [
         {
@@ -263,7 +263,7 @@
         "text": "লেখচিত্রে দেখানো হলো চন্দ্রের কেন্দ্র থেকে দূরত্ব $r$, চন্দ্র পৃষ্ঠের ওপরের বিভিন্ন দূরত্বের সাথে 1000 kg ভরের একটি বস্তুর উপর চন্দ্রের অভিকর্ষজ বল F এর পরিবর্তন।",
         "has_image": true,
         "image_description": "Graph of Gravitational Force F vs distance r",
-        "image_url": "images/cq_JB17_fig03.jpg"
+        "image_url": "images/cq_JB17_fig03.png"
       },
       "sub_questions": [
         {
@@ -346,7 +346,7 @@
         "text": "একটি 250 N ওজনের ভারী সুষম ধাতব বার XY সমান দৈর্ঘ্যের দুটি তার A ও B দ্বারা অনুভূমিক তলে ঝুলানো আছে। যা চিত্রে দেখানো হয়েছে (অসামঞ্জস্যিত অবস্থা)। প্রতিটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল $2.5 \\times 10^{-7} m^2$। B তারের দৈর্ঘ্য বিকৃতি $2.5 \\times 10^{-4}$। চিত্র হতে দেখা যায় ভারটি A তার হতে 0.8m এবং B তার হতে 1.2m দূরে অবস্থিত। স্টিলের ইয়ং-এর গুণাংক = $2 \\times 10^{11} Pa$ এবং পিতলের ইয়ং-এর গুণাংক = $1 \\times 10^{11} Pa$।",
         "has_image": true,
         "image_description": "Metal bar hung by two wires",
-        "image_url": "images/cq_JB17_fig04.jpg"
+        "image_url": "images/cq_JB17_fig04.png"
       },
       "sub_questions": [
         {

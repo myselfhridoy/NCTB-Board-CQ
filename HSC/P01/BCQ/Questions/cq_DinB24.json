@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "দিনাজপুর বোর্ড",
+    "year": "২০২৪",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "স্রোতের অনুকূলে নৌকার বেগ $20 \\mathrm{~km} \\mathrm{~h}^{-1}$ এবং স্রোতের প্রতিকূলে নৌকার বেগ $10 \\mathrm{~km} \\mathrm{~h}^{-1}$। নদীর বিস্তার $2 \\mathrm{~km}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "কার্ল এর সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "$\\vec{r}=5 \\hat{i}+3 \\hat{j}$ একটি সীমাবদ্ধ ভেক্টর- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "A হতে সোজা অপর পাড়ের B বিন্দুতে পৌঁছাতে হলে নৌকাটিকে কোন দিকে চালনা করতে হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "নদী পার হওয়ার জন্য নৌকাটি যদি A বিন্দু হতে সোজাসুজি রওয়ানা করতো তাহলে নদী পার হতে পূর্বের চেয়ে সময় কম না বেশি লাগতো? গাণিতিক বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "P ও Q দুটি তারের দৈর্ঘ্য সমান কিন্তু ব্যাস যথাক্রমে $4 \\mathrm{~mm}$ ও $8 \\mathrm{~mm}$। তার দুটিকে সমান বলে টানার ফলে P তারের দৈর্ঘ্য বৃদ্ধি Q তারের দৈর্ঘ্য বৃদ্ধির তিনগুণ হয়। Q তারের পয়সনের অনুপাত $0.45$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "স্থিতিস্থাপক ক্লান্তি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "একটি মটর সাইকেল ও একটি প্রাইভেট কারের ভরবেগ সমান হলে কোনটির গতিশক্তি বেশি হবে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-04",
+          "topic_name": "পয়সনের অনুপাত",
+          "question_text": "Q তারের দৈর্ঘ্য $5\\%$ হ্রাস করা হলে এর ব্যাসার্ধ কতটুকু বৃদ্ধি পাবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "উদ্দীপকের কোন তারের স্থিতিস্থাপক সীমা বেশি? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "পানিপূর্ণ একটি চৌবাচ্চার ব্যাসার্ধ $2 \\mathrm{~m}$ ও উচ্চতা $20 \\mathrm{~m}$। চৌবাচ্চাটির অর্ধেক পানি শূন্য করতে $75\\%$ কর্মদক্ষতা সম্পন্ন একটি পাম্পের $20 \\mathrm{~min}$ সময় লাগে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "টর্ক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "সংরক্ষণশীল বল বস্তুর গতিপথের উপর নির্ভর করে না- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-06",
+          "topic_name": "কুয়া ও চৌবাচ্চা",
+          "question_text": "পাম্পটির ক্ষমতা H.P. এককে কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-06",
+          "topic_name": "কুয়া ও চৌবাচ্চা",
+          "question_text": "চৌবাচ্চার বাকি অর্ধেক পানি নিষ্কাশন করতে পাম্পটির একই সময় লাগবে কি-না- গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "$500 \\mathrm{~kg}$ ভরের একটি গাড়ি $100 \\mathrm{~m}$ ব্যাসার্ধের একটি রাস্তার মোড়ে $45 \\mathrm{~km} \\mathrm{~h}^{-1}$ বেগে বাঁক নিচ্ছে। ঐ স্থানে রাস্তাটি $8 \\mathrm{~m}$ চওড়া এবং ভিতরের কিনারা হতে বাইরের কিনারা $1 \\mathrm{~m}$ উঁচু।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "বলের প্রকারভেদ",
+          "question_text": "বল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "বলের প্রকারভেদ",
+          "question_text": "নিউক্লিয়াসের উপর ইলেকট্রনের দিকে প্রযুক্ত বল কী ধরনের বল? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "গাড়িটির উপর কেন্দ্রমুখী বল কত নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "রাস্তার মোড়ে গাড়িটি নিরাপদে বাঁক নিতে পারবে কি-না গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "রুপমের মামাবাড়ি ধাতব পেণ্ডুলামযুক্ত একটি দেয়াল ঘড়ির পেণ্ডুলামের দোলনকাল $2 \\mathrm{sec}$। ঘড়িটিকে পাহাড়ের চূড়ায় নিয়ে গেলে $100 \\mathrm{sec}$ সময় হারায়। পৃথিবীর ব্যাসার্ধ $R=6400 \\mathrm{~km}$ এবং $g=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "মুক্তিবেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "দোলকের গতি ও বৈদ্যুতিক পাখার গতির মধ্যে পার্থক্য কী? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "উদ্দীপকের আলোকে পাহাড়টির উচ্চতা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "ঘড়িটিকে পাহাড়ের উচ্চতার সমান গভীরতার খনিতে নিয়ে গেলে দোলনকালের কী পরিবর্তন হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "$\\vec{r}=a x \\hat{i}+y \\hat{j}+2 \\hat{k} ; \\vec{P}=2 \\hat{i}+3 \\hat{j}+4 \\hat{k}$ এবং $\\vec{Q}=4 \\hat{i}+4 \\hat{j}-\\hat{k}$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "অবস্থান ভেক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "$\\hat{j} \\times \\hat{k}$ একটি একক ভেক্টর- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "$a$ এর মান কত হলে $\\vec{r}$ ভেক্টরের ক্ষেত্রটি সলিনয়ডাল হবে নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "$\\vec{P} \\times \\vec{Q}$ ভেক্টর ক্ষেত্রটি ঘূর্ণনশীল না অঘূর্ণনশীল- গাণিতিক বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "একটি উপগ্রহ পৃথিবীকে 12 ঘণ্টায় বৃত্তাকার পথে পরিক্রমণ করতে পারে। পৃথিবীর ব্যাসার্ধ $6400 \\mathrm{~km}$ এবং $g=9.8 \\mathrm{~m} \\mathrm{~s}^{-2}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "পার্কিং কক্ষপথ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-02",
+          "topic_name": "কাঠিন্যের গুণাঙ্ক (Rigidity)",
+          "question_text": "ইস্পাতের কাঠিন্যের গুণাঙ্ক $7.8 \\times 10^{10} \\mathrm{~N} \\mathrm{~m}^{-2}$ বলতে কী বোঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "পৃথিবীর কেন্দ্র হতে উপগ্রহটি কত উচ্চতায় অবস্থান করছিল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "উচ্চতার পরিবর্তন না করে উপগ্রহটিকে কত বেগ প্রদান করলে এটি ভূ-স্থির উপগ্রহে পরিণত হবে- গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "কোনো একদিন কুয়াকাটায় একটি আর্দ্রতামাপক যন্ত্রে আর্দ্র ও শুষ্ক বাল্ব থার্মোমিটারের পাঠ পাওয়া গেল যথাক্রমে $25^{\\circ} \\mathrm{C}$ ও $28^{\\circ} \\mathrm{C}$। এখানে আপেক্ষিক আর্দ্রতা $70\\%$ এর কাছাকাছি হলেই বৃষ্টিপাত শুরু হয়। $22^{\\circ} \\mathrm{C}, 24^{\\circ} \\mathrm{C}$ ও $28^{\\circ} \\mathrm{C}$ তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে $19.83 \\times 10^{-3} \\mathrm{~m}$ পারদ চাপ, $22.38 \\times 10^{-3} \\mathrm{~m}$ পারদ চাপ ও $28.35 \\times 10^{-3} \\mathrm{~m}$ পারদ চাপ। $28^{\\circ} \\mathrm{C}$ তাপমাত্রায় গ্লেইসারের উৎপাদক $1.67$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "শক্তি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "``বর্ষাকাল অপেক্ষা শীতকাল আরামদায়ক''- আপেক্ষিক আর্দ্রতার আলোকে ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "ঐ দিন শিশিরাঙ্ক কত ছিল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "উক্ত দিনে কুয়াকাটায় বৃষ্টিপাতের সম্ভাবনা গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

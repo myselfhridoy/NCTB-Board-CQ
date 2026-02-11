@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "যশোর বোর্ড",
+    "year": "২০২৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "একটি ভেক্টর রাশি $\\vec{A} = 4x^3y^2 \\hat{i} - 4x^2y^3z \\hat{j} - 6xyz^3 \\hat{k}$ এবং একটি স্কেলার রাশি $\\varphi = 3xy^2z + 3xyz^2 + 3y^2z^3$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "অবস্থান ভেক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "পানিভর্তি বালতি উলম্ব তলে ঘুরাতে থাকলে তার পানি পড়ে যায় না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "$\\vec{A}$ ভেক্টরটির কার্ল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "উদ্দীপকের আলোকে দেখাও যে, একটি স্কেলার ক্ষেত্রকে একটি ভেক্টর ক্ষেত্রে এবং একটি ভেক্টর ক্ষেত্রকে একটি স্কেলার ক্ষেত্রে রূপান্তর করা যায়।—গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "AB দণ্ডের ভর $8 \\text{ kg}$ এবং PQ ও XY ঘূর্ণন অক্ষ। $\\vec{F} = 400 \\text{ N}$",
+        "has_image": true,
+        "image_description": "Rotational dynamics problem with rod AB and axes PQ, XY",
+        "image_url": "images/cq_JB25_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "বলের ঘাত ও ঘাত বল",
+          "question_text": "ঘাত বল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "চলন্ত গাড়ির চাকার কাদা বাইরের দিকে ছিটকে পড়ে কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "PQ অক্ষের সাপেক্ষে AB দণ্ডটির টর্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "PQ ও XY এর মধ্যে কোন অক্ষের সাপেক্ষে দণ্ডটিকে ঘুরানো অধিকতর সহজ হবে? গাণিতিকভাবে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "চিত্রে $30 \\text{ gm}$ ভরের একটি বব সুতার সাহায্যে ঝুলানো আছে। যেখানে $OC = 1 \\text{ m}$, $AM = 30 \\text{ cm}$ এবং $BN = 20 \\text{ cm}$।",
+        "has_image": true,
+        "image_description": "Pendulum bob positions diagram",
+        "image_url": "images/cq_JB25_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "কর্মদক্ষতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "খেলনা গাড়িতে স্প্রিং যুক্ত করা হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "A বিন্দুতে ববের বিভবশক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "B বিন্দুতে ববের গতিশক্তি C বিন্দুর গতিশক্তির অর্ধেক হবে কিনা— গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "$\\vec{A} = 2\\hat{i} - 2\\hat{j} + 2\\hat{k}$ এবং $\\vec{B} = \\hat{i} - 3\\hat{j} + 6\\hat{k}$",
+        "has_image": true,
+        "image_description": "Vector diagram",
+        "image_url": "images/cq_JB25_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "কার্ল কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "দুটি সমমানের ভেক্টরের লব্ধি তাদের অন্তর্গত কোণকে সমদ্বিখণ্ডিত করে— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "ভেক্টর $\\vec{B}$ বরাবর ভেক্টর $\\vec{A}$-এর লম্ব অভিক্ষেপ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-08",
+          "topic_name": "দিক কোসাইন",
+          "question_text": "উদ্দীপকের আলোকে $\\theta_1 = \\theta_2$ হওয়া সম্ভব কি-না গাণিতিক বিশ্লেষণের মাধ্যমে তোমার মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "উপরের চিত্রে পৃথিবীর ভর $M = 6 \\times 10^{24} \\text{ kg}$, ব্যাসার্ধ, $R = 6.4 \\times 10^6 \\text{ m}$ এবং মহাকর্ষীয় ধ্রুবক, $G = 6.67 \\times 10^{-11} \\text{ Nm}^2\\text{kg}^{-2}$।",
+        "has_image": true,
+        "image_description": "Diagram of Earth with points B and C",
+        "image_url": "images/cq_JB25_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "কেন্দ্রমুখী ত্বরণ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "একটি গ্রহের মুক্তিবেগ কি এর ব্যাসার্ধের উপর নির্ভর করে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "C বিন্দুতে মহাকর্ষীয় প্রাবল্য-এর মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "B ও C বিন্দুতে $10 \\text{ kg}$ ভরের একটি বস্তুর ওজন কি সমান হবে? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "একই দৈর্ঘ্যের তিনটি তারের ব্যাস যথাক্রমে $3 \\text{ mm}$, $4 \\text{ mm}$ এবং $5 \\text{ mm}$। তার তিনটির প্রত্যেকটিতে $6 \\times 10^3 \\text{ N}$ বল প্রয়োগ করায় এদের দৈর্ঘ্য যথাক্রমে $4\\%$, $2\\%$ এবং $1\\%$ বৃদ্ধি পেল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "হুক এর সূত্রটি লেখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-02",
+          "topic_name": "কাঠিন্যের গুণাঙ্ক (Rigidity)",
+          "question_text": "তরল ও গ্যাসের দৃঢ়তার গুণাঙ্ক থাকে না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-06",
+          "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
+          "question_text": "প্রথম তারের একক আয়তনে সঞ্চিত শক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "উদ্দীপকের ২য় ও ৩য় তারের মধ্যে কোনটির স্থিতিস্থাপকতা বেশি? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "একটি সেকেন্ড দোলক ভূ-পৃষ্ঠে সঠিক সময় দেয়। দোলকটিকে এমন একটি উপগ্রহে নিয়ে যাওয়া হয় যার ব্যাসার্ধ পৃথিবীর ব্যাসার্ধের $\\frac{1}{4}$ গুণ এবং ভর পৃথিবীর ভরের $\\frac{1}{50}$ গুণ। পৃথিবীর ভর $6 \\times 10^{24} \\text{ kg}$, ব্যাসার্ধ $6.4 \\times 10^6 \\text{ m}$ এবং অভিকর্ষজ ত্বরণ $9.81 \\text{ ms}^{-2}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "কৌণিক কম্পাঙ্ক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "পৃথিবীর গতি সরল ছন্দিত গতি নয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "উপগ্রহটির পৃষ্ঠে মাধ্যাকর্ষণজনিত ত্বরণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "দোলকটি পৃথিবীর পৃষ্ঠের চেয়ে উপগ্রহের পৃষ্ঠে ধীরে চলবে।— গাণিতিক বিশ্লেষণের মাধ্যমে বিবৃতিটি যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "A ও B দুটি পাত্রে দুটি গ্যাস রক্ষিত আছে যাদের আয়তন যথাক্রমে $3\\text{ V}$ ও $6\\text{ V}$ এবং মোল সংখ্যা যথাক্রমে $6 \\text{ mole}$ ও $3 \\text{ mole}$। উভয়ের চাপ সমান এবং B এর আণবিক ভর A এর আণবিক ভরের 36 গুণ।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "বয়েলের সূত্রটি লেখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "পরম আর্দ্রতা ও আপেক্ষিক আর্দ্রতার মধ্যে কোনটি অধিক গুরুত্বপূর্ণ? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "A পাত্রের গ্যাসটির অণুপ্রতি গড় গতিশক্তি নির্ণয় কর যখন তাপমাত্রা $37^{\\circ}\\text{C}$।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "গ্যাসদ্বয়ের অণুগুলোর মূল গড় বর্গবেগ সমান হবে কি-না? গাণিতিকভাবে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

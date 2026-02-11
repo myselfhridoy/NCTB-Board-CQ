@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "যশোর বোর্ড",
+    "year": "২০২৪",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "$|\\vec{F}_1| = 15 \\, \\mathrm{N}$ এবং $|\\vec{F}_2| = 10 \\, \\mathrm{N}$",
+        "has_image": true,
+        "image_description": "Vector diagram showing F1 and F2 forces",
+        "image_url": "images/cq_JB24_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "আয়ত একক ভেক্টর কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "একটি ভেক্টর রাশিকে কীরূপে স্কেলার রাশিতে রূপান্তর করবে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-03",
+          "topic_name": "ভেক্টরের উপাংশ",
+          "question_text": "$\\vec{F}_1$ এর ভেক্টর রূপ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "উদ্দীপকে $\\vec{F}_1 + \\vec{F}_2$ এবং $\\vec{F}_1 - \\vec{F}_2$ পরস্পর লম্ব কি-না? যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রের গাড়িটির ভর $3000 \\, \\mathrm{kg}$ এবং ক্ষমতা $152.18 \\, \\mathrm{kW}$। $[g=9.8 \\, \\mathrm{ms^{-2}}]$",
+        "has_image": true,
+        "image_description": "Car moving on a path from A to B",
+        "image_url": "images/cq_JB24_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "অশ্বক্ষমতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "প্রদত্ত শক্তি ও কার্যকর শক্তির ব্যবধান বেশি হলে যন্ত্রের দক্ষতা কম হবে– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "গাড়িটি A হতে B তে যেতে কৃতকাজের পরিমাণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "``AB রাস্তা বরাবর গাড়িটির বেগ $72 \\, \\mathrm{km \\, h^{-1}}$ সীমা অতিক্রম করা সম্ভব নয়''– গাণিতিকভাবে উক্তিটির সত্যতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "কোনো চাকার ভর $10 \\, \\mathrm{kg}$ এবং ব্যাসার্ধ $0.5 \\, \\mathrm{m}$, চাকার ঘূর্ণন বেগ $500 \\, \\mathrm{rpm}$। চাকাটি ঘূর্ণনরত অবস্থায় $6855 \\, \\mathrm{N\\text{-}m}$ বাধানদানকারী টর্ক প্রয়োগ করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "চক্রগতির ব্যাসার্ধ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "উলম্ব বৃত্তাকার তলে পানিভর্তি বালতিকে ঘুরালে পানি পড়ে না কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-09",
+          "topic_name": "কৌণিক গতিশক্তি",
+          "question_text": "চাকার ঘূর্ণন গতিশক্তি কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "চাকাটি 10 সেকেন্ডে থামবে কি না? যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "একটি স্প্রিং এর মুক্তপ্রান্তে $500 \\, \\mathrm{gm}$ ভর ঝুলালে এটি $5 \\, \\mathrm{cm}$ প্রসারিত হয়ে সাম্যাবস্থায় আসে। এটিকে আরও $4 \\, \\mathrm{cm}$ প্রসারিত করে ছেড়ে দিলে এটি সরল ছন্দিত স্পন্দনে স্পন্দিত হয়।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "কাজ শক্তি উপপাদ্য লেখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "ভরকে অনেক সময় জড়তাভর বলা হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-02",
+          "topic_name": "স্প্রিং বল দ্বারা কৃতকাজ",
+          "question_text": "স্প্রিংটির $4 \\, \\mathrm{cm}$ প্রসারণে কৃতকাজ বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-05",
+          "topic_name": "স্প্রিং",
+          "question_text": "স্প্রিং-এর মুক্তপ্রান্তে আরো $100 \\, \\mathrm{gm}$ ভরযুক্ত করলে স্প্রিং-এর সরল ছন্দিত স্পন্দনের কম্পাঙ্কের পরিবর্তন বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "A ও B দুটি কাল্পনিক গ্রহ পরস্পর হতে $1.5 \\times 10^6 \\, \\mathrm{km}$ দূরে অবস্থিত। তাদের সংযোজক রেখার মধ্যবিন্দু P।",
+        "has_image": true,
+        "image_description": "Planets A and B with midpoint P",
+        "image_url": "images/cq_JB24_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "মহাকর্ষীয় বিভব কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "কোনো স্থানের অভিকর্ষজ ত্বরণের মান ঐ স্থানে খনিজ সম্পদ পাওয়ার সম্ভাবনা নির্দেশ করে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "P বিন্দুতে লব্ধি মহাকর্ষীয় প্রাবল্য বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "A বা B কোন গ্রহপৃষ্ঠ হতে $1000 \\, \\mathrm{kg}$ ভরের নভোযানকে মহাশূন্যে পাঠাতে বেশি গতিশক্তি প্রয়োজন? গাণিতিক বিশ্লেষণসহ মন্তব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "$3 \\, \\mathrm{m}$ লম্বা ও $4 \\times 10^{-6} \\, \\mathrm{m^2}$ প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট কোনো ধাতব তারের একপ্রান্তে $10 \\, \\mathrm{kg}$ ভার ঝুলালে এটির দৈর্ঘ্য $1\\%$ বৃদ্ধি পায়। বিভিন্ন ধাতুর পয়সনের অনুপাত দেখানো হলো :\\n \\begin{tabular}{|c|c|} \\hline ধাতু & পয়সনের অনুপাত \\\\ \\hline লোহা & 0.22 \\\\ \\hline অ্যালুমিনিয়াম & 0.33 \\\\ \\hline সীসা & 0.44 \\\\ \\hline \\end{tabular}",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "স্থিতিস্থাপক গুণাঙ্ক কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-06",
+          "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
+          "question_text": "``কোনো তারের স্থিতিস্থাপক বিভবশক্তি $50 \\, \\mathrm{J}$'' বলতে কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-06",
+          "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
+          "question_text": "তারটির দৈর্ঘ্য $1\\%$ বৃদ্ধিতে কৃতকাজ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-04",
+          "topic_name": "পয়সনের অনুপাত",
+          "question_text": "তারটি কোন পদার্থে তৈরি। মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "সরল ছন্দিত স্পন্দনে স্পন্দনশীল $0.1 \\, \\mathrm{kg}$ ভরের কোনো কণার সরণের সমীকরণ– $x = 0.1 \\sin (0.5 \\pi t + \\pi/5)$ (সকল রাশি এস আই এককে প্রদত্ত)",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-05",
+          "topic_name": "স্প্রিং",
+          "question_text": "বল ধ্রুবক কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "সরল ছন্দিত স্পন্দনে স্পন্দনশীল কণার ত্বরণ বনাম সরণের লেখচিত্র ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "সর্বোচ্চ বিস্তারে কণাটির উপর ক্রিয়ারত প্রত্যয়নী বল বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-04",
+          "topic_name": "সরল ছন্দিত গতি সম্পন্ন কণার শক্তি",
+          "question_text": "$t=0.5$ সেকেন্ড ও $t=0.75$ সেকেন্ড সময়ে কণার যান্ত্রিক শক্তির নিত্যতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "চিত্রে তিন মোল গ্যাসের P–V লেখচিত্র দেখানো হয়েছে, যেখানে AB অংশে T স্থির। $1 \\, \\mathrm{atm} = 10^5 \\, \\mathrm{Nm^{-2}}$।",
+        "has_image": true,
+        "image_description": "P-V indicator diagram with isotherm AB",
+        "image_url": "images/cq_JB24_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "পরম আর্দ্রতার সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "আপেক্ষিক আর্দ্রতার একক নেই কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "B বিন্দুতে গ্যাসটির আয়তন নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "B ও C বিন্দুতে গ্যাসটির বেগ ভিন্ন হবে কি-না? গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

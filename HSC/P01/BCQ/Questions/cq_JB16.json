@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "যশোর বোর্ড",
+    "year": "২০১৬",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "কোনো এক বৃষ্টির দিনে আসাদ ঘরের দরজায় দাঁড়িয়ে বৃষ্টি দেখছিল। বৃষ্টি উলম্বভাবে $6 kmh^{-1}$ বেগে পড়ছিল। এমন সময় আসাদ দেখল এক ব্যক্তি উলম্বের সাথে $33.8^{\circ}$ কোণে ছাতা ধরে পায় হেঁটে চলছে। অপর এক ব্যক্তি উলম্বের সাথে $53.06^{\circ}$ কোণে ছাতা ধরে সাইকেলে চলছে। উভয়ই বৃষ্টি থেকে রক্ষা পেল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "আয়ত একক ভেক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "প্রাসের বেগ বিশ্লেষণ কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-05",
+          "topic_name": "ভেক্টর বিয়োগ ও আপেক্ষিক বেগ (বৃষ্টির অংক)",
+          "question_text": "পায় হেঁটে চলা ব্যক্তির বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-05",
+          "topic_name": "ভেক্টর বিয়োগ ও আপেক্ষিক বেগ (বৃষ্টির অংক)",
+          "question_text": "বৃষ্টি থেকে রক্ষা পাওয়ার জন্য ব্যক্তিদের ভিন্ন কোণে ছাতা ধরার কারণ ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে একটি প্রাসের গতিপথ দেখানো হলো যেখানে $v_0 = 30 ms^{-1}$ এবং $\\theta_0 = 60^{\circ}$।",
+        "has_image": true,
+        "image_description": "Projectile motion diagram",
+        "image_url": "images/cq_JB16_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "গতির সাধারণ সমীকরণের ব্যবহার",
+          "question_text": "গড় বেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "বলের ঘাত ও ঘাত বল",
+          "question_text": "কাচে গুলি করলে ছিদ্র হয় কিন্তু ঢিল ছুড়লে কাচ চূর্ণবিচূর্ণ হয় — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "প্রাসটির পাল্লা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "প্রাসটির নিক্ষেপণ বিন্দু থেকে x-অক্ষ বরাবর $20m$ দূরে $25m$ উঁচু দেয়াল অতিক্রম করতে পারবে কী? গাণিতিক বিশ্লেষণের মাধ্যমে তোমার মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "$8 kg$ ভরের একটি বস্তুকে $0.2m$ লম্বা দড়ি দিয়ে একটি নির্দিষ্ট অক্ষের চারিপাশে $2 rads^{-1}$ বেগে ঘুরান হচ্ছে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "জড়তার ভ্রামকের সূত্র লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "রাস্তার বাঁকের ভিতরের প্রান্ত থেকে বাইরের প্রান্ত উঁচু হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "ঘূর্ণায়মান বস্তুটির কৌণিক ভরবেগ বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "বস্তুটির ভর অর্ধেক হলে টর্কের কীরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "$250 kg$ ভরের একটি গাড়ি উলম্বের সাথে $66.42^{\circ}$ কোণে আনত একটি রাস্তা ধরে $12.393 ms^{-1}$ বেগে নিচে নামার সময় গাড়ির চালক ব্রেক করায় $30m$ দূরত্ব অতিক্রম করার পর থেমে গেল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-01",
+          "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
+          "question_text": "মহাকর্ষীয় ধ্রুবক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "মঙ্গল গ্রহে কোনো বস্তুর মুক্তিবেগ $4.77 kms^{-1}$ বলতে কী বুঝ? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "গাড়িটি থামাতে বাধাদানকারী বলের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "উদ্দীপকে সংরক্ষণশীলতার নীতি রক্ষিত হবে কী? গাণিতিক যুক্তি সহ বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "শামীম কোনো এক মাধ্যমে একটি অগ্রগামী তরঙ্গ দেখল যার সমীকরণ—\n$Y = 0.5 \\sin(200\\pi t - 0.602\\pi x)$\nতখন সে উক্ত তরঙ্গের সমান কম্পাঙ্কবিশিষ্ট শব্দ অন্য এক মাধ্যমে চলায় তরঙ্গবেগ বৃদ্ধি পেল এবং দেখতে পেল তরঙ্গদৈর্ঘ্যের পার্থক্য $0.2 m$ হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "সরল ছন্দিত গতি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "সরল দোলকের গতি সরল ছন্দিত গতি — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "উদ্দীপকের তরঙ্গের তরঙ্গ বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "দ্বিতীয় মাধ্যমে তরঙ্গ-বেগ প্রথম মাধ্যমের চেয়ে কত বৃদ্ধি পাবে? গাণিতিক বিশ্লেষণের মাধ্যমে বের কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "$3 cm^3$ আয়তনের দুটি অভিন্ন পাত্র A ও B। A-পাত্রে $O_2$ এবং B-পাত্রে $N_2$ গ্যাস নিয়ে চিত্রে প্রদর্শিত চাপ পাওয়া গেল।",
+        "has_image": true,
+        "image_description": "Gas containers diagram",
+        "image_url": "images/cq_JB16_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "হুকের সূত্র লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "ইয়ং এর গুণাঙ্ক $Y = 2 \\times 10^{11} Nm^{-2}$ বলতে কী বুঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "A-পাত্রের গ্যাসের গতিশক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "A ও B পাত্রের মধ্যে কোনটি বেশি উত্তপ্ত হবে? গাণিতিক বিশ্লেষণের মাধ্যমে তোমার মতামত প্রদান কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

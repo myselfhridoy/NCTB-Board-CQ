@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "দিনাজপুর বোর্ড",
+    "year": "২০২৩",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "$\\vec{P} = 5\\hat{i} + 3\\hat{j} - m\\hat{k}$; $\\vec{Q} = \\hat{i} + \\hat{j} + 4\\hat{k}$; এখানে $\\vec{P}$ এবং $\\vec{Q}$ পরস্পর লম্ব। যদি $\\vec{P}$ এবং $\\vec{Q}$ এর মান যথাক্রমে নৌকা এবং একটি নদীর স্রোতের দ্রুতি নির্দেশ করে তবে সর্বনিম্ন পথে নদী পার হতে নৌকাটির ২ মিনিট সময় লাগে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "সমতলীয় ভেক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "স্রোতের সাথে আড়াআড়িভাবে নদী পাড়ি দিতে নৌকা কীভাবে চালাতে হবে– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "'m' এর মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "যদি নৌকার মাঝি ন্যূনতম সময়ে নদী পার হতে চায় তবে সে নদীর প্রস্থ অপেক্ষা বেশি দূরত্ব অতিক্রম করবে কিনা– গাণিতিক মানের সাহায্যে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "একটি স্প্রিং এর উপর $10 \\mathrm{~N}$ বল প্রয়োগ করায় এটি $4 \\mathrm{~cm}$ প্রসারিত হয়। স্প্রিংটিকে প্রথমে $6 \\mathrm{~cm}$ এবং পরবর্তীতে আরো $6 \\mathrm{~cm}$ প্রসারিত করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "কর্মদক্ষতা কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "কেন্দ্রমুখী বল দ্বারা কৃতকাজ শূন্য হয়– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-02",
+          "topic_name": "স্প্রিং বল দ্বারা কৃতকাজ",
+          "question_text": "স্প্রিংটির স্প্রিং ধ্রুবক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-02",
+          "topic_name": "স্প্রিং বল দ্বারা কৃতকাজ",
+          "question_text": "প্রথম ও দ্বিতীয় ক্ষেত্রে সমান প্রসারণের জন্য কাজের পরিমাণ সমান হবে কি? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "$0.5 \\mathrm{~kg}$ ভরের $\\mathrm{AB}$ দণ্ডটি $\\mathrm{PQ}$ অক্ষ সাপেক্ষে প্রতি মিনিটে 60 বার ঘোরানো হলো। পরবর্তীতে দণ্ডটিকে এর দৈর্ঘ্যের সমান ব্যাসের একটি পাতলা চাকতিতে পরিণত করে $\\mathrm{P}^{\\prime}\\mathrm{Q}^{\\prime}$ অক্ষ সাপেক্ষে মিনিটে 70 বার ঘোরানো হলো।",
+        "has_image": true,
+        "image_description": "Illustration of a rotating rod and disk",
+        "image_url": "images/cq_DinB23_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "এক নিউটন বল কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "ব্যাংকিং কোণের মান বাড়ালে রাস্তার বাঁকে গাড়ি চালানো গতিসীমা বাড়ে– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "চাকতিটির কৌণিক ভরবেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-09",
+          "topic_name": "কৌণিক গতিশক্তি",
+          "question_text": "কোন ক্ষেত্রে ঘূর্ণনের জন্য কম শক্তির প্রয়োজন হবে– গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "চিত্রে একজন মাঝি $\\mathrm{A}$ বিন্দু থেকে $\\mathrm{AB}$ এর সাথে $30^{\\circ}$ কোণে $16 \\mathrm{~km} \\mathrm{~h}^{-1}$ বেগে এবং আরেকজন মাঝি একই বিন্দু হতে একই বেগে $\\mathrm{AB}$ এর সাথে $60^{\\circ}$ কোণে নদীতে নৌকা চালাচ্ছেন।",
+        "has_image": true,
+        "image_description": "Vector diagram of two boats crossing a river",
+        "image_url": "images/cq_DinB23_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "স্কেলার ক্ষেত্র কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "একটি বিপ্রতীপ ভেক্টরকে সমরেখ ভেক্টর বলা যাবে কি? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "প্রথম মাঝির লব্ধি বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "কোন মাঝি নদী পার হতে কম দূরত্ব অতিক্রম করবে– গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "নিচের ছকে দুটি তার $\\mathrm{A}$ ও $\\mathrm{B}$ এর বিভিন্ন রাশির মান প্রদান করা হলো:\n$\\mathrm{A}$ তার: দৈর্ঘ্য $1.60 \\mathrm{~m}$, ব্যাস $1.0 \\mathrm{~mm}$, প্রযুক্ত বল $5.0 \\mathrm{~N}$, দৈর্ঘ্য প্রসারণ $14 \\mathrm{~mm}$, পয়সনের অনুপাত $0.57$।\n$\\mathrm{B}$ তার: দৈর্ঘ্য $1.50 \\mathrm{~m}$, ব্যাস $1.2 \\mathrm{~mm}$, প্রযুক্ত বল $6.0 \\mathrm{~N}$, দৈর্ঘ্য প্রসারণ $16 \\mathrm{~mm}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "অসহ পীড়ন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "একই উপাদানের তৈরি একটি সরু ও একটি মোটা তারের ইয়ং এর গুণাঙ্ক সমান হবে কি-না– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-04",
+          "topic_name": "পয়সনের অনুপাত",
+          "question_text": "বল প্রয়োগে $\\mathrm{A}$ তারের ব্যাস কত হ্রাস পাবে নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "কোন তার দিয়ে অপেক্ষাকৃত শক্তিশালী স্প্রিং তৈরি করা যাবে– গাণিতিক বিশ্লেষণের সাহায্যে মন্তব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "রনি ও বনি দুই ভাইয়ের ভর যথাক্রমে $32 \\mathrm{~kg}$ এবং $40 \\mathrm{~kg}$। তারা দুজন একটি দোলনায় একই কৌণিক সরণে দোল খাচ্ছিল। দোলনাটির গড় কার্যকরী দৈর্ঘ্য $3 \\mathrm{~m}$ এবং এর সাম্যাবস্থান $\\mathrm{A}$। [$g=9.8 \\mathrm{~ms}^{-2}$]",
+        "has_image": true,
+        "image_description": "Illustration of two brothers on a swing",
+        "image_url": "images/cq_DinB23_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "কৌণিক কম্পাঙ্ক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "মহাকাশে একজন নভোচারীর নিকট একটি সেকেন্ড দোলকের কম্পাঙ্কের পরিবর্তন হয়– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "রনির উপর সুতার টান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "উদ্দীপকের $\\mathrm{B}$ অবস্থানে রনি ও বনি সমান কার্যকর বল অনুভব করলো কি-না– গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "পৃথিবীর ভর $6 \\times 10^{24} \\mathrm{~kg}$, ব্যাসার্ধ $6.4 \\times 10^{6} \\mathrm{~m}$। $80 \\mathrm{~kg}$ ভরের একটি কৃত্রিম উপগ্রহ ভূপৃষ্ঠ হতে $200 \\mathrm{~km}$ উচ্চতায় তুলে এর মধ্যে $4.5 \\times 10^{9} \\text { joule }$ গতিশক্তি সঞ্চারিত করা হলো। [$G=6.67 \\times 10^{-11} \\mathrm{Nm}^{2} \\mathrm{~kg}^{-2}, g=9.8 \\mathrm{~ms}^{-2}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "মহাকর্ষীয় প্রাবল্য কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "বলের প্রকারভেদ",
+          "question_text": "কোনো বস্তুর উপর ক্রিয়াশীল বল $12 \\mathrm{~N}$ বলতে কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "কৃত্রিম উপগ্রহটির পর্যায়কাল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "উদ্দীপকে উপগ্রহটিকে মহাশূন্যে পাঠানোর জন্য গতিশক্তির পরিবর্তন করতে হবে কি-না– গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "পদার্থবিজ্ঞান গবেষণাগারে একজন শিক্ষার্থী $6.2 \\times 10^{-7} \\mathrm{~m}^{3}$ আয়তনের $4 \\mathrm{~g}$ অক্সিজেনকে $0.62 \\mathrm{mHg}$ চাপ ও $27^{\\circ} \\mathrm{C}$ তাপমাত্রা থেকে S.T.P তে রূপান্তর করলো। পরীক্ষা শেষে শিক্ষক মন্তব্য করলেন গ্যাসের আয়তন ও গড় বর্গবেগের বর্গমূল উভয়ই হ্রাস পায়। [অক্সিজেনের আণবিক ভর $32 \\mathrm{~g}$ এবং সার্বজনীন গ্যাস ধ্রুবক $\\mathrm{R}=8.31 \\mathrm{JK}^{-1} \\mathrm{mol}^{-1}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "শক্তির সমবিভাজন নীতি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "বিষুব অঞ্চলের আবহাওয়া অস্বস্তিকর– ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "প্রাথমিক অবস্থায় অক্সিজেনের গতিশক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "উদ্দীপকে শিক্ষকের মন্তব্য সঠিক ছিল কি? গাণিতিক বিশ্লেষণের সাহায্যে মন্তব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

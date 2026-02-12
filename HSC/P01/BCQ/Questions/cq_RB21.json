@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "রাজশাহী বোর্ড",
+    "year": "২০২১",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "$\\vec{A} = 4\\hat{i} + 2\\hat{j} - \\hat{k}$\\n $\\vec{B} = \\hat{i} - 2\\hat{j} - \\hat{k}$\\n $\\vec{C} = 4\\hat{i} - 2\\hat{j} + \\hat{k}$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "অবস্থান ভেক্টরের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "“আয়ত একক ভেক্টরের দিক নির্দিষ্ট হলেও একক ভেক্টরের দিক নির্দিষ্ট নয়”— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "$\\vec{C}$ বরাবর $\\vec{B}$ এর লম্ব অভিক্ষেপ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "$|\\vec{A} - \\vec{B}| > |\\vec{B} - \\vec{C}| > |\\vec{A} - \\vec{C}|$; সঠিক/সঠিক নয়— যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "আরিতার ভর $40 \\mathrm{~kg}$। সে একটি ঘর্ষণহীন উলম্ব অক্ষের সাপেক্ষে আণুভূমিকভাবে ঘূর্ণায়মান নাগরদোলার প্রান্তবিন্দুতে চড়ে $25 \\mathrm{~m}$ ব্যাসার্ধবিশিষ্ট বৃত্তাকার পথে প্রতি মিনিটে 10 বার ঘুরছে। আরিতা ধীরে ধীরে কেন্দ্রের দিকে আসতে থাকে এবং কেন্দ্র থেকে $6 \\mathrm{~m}$ দূরে একটি বিন্দুতে পৌঁছায়।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "টর্ক কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "বৃত্তাকার পথে বস্তুর সমবেগে চলা সম্ভব নয়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "প্রান্তবিন্দুতে থাকাবস্থায় আরিতার রৈখিক বেগ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "আরিতা প্রান্তবিন্দু থেকে কেন্দ্রের দিকে আসলে তার কৌণিক ভরবেগের কোনো পরিবর্তন হবে কি-না তা গাণিতিক বিশ্লেষণের মাধ্যমে পর্যালোচনা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "একটি দালানের ছাদের সাথে দুটি মই লাগানো আছে। একটি মই এর দৈর্ঘ্য $5 \\mathrm{~m}$ এবং এটি অণুভূমিকের সাথে $60^{\\circ}$ কোণ করে রয়েছে। দ্বিতীয় মইটির দৈর্ঘ্য $6 \\mathrm{~m}$ এবং এটি অণুভূমিকের সাথে $46.2^{\\circ}$ কোণ করে রয়েছে। দুইজন নির্মাণ শ্রমিক উভয়ে $20 \\mathrm{~kg}$ বোঝা নিয়ে 1 মিনিটে ভিন্ন ভিন্ন মই ব্যবহার করে ছাদে উঠতে পারেন। প্রথম মই বেয়ে যিনি উঠেন তার ভর $60 \\mathrm{~kg}$ এবং দ্বিতীয় মই বেয়ে যিনি উঠেন তার ভর $70 \\mathrm{~kg}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "ক্ষমতার মাত্রা সমীকরণ লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "“কোনো বস্তুর গতিশক্তি $10 \\mathrm{~J}$”— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "প্রথম শ্রমিকের ক্ষেত্রে ছাদে উঠার জন্য সম্পাদিত কাজ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "উভয় শ্রমিকের ক্ষমতা অভিন্ন হবে কি? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "একটি সেকেন্ড দোলক ভূ-পৃষ্ঠে সঠিক সময় দেয়। দোলকটিকে রাঙামাটির এক পাহাড়ের উপর নিয়ে গেলে প্রতিদিন 25 সেকেন্ড সময় হারায়। (ভূ-পৃষ্ঠে অভিকর্ষজ ত্বরণ $9.8 \\mathrm{~m} \\mathrm{~s}^{-2}$)",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-02",
+          "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+          "question_text": "সরল ছন্দিত স্পন্দন গতির সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-01",
+          "topic_name": "সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ",
+          "question_text": "কালিক পর্যায়বৃত্ত ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "পাহাড়টির উচ্চতা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "“পাহাড়টিতে দোলনকাল ভূ-পৃষ্ঠের ন্যায় পেতে হলে কী ব্যবস্থা গ্রহণ করবে”— গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "স্থির তাপমাত্রায় 5.1 লিটার বায়ুপূর্ণ একটি বেলুনকে $40 \\mathrm{~m}$ গভীর পানির তলদেশে নেয়ায় বেলুনটি 1.1 লিটার আয়তন ধারণ করে। বেলুনটির সর্বোচ্চ প্রসারণ ক্ষমতা 9.5 লিটার এবং ঐ স্থানে অভিকর্ষজ ত্বরণ $9.8 \\mathrm{~m} \\mathrm{~s}^{-2}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "শিশিরাঙ্কের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "“কোনো স্থানের আপেক্ষিক আর্দ্রতা 60%”— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "উদ্দীপক অনুসারে ঐ স্থানের বায়ুমণ্ডলেয় চাপ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "উল্লিখিত বেলুনটিতে বিশেষ ব্যবস্থায় তলদেশে থাকা অবস্থায় আরও 1 লিটার বায়ু প্রবেশ করিয়ে মুখ বন্ধ অবস্থায় ছেড়ে দেয়া হলে অক্ষত অবস্থায় পানির উপরিতলে আসবে কি? বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "উভয় চিত্রে $v=$ নৌকার বেগ $= 6 \\mathrm{~m} \\mathrm{~s}^{-1}$\\n $R=$ লব্ধি বেগ\\n স্রোতের বেগ $= 4 \\mathrm{~m} \\mathrm{~s}^{-1}$",
+        "has_image": true,
+        "image_description": "চিত্র ‘ক’ ও চিত্র ‘খ’ showing river crossing scenarios.",
+        "image_url": "images/cq_RB21_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "নাল ভেক্টরের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "“কোনো ভেক্টরের বিপরীত ভেক্টর এবং বিপ্রতীপ ভেক্টরের মধ্যবর্তী কোণ সর্বদা একই হয়”— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "চিত্র ‘ক’ থেকে লব্ধি বেগ R নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "কোন চিত্রানুসারে নদী পার হতে কম সময় লাগবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "একটি পানিপূর্ণ কুয়ার গভীরতা $12 \\mathrm{~m}$ এবং ব্যাস $3 \\mathrm{~m}$। কুয়াটিকে 22 মিনিটে পানিশূন্য করতে $6 \\mathrm{HP}$ এর একটি পাম্প লাগানো হলো। অর্ধেক পানিশূন্য করার পর পাম্পটি নষ্ট হওয়ায় অন্য একটি পাম্পের সাহায্যে পূর্ব নির্ধারিত সময়ে কুয়াটিকে পানিশূন্য করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "বলের প্রকারভেদ",
+          "question_text": "সংরক্ষণশীল বল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "“গাড়ির চাকার নাট-বল্টু খোলার ক্ষেত্রে লম্বা হাতলযুক্ত যন্ত্র ব্যবহার সুবিধাজনক”— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-06",
+          "topic_name": "কুয়া ও চৌবাচ্চা",
+          "question_text": "প্রথম পাম্পটি কত সময় পর নষ্ট হয়েছিল?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "পাম্প দুটির ক্ষমতার তারতম্য গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "একজন আবহাওয়াবিদ দৈনিক প্রতিবেদনের জন্য নিচের উপাত্তগুলো সংগ্রহ করলেন :\\n \\centering\\n\\begin{tabular}{|c|c|c|c|} \\hline স্থান & \\begin{tabular}{c} শুষ্ক বাল্ব \\\\ থার্মোমিটারের \\\\ পাঠ \\end{tabular} & \\begin{tabular}{c} সিক্ত বাল্ব \\\\ থার্মোমিটারের \\\\ পাঠ \\end{tabular} & \\begin{tabular}{c} বায়ুর তাপমাত্রায় \\\\ গ্লেইসারের \\\\ উৎপাদক \\end{tabular} \\\\ \\hline ঢাকা & $28.6^{\\circ} \\mathrm{C}$ & $20^{\\circ} \\mathrm{C}$ & $1.664$ \\\\ \\hline দিনাজপুর & $32.5^{\\circ} \\mathrm{C}$ & $22^{\\circ} \\mathrm{C}$ & $1.625$ \\\\ \\hline \\end{tabular}\\\\ $[14^{\\circ} \\mathrm{C}, 16^{\\circ} \\mathrm{C}, 28^{\\circ} \\mathrm{C}, 30^{\\circ} \\mathrm{C}, 32^{\\circ} \\mathrm{C}$ এবং $34^{\\circ} \\mathrm{C}$ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে $11.99, 13.63, 28.35, 31.83, 35.66$ এবং $39.90 \\mathrm{~mm} \\mathrm{Hg}]$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "চার্লসের সূত্রটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "“আদর্শ গ্যাস একটি কল্পনামাত্র”— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "ঐ দিনে ঢাকার শিশিরাঙ্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "উপরোক্ত তথ্যের ভিত্তিতে কোনো ব্যক্তি কোথায় অধিকতর স্বস্তিবোধ করবেন? বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

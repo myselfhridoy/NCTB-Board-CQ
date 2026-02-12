@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "ময়মনসিংহ বোর্ড",
+    "year": "২০২২",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "ত্রিমাত্রিক স্থানাঙ্ক ব্যবস্থায় দুটি বিন্দুর স্থানাঙ্ক যথাক্রমে $P(1, 2, 1)$ ও $Q(2, 1, 1)$। বিন্দু দুটির জন্য সৃষ্ট অবস্থান ভেক্টর যথাক্রমে $\\vec{OP}$ ও $\\vec{OQ}$। অবস্থান ভেক্টরদ্বয়কে সন্নিহিত বাহু ধরে সামান্তরিক অঙ্কন করলে $R$ বিন্দুর স্থানাঙ্ক $R(1, 1, 2)$ হয়।",
+        "has_image": true,
+        "image_description": "Vector diagram logic associated with the stem",
+        "image_url": "images/cq_MSB22_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "ভেক্টর অপারেটর কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "বৈদ্যুতিক পাখা ঘুরালে গায়ে বাতাস লাগে কেন? ভেক্টরের সাহায্যে ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "$\\alpha$ কোণের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "উদ্দীপকের $\\triangle PQR$ সমকোণী ত্রিভুজ গঠন করে কি-না—গাণিতিক ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "$60 \\, \\mathrm{km \\, h^{-1}}$ গতিসম্পন্ন একটি ট্রেন $328 \\, \\mathrm{m}$ ব্যাসার্ধবিশিষ্ট রেল লাইনে বাঁক নেওয়ার সময় লাইনচ্যুত হয়ে বগিসহ উল্টে যায়। দুর্ঘটনাস্থলে লাইনের পাতদ্বয়ের মধ্যবর্তী দূরত্ব $1 \\, \\mathrm{m}$ এবং ভেতরের পাত অপেক্ষা বাইরের পাতটির উচ্চতা ছিল $7 \\, \\mathrm{cm}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "টর্ক কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "কোথায় বল প্রয়োগে দরজা দ্রুত খুলবে—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "উক্ত স্থানে রাস্তার ব্যাংকিং কোণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-11",
+          "topic_name": "রাস্তার ব্যাংকিং",
+          "question_text": "রেল দুর্ঘটনার কারণ গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "কোনো একদিন সেলিম ও মুরাদ কোনো স্থানে দণ্ডায়মান ছিল। তখন বাতাসের বেগ $5 \\, \\mathrm{m \\, s^{-1}}$ যা দক্ষিণ থেকে উত্তরে প্রবাহিত হচ্ছিল। এমন সময় $3 \\, \\mathrm{m \\, s^{-1}}$ বেগে বৃষ্টি পড়তে শুরু করল। বৃষ্টি শুরু হওয়ার পর সেলিম দক্ষিণ থেকে উত্তরে এবং মুরাদ উত্তর থেকে দক্ষিণে $7 \\, \\mathrm{m \\, s^{-1}}$ বেগে চলতে শুরু করল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "জড়তার ভ্রামক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "ব্যালে ড্যান্সের ক্ষেত্রে কৌণিক ভরবেগের প্রভাব ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-05",
+          "topic_name": "ভেক্টর বিয়োগ ও আপেক্ষিক বেগ (বৃষ্টির অংক)",
+          "question_text": "দণ্ডায়মান অবস্থায় বৃষ্টি তাদের গায়ে কত বেগে আঘাত করবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-05",
+          "topic_name": "ভেক্টর বিয়োগ ও আপেক্ষিক বেগ (বৃষ্টির অংক)",
+          "question_text": "চলমান অবস্থায় বৃষ্টি থেকে রক্ষা পেতে দুই বন্ধুকে একই কোণে ছাতা ধরতে হবে কি-না— গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "রাফিদ উপরের চিত্র অনুযায়ী একটি $0.2 \\, \\mathrm{kg}$ ভরের বস্তু দুলাচ্ছে। চিত্রমতে, উলম্ব দৈর্ঘ্য $OA=1 \\, \\mathrm{m}$, $BP = 0.6 \\, \\mathrm{m}$ এবং $CQ = 0.3 \\, \\mathrm{m}$।",
+        "has_image": true,
+        "image_description": "Pendulum diagram with points A, B, C, P, Q showing vertical heights",
+        "image_url": "images/cq_MSB22_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "কর্মদক্ষতা কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "খেলনা গাড়িতে স্প্রিং যুক্ত করার কারণ কী?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "A বিন্দুতে বস্তুটির বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "উদ্দীপকের বস্তুটি শক্তির সংরক্ষণ সূত্রকে সমর্থন করে কি-না— গাণিতিকভাবে ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "পৃথিবীর পৃষ্ঠ হতে $3.6 \\times 10^4 \\, \\mathrm{km}$ উচ্চতায় বঙ্গবন্ধু স্যাটেলাইট স্থাপিত। এটি U-19 বিশ্বকাপ ক্রিকেট খেলা সম্প্রচারের জন্য নির্ধারিত। পৃথিবীর ব্যাসার্ধ $R = 6.4 \\times 10^6 \\, \\mathrm{m}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "পার্কিং কক্ষপথ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "মহাকর্ষীয় বিভব অসীমে সর্বাধিক কিন্তু শূন্য— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "স্যাটেলাইটের রৈখিক বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "উদ্দীপকে উল্লেখিত উপগ্রহটি U-19 বিশ্বকাপের ম্যাচগুলো সম্প্রচার করতে সক্ষম কি-না— ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "আজহার $0.3 \\, \\mathrm{m}$ লম্বা এবং $10^{-6} \\, \\mathrm{m^2}$ প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট তারের এক প্রান্তে $10 \\, \\mathrm{kg}$ ভরের একটি বস্তুকে বেঁধে বৃত্তাকার পথে ঘুরাচ্ছে। তারটির উপাদানের অসহপীড়ন $4.8 \\times 10^7 \\, \\mathrm{N \\, m^{-2}}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "স্থিতিস্থাপক ক্লান্তি কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-03",
+          "topic_name": "আয়তন গুণাঙ্ক (Bulk)",
+          "question_text": "সংনম্যতা আয়তন স্থিতিস্থাপক গুণাঙ্কের বিপরীত রাশি—ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "তারটির অসহ বল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "উদ্দীপকের তারটি সর্বনিম্ন কত বেগে ঘুরালে ছিঁড়ে যাবে? ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "একটি সেকেন্ড দোলক ভূপৃষ্ঠে সঠিক সময় দেয়। শামীম দোলকটি উপগ্রহে নিয়ে গেল, যার ব্যাসার্ধ পৃথিবীর ব্যাসার্ধের $\\frac{1}{4}$ গুণ এবং ভর পৃথিবীর ভরের $\\frac{1}{50}$ গুণ। পৃথিবীর ভর $5.99 \\times 10^{24} \\, \\mathrm{kg}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "সেকেন্ড দোলক কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "শীতকালে দোলক ঘড়ি দ্রুত না ধীরে চলে— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "উপগ্রহটির পৃষ্ঠে অভিকর্ষজ ত্বরণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "‘দোলকটি উপগ্রহের পৃষ্ঠে পৃথিবীর তুলনায় ধীরে চলে’— গাণিতিক বিশ্লেষণের মাধ্যমে উক্তিটির যথার্থতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "কোনো একদিন দুপুরের তাপমাত্রা $30^{\\circ} \\, \\mathrm{C}$ এবং আর্দ্রতা $80\\%$। হেলেন বাসায় AC চালু করায় তাপমাত্রা $21^{\\circ} \\, \\mathrm{C}$ নেমে এল। সেদিন শিশিরাঙ্ক ছিল $9.5^{\\circ} \\, \\mathrm{C}$। [$30^{\\circ} \\, \\mathrm{C}$, $21^{\\circ} \\, \\mathrm{C}$, $9^{\\circ} \\, \\mathrm{C}$ ও $10^{\\circ} \\, \\mathrm{C}$ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ যথাক্রমে $28.02 \\, \\mathrm{mm}$, $20.35 \\, \\mathrm{mm}$, $8.91 \\, \\mathrm{mm}$ ও $9.2 \\, \\mathrm{mm} \\, \\mathrm{HgP}$.]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "শিশিরাঙ্ক কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "আবদ্ধ স্থানে তাপমাত্রা বৃদ্ধিতে শিশিরাঙ্ক কমে না বাড়ে? ব্যাখ্যা দাও।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "তাপমাত্রা নেমে আসায় বায়ুস্থ জলীয় বাষ্পের কত অংশ ঘনীভূত হয়? নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "হেলেন AC চালু করায় আরাম বোধ করবে কেন? গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

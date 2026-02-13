@@ -475,7 +475,7 @@
           "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
           "topic_code": "T-01",
           "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
-          "question_text": "\\mathrm{P}$ বিন্দুতে $\\mathrm{m}$ ভরের বস্তুর উপর কার্যকর অভিকর্ষ বলের মান কত?",
+          "question_text": "$\\mathrm{P}$ বিন্দুতে $\\mathrm{m}$ ভরের বস্তুর উপর কার্যকর অভিকর্ষ বলের মান কত?",
           "marks": 3,
           "answer": {
             "full_explanation": "",

@@ -343,7 +343,7 @@
     {
       "question_no": 5,
       "stem": {
-        "text": "P, Q ও R তারের বিভিন্ন রাশির মান নিম্নরূপ :\\\n\\begin{tabular}{|c|c|c|c|c|c|} \\hline তার & আদি দৈর্ঘ্য L & ব্যাস D & দৈর্ঘ্য বৃদ্ধি l & ব্যাস হ্রাস d & প্রযুক্ত বল F \\\\ \\hline & (m) & ($\\times 10^{-3}$m) & ($\\times 10^{-3}$m) & ($\\times 10^{-6}$m) & (N) \\\\ \\hline P & 1 & 2 & 0.14 & 0.0418 & 10 \\\\ \\hline Q & 1 & 2 & 0.18 & 0.0593 & 12 \\\\ \\hline R & 1 & 2 & 0.22 & 0.0912 & 13 \\\\ \\hline \\end{tabular}",
+        "text": "P, Q ও R তারের বিভিন্ন রাশির মান নিম্নরূপ :\n$$ \\begin{array}{|c|c|c|c|c|c|} \\hline \\text{তার} & \\text{আদি দৈর্ঘ্য } L & \\text{ব্যাস } D & \\text{দৈর্ঘ্য বৃদ্ধি } l & \\text{ব্যাস হ্রাস } d & \\text{প্রযুক্ত বল } F \\\\ \\hline & (m) & (\\times 10^{-3}m) & (\\times 10^{-3}m) & (\\times 10^{-6}m) & (N) \\\\ \\hline P & 1 & 2 & 0.14 & 0.0418 & 10 \\\\ \\hline Q & 1 & 2 & 0.18 & 0.0593 & 12 \\\\ \\hline R & 1 & 2 & 0.22 & 0.0912 & 13 \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

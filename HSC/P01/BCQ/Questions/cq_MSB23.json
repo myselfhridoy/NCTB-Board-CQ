@@ -509,7 +509,7 @@
     {
       "question_no": 7,
       "stem": {
-        "text": "নিচের ছকে দুটি তার A ও B এর বিভিন্ন রাশির মান প্রদান করা হলো :\\n\\begin{tabular}{|c|c|c|c|c|c|}\\hline তার & \\begin{tabular}{c} দৈর্ঘ্য\\\\ L(m)\\end{tabular} & \\begin{tabular}{c} ব্যাস\\\\ D (mm)\\end{tabular} & \\begin{tabular}{c} প্রযুক্ত বল\\\\ F(N)\\end{tabular} & \\begin{tabular}{c} দৈর্ঘ্য প্রসারণ\\\\ l(\\mathrm{mm})\\end{tabular} & \\begin{tabular}{c} পয়সনের\\\\ অনুপাত \\sigma\\end{tabular} \\\\\\hline A & 1.60 & 1.0 & 5.0 & 14 & 0.57 \\\\\\hline B & 1.50 & 1.2 & 6.0 & 16 & - \\\\\\hline\\end{tabular}",
+        "text": "নিচের ছকে দুটি তার A ও B এর বিভিন্ন রাশির মান প্রদান করা হলো :\n$$ \\begin{array}{|c|c|c|c|c|c|} \\hline \\text{তার} & \\begin{array}{c} \\text{দৈর্ঘ্য} \\\\ L(m) \\end{array} & \\begin{array}{c} \\text{ব্যাস} \\\\ D(mm) \\end{array} & \\begin{array}{c} \\text{প্রযুক্ত বল} \\\\ F(N) \\end{array} & \\begin{array}{c} \\text{দৈর্ঘ্য প্রসারণ} \\\\ l(mm) \\end{array} & \\begin{array}{c} \\text{পয়সনের} \\\\ \\text{অনুপাত } \\sigma \\end{array} \\\\ \\hline A & 1.60 & 1.0 & 5.0 & 14 & 0.57 \\\\ \\hline B & 1.50 & 1.2 & 6.0 & 16 & - \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

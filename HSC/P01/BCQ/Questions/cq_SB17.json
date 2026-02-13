@@ -592,7 +592,7 @@
     {
       "question_no": 8,
       "stem": {
-        "text": "একটি তারে $10 \\mathrm{~kg}$ ভর ঝোলানোর ফলে এর দৈর্ঘ্য দ্বিগুণ ও ব্যাস তিন-চতুর্থাংশ হয়।\\\n\\begin{tabular}{|l|l|}\n\\hline\nউপাদান & Y-এর মান \\\\\n\\hline\nঅ্যালুমিনিয়াম & $7 \\times 10^{10} \\mathrm{Nm}^{-2}$ \\\\\n\\hline\nলোহা & $11.5 \\times 10^{10} \\mathrm{Nm}^{-2}$ \\\\\n\\hline\nতামা & $13 \\times 10^{10} \\mathrm{Nm}^{-2}$ \\\\\n\\hline\nইস্পাত & $20 \\times 10^{10} \\mathrm{Nm}^{-2}$ \\\\\n\\hline\n\\end{tabular}",
+        "text": "একটি তারে $10 \\mathrm{~kg}$ ভর ঝোলানোর ফলে এর দৈর্ঘ্য দ্বিগুণ ও ব্যাস তিন-চতুর্থাংশ হয়।\n$$ \\begin{array}{|l|l|} \\hline \\text{উপাদান} & Y\\text{-এর মান} \\\\ \\hline \\text{অ্যালুমিনিয়াম} & 7 \\times 10^{10} \\mathrm{Nm}^{-2} \\\\ \\hline \\text{লোহা} & 11.5 \\times 10^{10} \\mathrm{Nm}^{-2} \\\\ \\hline \\text{তামা} & 13 \\times 10^{10} \\mathrm{Nm}^{-2} \\\\ \\hline \\text{ইস্পাত} & 20 \\times 10^{10} \\mathrm{Nm}^{-2} \\\\ \\hline \\end{array} $$",
         "has_image": true,
         "image_description": "তারের স্থিতিস্থাপক গুণাঙ্কের সারণি",
         "image_url": "images/cq_SB17_fig03.jpg"

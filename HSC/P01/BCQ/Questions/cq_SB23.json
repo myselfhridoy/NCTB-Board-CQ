@@ -509,7 +509,7 @@
     {
       "question_no": 7,
       "stem": {
-        "text": "দুইজন শিক্ষার্থী একটি দ্বীপে বেড়াতে গিয়ে পাশাপাশি অবস্থিত দুটি পুকুরের বায়ু বুদবুদ নিম্নরূপ পর্যবেক্ষণ করল। বায়ুমণ্ডলের চাপ $=10^{5} \\mathrm{~Pa}$\\\n\\begin{tabular}{|c|c|c|}\n\\hline পুকুরের নাম & বায়ু বুদবুদ & পানির ঘনত্ব \\\\\n\\hline\n\\begin{tabular}{c} \nমিঠাপানির \\\\\nপুকুর\n\\end{tabular} & \\begin{tabular}{c} \nপানির তলদেশ থেকে উপরিতলে \\\\\nআসায় আয়তন 4 গুণ হয়\n\\end{tabular} & $1.0 \\times 10^{3} \\mathrm{kgm}^{-3}$ \\\\\n\\hline\n\\begin{tabular}{c} \nলবণাক্ত \\\\\nপানির পুকুর\n\\end{tabular} & \\begin{tabular}{c} \nপানির তলদেশ থেকে উপরিতলে \\\\\nআসায় ব্যাস 2 গুণ হয়\n\\end{tabular} & $1.1 \\times 10^{3} \\mathrm{kgm}^{-3}$ \\\\\n\\hline\n\\end{tabular}",
+        "text": "দুইজন শিক্ষার্থী একটি দ্বীপে বেড়াতে গিয়ে পাশাপাশি অবস্থিত দুটি পুকুরের বায়ু বুদবুদ নিম্নরূপ পর্যবেক্ষণ করল। বায়ুমণ্ডলের চাপ $=10^{5} \\mathrm{~Pa}$ \n$$ \\begin{array}{|c|c|c|} \\hline \\text{পুকুরের নাম} & \\text{বায়ু বুদবুদ} & \\text{পানির ঘনত্ব} \\\\ \\hline \\begin{array}{c} \\text{মিঠাপানির} \\\\ \\text{পুকুর} \\end{array} & \\begin{array}{c} \\text{পানির তলদেশ থেকে উপরিতলে} \\\\ \\text{আসায় আয়তন 4 গুণ হয়} \\end{array} & 1.0 \\times 10^{3} \\mathrm{kgm}^{-3} \\\\ \\hline \\begin{array}{c} \\text{লবণাক্ত} \\\\ \\text{পানির পুকুর} \\end{array} & \\begin{array}{c} \\text{পানির তলদেশ থেকে উপরিতলে} \\\\ \\text{আসায় ব্যাস 2 গুণ হয়} \\end{array} & 1.1 \\times 10^{3} \\mathrm{kgm}^{-3} \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

@@ -426,7 +426,7 @@
     {
       "question_no": 6,
       "stem": {
-        "text": "নিচের সারণিটি লক্ষ কর:\\n\\begin{tabular}{|c|c|c|}\\n\\hline\\nস্থান & শুষ্ক বাল্ব থার্মোমিটার পাঠ & সিক্ত বাল্ব থার্মোমিটার পাঠ \\\\\\n\\hline\\nকুমিল্লা & $20^{\\circ}C$ & $12^{\\circ}C$ \\\\\\n\\hline\\n\\end{tabular}\\n\\begin{tabular}{|c|c|c|}\\n\\hline\\nস্থান & বায়ুর তাপমাত্রা & শিশিরাঙ্ক \\\\\\n\\hline\\nখুলনা & $20^{\\circ}C$ & $8.5^{\\circ}C$ \\\\\\n\\hline\\n\\end{tabular}\\n\\begin{tabular}{|c|c|}\\n\\hline\\nতাপমাত্রা & সম্পৃক্ত জলীয় বাষ্পচাপ \\\\\\n\\hline\\n$5.68^{\\circ}C$ & $6.856 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n$8^{\\circ}C$ & $8.04 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n$9^{\\circ}C$ & $8.61 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n$20^{\\circ}C$ & $17.6 \\times 10^{-3} mHgP$ \\\\\\n\\hline\\n\\end{tabular}",
+        "text": "নিচের সারণিটি লক্ষ কর:\n$$ \\begin{array}{|c|c|c|} \\hline \\text{স্থান} & \\text{শুষ্ক বাল্ব থার্মোমিটার পাঠ} & \\text{সিক্ত বাল্ব থার্মোমিটার পাঠ} \\\\ \\hline \\text{কুমিল্লা} & 20^{\\circ}C & 12^{\\circ}C \\\\ \\hline \\end{array} $$ \\n $$ \\begin{array}{|c|c|c|} \\hline \\text{স্থান} & \\text{বায়ুর তাপমাত্রা} & \\text{শিশিরাঙ্ক} \\\\ \\hline \\text{খুলনা} & 20^{\\circ}C & 8.5^{\\circ}C \\\\ \\hline \\end{array} $$ \\n $$ \\begin{array}{|c|c|} \\hline \\text{তাপমাত্রা} & \\text{সম্পৃক্ত জলীয় বাষ্পচাপ} \\\\ \\hline 5.68^{\\circ}C & 6.856 \\times 10^{-3} \\mathrm{mHgP} \\\\ \\hline 8^{\\circ}C & 8.04 \\times 10^{-3} \\mathrm{mHgP} \\\\ \\hline 9^{\\circ}C & 8.61 \\times 10^{-3} \\mathrm{mHgP} \\\\ \\hline 20^{\\circ}C & 17.6 \\times 10^{-3} \\mathrm{mHgP} \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

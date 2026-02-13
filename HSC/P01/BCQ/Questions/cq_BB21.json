@@ -11,7 +11,7 @@
     {
       "question_no": 1,
       "stem": {
-        "text": "নিচে তিনটি ভেক্টর দেওয়া আছে :\n$\\vec{A}=2\\hat{i}+3\\hat{j}+4\\hat{k}, \\quad \\vec{B}=5\\hat{i}-\\hat{j}+6\\hat{k}, \\quad \\vec{C}=4\\hat{i}+2\\hat{j}-3\\hat{k}$",
+        "text": "নিচে তিনটি ভেক্টর দেওয়া আছে :\n$\\vec{A}=2\\hat{i}+3\\hat{j}+4\\hat{k}, \\quad \\vec{B}=5\\hat{i}-\\hat{j}+6\\hat{k},\n \\quad \\vec{C}=4\\hat{i}+2\\hat{j}-3\\hat{k}$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

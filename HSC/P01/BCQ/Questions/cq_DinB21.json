@@ -78,7 +78,7 @@
           "chapter_name": "ভেক্টর",
           "topic_code": "T-09",
           "topic_name": "ভেক্টরের ক্রস গুণন",
-          "question_text": "$\\vec{AB}, \\vec{BC}$ ও \\vec{CA}$ ভেক্টরত্রয় একই সমতলে থাকবে কি-না? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "question_text": "$\\vec{AB}, \\vec{BC}$ ও $\\vec{CA}$ ভেক্টরত্রয় একই সমতলে থাকবে কি-না? গাণিতিকভাবে বিশ্লেষণ কর।",
           "marks": 4,
           "answer": {
             "full_explanation": "",

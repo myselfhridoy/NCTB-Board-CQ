@@ -592,7 +592,7 @@
     {
       "question_no": 8,
       "stem": {
-        "text": "চিত্র-১ : নাইট্রোজেন গ্যাস \\hspace{1cm} চিত্র-২ : কার্বন ডাইঅক্সাইড",
+        "text": "চিত্র-১ : নাইট্রোজেন গ্যাস \n চিত্র-২ : কার্বন ডাইঅক্সাইড",
         "has_image": true,
         "image_description": "Gas cylinders diagram showing Nitrogen and Carbon Dioxide",
         "image_url": "images/cq_JB19_fig04.jpg"

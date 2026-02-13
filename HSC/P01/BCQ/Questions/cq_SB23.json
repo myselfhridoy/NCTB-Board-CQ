@@ -343,7 +343,7 @@
     {
       "question_no": 5,
       "stem": {
-        "text": "গবেষণাগারে ব্যবহারের জন্য বিশেষভাবে নির্মিত দুটি তার $\\mathrm{P}$ ও $\\mathrm{Q}$ নেয়া হলো। পরীক্ষায় প্রাপ্ত বিভিন্ন রাশির মান নিম্নরূপ :\\\n\\begin{tabular}{|c|c|c|c|c|c|}\n\\hline তার & \\begin{tabular}{l} \nদৈর্ঘ্য, \\\\\n$L(\\mathrm{m})$\n\\end{tabular} & \\begin{tabular}{l} \nব্যাসার্ধ, \\\\\n$r(\\mathrm{cm})$\n\\end{tabular} & \\begin{tabular}{l} \nঝুলানো ভার, \\\\\n$\\mathrm{M}(\\mathrm{kg})$\n\\end{tabular} & \\begin{tabular}{l} \nদৈর্ঘ্য প্রসারণ, \\\\\n$l(\\mathrm{mm})$\n\\end{tabular} & \\begin{tabular}{l} \nব্যাস হ্রাস, \\\\\n$d(\\mathrm{mm})$\n\\end{tabular} \\\\\n\\hline\n$\\mathrm{P}$ & $2.80$ & $0.50$ & $0.50$ & $3.2$ & $0.005$ \\\\\n\\hline\n$\\mathrm{Q}$ & $2.75$ & $0.60$ & $0.75$ & 3 & $0.009$ \\\\\n\\hline\n\\end{tabular}",
+        "text": "গবেষণাগারে ব্যবহারের জন্য বিশেষভাবে নির্মিত দুটি তার $\\mathrm{P}$ ও $\\mathrm{Q}$ নেয়া হলো। পরীক্ষায় প্রাপ্ত বিভিন্ন রাশির মান নিম্নরূপ :\n$$ \\begin{array}{|c|c|c|c|c|c|} \\hline \\text{তার} & \\begin{array}{c} \\text{দৈর্ঘ্য,} \\\\ L(\\mathrm{m}) \\end{array} & \\begin{array}{c} \\text{ব্যাসার্ধ,} \\\\ r(\\mathrm{cm}) \\end{array} & \\begin{array}{c} \\text{ঝুলানো ভার,} \\\\ M(\\mathrm{kg}) \\end{array} & \\begin{array}{c} \\text{দৈর্ঘ্য প্রসারণ,} \\\\ l(\\mathrm{mm}) \\end{array} & \\begin{array}{c} \\text{ব্যাস হ্রাস,} \\\\ d(\\mathrm{mm}) \\end{array} \\\\ \\hline \\text{P} & 2.80 & 0.50 & 0.50 & 3.2 & 0.005 \\\\ \\hline \\text{Q} & 2.75 & 0.60 & 0.75 & 3 & 0.009 \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

@@ -343,7 +343,7 @@
     {
       "question_no": 5,
       "stem": {
-        "text": "একটি ধাতব তারে $10 \\mathrm{~kg}$ ভর ঝোলানোর ফলে এর দৈর্ঘ্য দ্বিগুণ ও ব্যাস তিন-চতুর্থাংশ হয়। তারের ব্যাস $4.22 \\times 10^{-2} \\mathrm{~mm}$।\\n\\hfill\\n\\begin{tabular}{|c|c|}\\n\\hline\\nধাতু & ইয়ং এর গুণাঙ্ক (Y) \\\\\\n\\hline\\n$\\mathrm{Al}$ & $7 \\times 10^{10} \\mathrm{~N} \\mathrm{~m}^{-2}$ \\\\\\n\\hline\\n$\\mathrm{Fe}$ & $11.5 \\times 10^{10} \\mathrm{~N} \\mathrm{~m}^{-2}$ \\\\\\n\\hline\\n$\\mathrm{Cu}$ & $13 \\times 10^{10} \\mathrm{~N} \\mathrm{~m}^{-2}$ \\\\\\n\\hline\\n\\end{tabular}\\n\\hfill",
+        "text": "একটি ধাতব তারে $10 \\mathrm{~kg}$ ভর ঝোলানোর ফলে এর দৈর্ঘ্য দ্বিগুণ ও ব্যাস তিন-চতুর্থাংশ হয়। তারের ব্যাস $4.22 \\times 10^{-2} \\mathrm{~mm}$।\n$$ \\begin{array}{|c|c|} \\hline \\text{ধাতু} & \\text{ইয়ং এর গুণাঙ্ক } (Y) \\\\ \\hline \\mathrm{Al} & 7 \\times 10^{10} \\mathrm{~N} \\mathrm{~m}^{-2} \\\\ \\hline \\mathrm{Fe} & 11.5 \\times 10^{10} \\mathrm{~N} \\mathrm{~m}^{-2} \\\\ \\hline \\mathrm{Cu} & 13 \\times 10^{10} \\mathrm{~N} \\mathrm{~m}^{-2} \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

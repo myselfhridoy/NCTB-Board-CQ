@@ -177,7 +177,7 @@
     {
       "question_no": 3,
       "stem": {
-        "text": "$$\\begin{array}{|c|c|c|c|} \\hline গ্রহের নাম & ভর & ব্যাসার্ধ & সূর্য হতে দূরত্ব \\\\ \\hline মঙ্গল & 6.39 \\times 10^{23} kg & 3390 km & 227.9 \\times 10^6 km \\\\ \\hline পৃথিবী & 5.97 \\times 10^{24} kg & 6378 km & 149.6 \\times 10^6 km \\\\ \\hline \\end{array}$$ \n এবং মহাকর্ষীয় ধ্রুবক $G = 6.673 \\times 10^{-11} Nm^2kg^{-2}$।",
+        "text": "$$ \\begin{array}{|c|c|c|c|} \\hline \\text{গ্রহের নাম} & \\text{ভর} & \\text{ব্যাসার্ধ} & \\text{সূর্য হতে দূরত্ব} \\\\ \\hline \\text{মঙ্গল} & 6.39 \\times 10^{23} kg & 3390 km & 227.9 \\times 10^6 km \\\\ \\hline \\text{পৃথিবী} & 5.97 \\times 10^{24} kg & 6378 km & 149.6 \\times 10^6 km \\\\ \\hline \\end{array} $$ \n এবং মহাকর্ষীয় ধ্রুবক $G = 6.673 \\times 10^{-11} Nm^2kg^{-2}$।",
         "has_image": false,
         "image_description": "",
         "image_url": ""

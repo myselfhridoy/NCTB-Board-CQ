@@ -663,7 +663,7 @@
           "marks": 4,
           "answer": {
             "full_explanation": "",
-            "final_answer": "$F = 123600 N$",
+            "final_answer": "$F = 123608.6811 N$",
             "steps": ["ট্রাকটিকে স্বল্প দূরত্বের মধ্যে থামানোর কারণে ভর এর পরিবর্তন অগ্রাহ্য করা যায়। ভর ধ্রুবক থাকলে প্রয়োজনীয় বল, F=ma"],
             "has_image": false,
             "image_description": "",

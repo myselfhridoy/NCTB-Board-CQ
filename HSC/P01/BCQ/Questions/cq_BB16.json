@@ -396,7 +396,7 @@
           "marks": 3,
           "answer": {
             "full_explanation": "",
-            "final_answer": "#fetch https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH09.json",
+            "final_answer": "",
             "steps": [],
             "has_image": false,
             "image_description": "",
@@ -414,7 +414,7 @@
           "marks": 4,
           "answer": {
             "full_explanation": "",
-            "final_answer": "#fetch https://raw.githubusercontent.com/myselfhridoy/hmtutoring-database/refs/heads/main/HSC/BCQ/P02CH09.json",
+            "final_answer": "",
             "steps": [],
             "has_image": false,
             "image_description": "",

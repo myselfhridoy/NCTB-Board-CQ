@@ -395,7 +395,7 @@
           "question_text": "নাফিস তীব্রতা লেভেল কতটুকু বৃদ্ধি করেছিল?",
           "marks": 3,
           "answer": {
-            "full_explanation": "এখানে, প্রথমে টিভির তীব্রতা, $I = 10^{-6}\\text{Wm}^{-2}$ এবং আদর্শ তীব্রতা, $I_0 = 10^{-12}\\text{Wm}^{-2}$ $\\therefore$ প্রথমে টিভির তীব্রতা লেভেল, $\\beta = 10 \\log \\frac{10^{-6}}{10^{-12}} \\text{ dB} = 60 \\text{ dB}$ $\\therefore$ শেষে টিভির তীব্রতা লেভেল, $78 \\text{ dB}$ নাফিস তীব্রতা লেভেল বৃদ্ধি করেছিল $= (78 - 60) \\text{ dB} \\Rightarrow 18 \\text{ dB}$",
+            "full_explanation": "এখানে, \\nপ্রথমে টিভির তীব্রতা, $I = 10^{-6}\\text{Wm}^{-2}$ এবং আদর্শ তীব্রতা, $I_0 = 10^{-12}\\text{Wm}^{-2}$ \\n$\\therefore$ প্রথমে টিভির তীব্রতা লেভেল, $\\beta = 10 \\log \\frac{10^{-6}}{10^{-12}} \\text{ dB} = 60 \\text{ dB}$ \\n$\\therefore$ শেষে টিভির তীব্রতা লেভেল, $78 \\text{ dB}$ নাফিস তীব্রতা লেভেল বৃদ্ধি করেছিল $= (78 - 60) \\text{ dB} \\Rightarrow 18 \\text{ dB}$",
             "final_answer": "$18 \\text{ dB}$",
             "steps": ["$\\beta = 10 \\log \\frac{I}{I_0}$"],
             "has_image": false,

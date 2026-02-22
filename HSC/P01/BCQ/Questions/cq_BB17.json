@@ -11,7 +11,7 @@
     {
       "question_no": 1,
       "stem": {
-        "text": "নিচের চিত্রে দুটি বিন্দু A ও B স্থানাঙ্ক দেয়া আছে :\\n$A(2, 3, 1)$\\n$B(4, 2, -3)$",
+        "text": "নিচের চিত্রে দুটি বিন্দু A ও B স্থানাঙ্ক দেয়া আছে :\n$A(2, 3, 1)$\n$B(4, 2, -3)$",
         "has_image": true,
         "image_description": "Diagram showing coordinates of points A and B in 3D space.",
         "image_url": "images/cq_BB17_fig01.jpg"

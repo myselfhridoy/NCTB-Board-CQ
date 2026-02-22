@@ -509,7 +509,7 @@
     {
       "question_no": 7,
       "stem": {
-        "text": "একটি তরঙ্গের সরণের সমীকরণ\\n$$y(x,t) = 3 \\sin(36t + 0.018x + \\frac{\\pi}{4})$$",
+        "text": "একটি তরঙ্গের সরণের সমীকরণ\n$$y(x,t) = 3 \\sin(36t + 0.018x + \\frac{\\pi}{4})$$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

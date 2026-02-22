@@ -94,7 +94,7 @@
     {
       "question_no": 2,
       "stem": {
-        "text": "নিচের ছকে $10gm$ ভরের একটি গতিশীল কণার সময়ের সাপেক্ষে বেগ ও সরণ দেখানো হলো:\\n$$ \\begin{array}{|l|c|c|c|c|c|c|} \\hline t(s) & 0 & 2 & 4 & 6 & 8 & 10 \\\\ \\hline v(ms^{-1}) & 2 & 6 & 10 & 14 & 18 & 22 \\\\ \\hline s(m) & 0 & 8 & 22 & 48 & 80 & 120 \\\\ \\hline \\end{array} $$",
+        "text": "নিচের ছকে $10gm$ ভরের একটি গতিশীল কণার সময়ের সাপেক্ষে বেগ ও সরণ দেখানো হলো:\n$$ \\begin{array}{|l|c|c|c|c|c|c|} \\hline t(s) & 0 & 2 & 4 & 6 & 8 & 10 \\\\ \\hline v(ms^{-1}) & 2 & 6 & 10 & 14 & 18 & 22 \\\\ \\hline s(m) & 0 & 8 & 22 & 48 & 80 & 120 \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""

@@ -271,8 +271,8 @@
           "type": "জ্ঞানমূলক",
           "chapter_no": 9,
           "chapter_name": "তরঙ্গ",
-          "topic_code": "T-02",
-          "topic_name": "অগ্রগামী তরঙ্গ ও স্থির তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
           "question_text": "অনুনাদ কাকে বলে?",
           "marks": 1,
           "answer": {
@@ -307,8 +307,8 @@
           "type": "প্রয়োগ",
           "chapter_no": 9,
           "chapter_name": "তরঙ্গ",
-          "topic_code": "T-03",
-          "topic_name": "বিট ও সুরের তীব্রতা",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
           "question_text": "গ্যাসে শব্দের বেগ নির্ণয় কর।",
           "marks": 3,
           "answer": {

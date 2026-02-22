@@ -395,9 +395,11 @@
           "question_text": "নাফিস তীব্রতা লেভেল কতটুকু বৃদ্ধি করেছিল?",
           "marks": 3,
           "answer": {
-            "full_explanation": "এখানে, \\nপ্রথমে টিভির তীব্রতা, $I = 10^{-6}\\text{Wm}^{-2}$ এবং আদর্শ তীব্রতা, $I_0 = 10^{-12}\\text{Wm}^{-2}$ \\n$\\therefore$ প্রথমে টিভির তীব্রতা লেভেল, $\\beta = 10 \\log \\frac{10^{-6}}{10^{-12}} \\text{ dB} = 60 \\text{ dB}$ \\n$\\therefore$ শেষে টিভির তীব্রতা লেভেল, $78 \\text{ dB}$ নাফিস তীব্রতা লেভেল বৃদ্ধি করেছিল $= (78 - 60) \\text{ dB} \\Rightarrow 18 \\text{ dB}$",
+            "full_explanation": "এখানে, \nপ্রথমে টিভির তীব্রতা, $I = 10^{-6}\\text{Wm}^{-2}$ এবং আদর্শ তীব্রতা, $I_0 = 10^{-12}\\text{Wm}^{-2}$ \n$\\therefore$ প্রথমে টিভির তীব্রতা লেভেল, $\\beta = 10 \\log \\frac{10^{-6}}{10^{-12}} \\text{ dB} = 60 \\text{ dB}$ \n$\\therefore$ শেষে টিভির তীব্রতা লেভেল, $78 \\text{ dB}$ নাফিস তীব্রতা লেভেল বৃদ্ধি করেছিল $= (78 - 60) \\text{ dB} \\Rightarrow 18 \\text{ dB}$",
             "final_answer": "$18 \\text{ dB}$",
-            "steps": ["$\\beta = 10 \\log \\frac{I}{I_0}$"],
+            "steps": [
+              "$\\beta = 10 \\log \\frac{I}{I_0}$"
+            ],
             "has_image": false,
             "image_description": "",
             "image_url": ""
@@ -413,9 +415,12 @@
           "question_text": "উদ্দীপকের ব্লেন্ডার চালু অবস্থায় সম্মিলিত তীব্রতা লেভেল অস্বস্তিকর হবে কিনা তা গাণিতিকভাবে ব্যাখ্যা কর।",
           "marks": 4,
           "answer": {
-            "full_explanation": "এখানে, টিভির তীব্রতা লেভেল, $\\beta = 78 \\text{ dB}$ $\\therefore$ টিভির তীব্রতা $I_1$ হলে,\\n$\\beta = 10 \\log \\frac{I_1}{I_0}$\n$\\Rightarrow \\frac{\\beta}{10} = \\log \\frac{I_1}{I_0}$\n$\\Rightarrow 7.8 = \\log \\frac{I_1}{10^{-12}}$\\n$\\Rightarrow I_1 = 10^{7.8} \\times 10^{-12} = 6.31 \\times 10^{-5}\\text{Wm}^{-2}$\n\nব্লেন্ডারের তীব্রতা, $I_2$ হলে,\\n$85 = 10 \\log \\frac{I_2}{I_0}$\n$\\Rightarrow I_2 = 10^{-12} \\times 10^{8.5} = 3.16 \\times 10^{-4}\\text{Wm}^{-2}$\n\n$\\therefore$ সম্মিলিত তীব্রতা,\\n$I = I_1 + I_2$\n$= 6.31 \\times 10^{-5} + 3.16 \\times 10^{-4}\\text{Wm}^{-2}$\n$= 3.79 \\times 10^{-4}\\text{Wm}^{-2}$\n\nসম্মিলিত তীব্রতা লেভেল,\\n$\\beta = 10 \\log \\frac{I}{I_0}$\n$= 10 \\log \\frac{3.79 \\times 10^{-4}}{10^{-12}}$\\n$\\therefore \\beta = 85.79 \\text{ dB}$\n\nসম্মিলিত তীব্রতা লেভেল $85.79 \\text{ dB}$ যা $80 \\text{ dB}$ তুলনায় বেশি যা সার্বক্ষণিক শ্রবণে শ্রুতির মারাত্মক ক্ষতি করতে পারে তবে ক্ষতি যন্ত্রণা সৃষ্টি করে না।",
+            "full_explanation": "এখানে, টিভির তীব্রতা লেভেল, $\\beta = 78 \\text{ dB}$ $\\therefore$ টিভির তীব্রতা $I_1$ হলে,\n$\\beta = 10 \\log \\frac{I_1}{I_0}$\n$\\Rightarrow \\frac{\\beta}{10} = \\log \\frac{I_1}{I_0}$\n$\\Rightarrow 7.8 = \\log \\frac{I_1}{10^{-12}}$\n$\\Rightarrow I_1 = 10^{7.8} \\times 10^{-12} = 6.31 \\times 10^{-5}\\text{Wm}^{-2}$\n\nব্লেন্ডারের তীব্রতা, $I_2$ হলে,\n$85 = 10 \\log \\frac{I_2}{I_0}$\n$\\Rightarrow I_2 = 10^{-12} \\times 10^{8.5} = 3.16 \\times 10^{-4}\\text{Wm}^{-2}$\n\n$\\therefore$ সম্মিলিত তীব্রতা,\n$I = I_1 + I_2$\n$= 6.31 \\times 10^{-5} + 3.16 \\times 10^{-4}\\text{Wm}^{-2}$\n$= 3.79 \\times 10^{-4}\\text{Wm}^{-2}$\n\nসম্মিলিত তীব্রতা লেভেল,\n$\\beta = 10 \\log \\frac{I}{I_0}$\n$= 10 \\log \\frac{3.79 \\times 10^{-4}}{10^{-12}}$\n$\\therefore \\beta = 85.79 \\text{ dB}$\n\nসম্মিলিত তীব্রতা লেভেল $85.79 \\text{ dB}$ যা $80 \\text{ dB}$ তুলনায় বেশি যা সার্বক্ষণিক শ্রবণে শ্রুতির মারাত্মক ক্ষতি করতে পারে তবে ক্ষতি যন্ত্রণা সৃষ্টি করে না।",
             "final_answer": "$85.79 \\text{ dB}$",
-            "steps": ["$\\beta = 10 \\log \\frac{I}{I_0}$", "$I = I_1 + I_2$"],
+            "steps": [
+              "$\\beta = 10 \\log \\frac{I}{I_0}$",
+              "$I = I_1 + I_2$"
+            ],
             "has_image": false,
             "image_description": "",
             "image_url": ""

@@ -269,10 +269,10 @@
         {
           "label": "ক",
           "type": "জ্ঞানমূলক",
-          "chapter_no": 9,
-          "chapter_name": "তরঙ্গ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যায়বৃত্তিক গতি",
           "topic_code": "T-01",
-          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "topic_name": "সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ",
           "question_text": "কালিক পর্যায়ক্রম কাকে বলে?",
           "marks": 1,
           "answer": {

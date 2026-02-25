@@ -188,9 +188,9 @@
           "type": "জ্ঞানমূলক",
           "chapter_no": 5,
           "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
-          "topic_code": "",
-          "topic_name": "",
-          "question_text": "সংরক্ষক বল কাকে বলে?",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "ঋণাত্নক কাজ কাকে বলে?",
           "marks": 1,
           "answer": {
             "full_explanation": "",
@@ -206,8 +206,8 @@
           "type": "অনুধাবন",
           "chapter_no": 9,
           "chapter_name": "তরঙ্গ",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
           "question_text": "সকল হারমোনিকই উপসুর কিন্তু সকল উপসুর হারমোনিক নয়। ব্যাখ্যা কর।",
           "marks": 2,
           "answer": {

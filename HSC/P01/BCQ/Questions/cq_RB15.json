@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "রাজশাহী বোর্ড",
+    "year": "২০১৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "১. $\\blacktriangleright$ নিচের চিত্রে করিম ও রহিম দুজন মাঝি স্থির পানিতে $500\\text{ kg}$ ভরের একটি স্থির নৌকাকে নদীর দু'তীর থেকে দড়ি দিয়ে $30^{\\circ}$ কোণে $\\vec{F}$ বলে টানছে। নৌকাটি $5$ মিনিটে তীরের সমান্তরালে $3.6\\text{ km}$ পথ অতিক্রম করে। করিম রহিমকে বলে \"সমান টানে এ দূরত্ব $5$ মিনিটের কম সময়ে পৌঁছা সম্ভব।\" [নৌকার তল ও পানির ঘর্ষণ বল উপেক্ষণীয়] |",
+        "has_image": true,
+        "image_description": "A boat is pulled by two ropes from the banks at an angle of 30 degrees with the horizontal axis. Total distance covered along the axis is 3.6 km.",
+        "image_url": "images/cq_RB15_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "ভেক্টর বিশ্লেষণ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "নাল ভেক্টরের সুনির্দিষ্ট দিক নেই কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-02",
+          "topic_name": "দুইটি ভেক্টরের লব্ধি",
+          "question_text": "উদ্দীপকের $\\vec{F}$ এর মান বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "উদ্দীপকে করিমের বক্তব্য সঠিক কিনা — গাণিতিক বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "২. $\\blacktriangleright$ গোলরক্ষকের $80\\text{ m}$ সামনে থেকে একজন ফুটবল খেলোয়াড় অণুভূমিকের সাথে $30^{\\circ}$ কোণে $25\\text{ ms}^{-1}$ বেগে বল কিক করে। একই সময়ে গোলকিপার বলটি ধরার জন্য বলের দিকে $10\\text{ ms}^{-1}$ সমবেগে দৌড়ে যায়। [$g = 9.8\\text{ ms}^{-2}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "কৌণিক ভরবেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-03",
+          "topic_name": "মহাকর্ষীয় প্রাবল্য ও বিভব",
+          "question_text": "মহাকর্ষীয় ক্ষেত্রে দূরত্বের সাপেক্ষে মহাকর্ষীয় বিভবের পরিবর্তন ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "কিক করার $0.5\\text{ সে.}$ পরে বলের বেগ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "বলটি ভূমিতে পড়ার আগে গোলকিপার বলটি ধরতে পারবে কিনা — গাণিতিক বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "৩. $\\blacktriangleright$ উপরের চিত্রে একটি স্প্রিং এর একপ্রান্ত O বিন্দু হতে ঝুলানো হল। $0.2\\text{ kg}$ ভরের একটি বলকে $49\\text{ ms}^{-1}$ বেগে নিক্ষেপ করায় এটি $20\\text{ m}$ উপরে স্প্রিংটির অপর প্রান্তে আঘাত করে $3\\text{ cm}$ সংকুচিত করে, স্প্রিংটিও বলের উপর প্রত্যয়নী বল প্রয়োগ করে।",
+        "has_image": true,
+        "image_description": "A vertical spring-mass system diagram showing an initial upward throw of a mass $m=0.2\\text{ kg}$ with $v=49\\text{ ms}^{-1}$ toward a spring fixed at point O. The distance to the uncompressed spring is $20\\text{ m}$, and it compresses by $3\\text{ cm}$.",
+        "image_url": "images/cq_RB15_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "স্থিতিস্থাপক ক্লান্তি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "ভরবেগ, ভরবেগের সংরক্ষণ সূত্র ও সংঘর্ষ",
+          "question_text": "দুটি সমান ভরের বস্তুর স্থিতিস্থাপক সংঘর্ষে বস্তুর পরস্পর বেগ বিনিময় করে — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "উলম্ব গতি",
+          "question_text": "ভূমিতে আঘাতের পূর্ব মুহূর্তে বলটির বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-02",
+          "topic_name": "স্প্রিং বল দ্বারা কৃতকাজ",
+          "question_text": "উদ্দীপক থেকে স্প্রিং বল দ্বারা কৃত কাজ নির্ণয় সম্ভব কিনা — গাণিতিক যুক্তি দিয়ে ব্যাখ্যা কর, বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "৪. $\\blacktriangleright$ উপরের উদ্দীপকে $0.02\\text{ kg}$ ভরের একটি বস্তুকে O বিন্দু থেকে $1\\text{ m}$ লম্বা সুতার সাহায্যে ঝুলানো হল। A বিন্দু সর্বোচ্চ বিস্তার নির্দেশ করে যা O বিন্দুতে $30^{\\circ}$ কোণ উৎপন্ন করে, এটিকে A বিন্দু পর্যন্ত টেনে ছেড়ে দেয়া হলে এটি দুলতে শুরু করে। $[g = 9.8\\text{ ms}^{-2}]$",
+        "has_image": true,
+        "image_description": "A simple pendulum diagram with pivot O and mass $m=0.02\\text{ kg}$ at position C. It swings between positions A ($30^{\\circ}$) and B ($15^{\\circ}$) with string length $1\\text{ m}$.",
+        "image_url": "images/cq_RB15_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-10",
+          "topic_name": "কৈশিকতা ও স্পর্শ কোণ",
+          "question_text": "স্পর্শ কোণ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-07",
+          "topic_name": "সান্দ্রতা এবং স্টোকসের সূত্র",
+          "question_text": "তাপমাত্রা বৃদ্ধির সাথে গ্যাসের সান্দ্রতা বাড়ে কিন্তু তরলের সান্দ্রতা কমে — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-04",
+          "topic_name": "সরল ছন্দিত গতি সম্পন্ন কণার শক্তি",
+          "question_text": "উদ্দীপকের B বিন্দুতে দোলকটির গতিশক্তি বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-04",
+          "topic_name": "সরল ছন্দিত গতি সম্পন্ন কণার শক্তি",
+          "question_text": "উদ্দীপকে ব্যবহৃত দোলকটি যান্ত্রিক শক্তির নিত্যতা সূত্র মেনে চলে কিনা — গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "৫. $\\blacktriangleright$ শাহীন তার কলেজের একটি অনুষ্ঠানে $4\\text{ m}$ দৈর্ঘ্যের স্টেজ তৈরি করল। স্টেজের এক প্রান্তে $1\\text{ mW}$ ক্ষমতার একটি স্পীকার A স্থাপন করল, স্টেজের মধ্যবিন্দু P হতে সোজাসুজি $3\\text{ m}$ দূরে O বিন্দুতে একজন শ্রোতার নিকট শব্দের তীব্রতা কম হওয়ায় সে স্টেজের মধ্যবিন্দু P হতে অপর প্রান্তে একই দূরত্বে ও একই ক্ষমতার অপর একটি স্পীকার B স্থাপন করল। নিচের চিত্রে তা দেখানো হলো :",
+        "has_image": true,
+        "image_description": "Diagram showing stage length of $4\\text{ m}$. P is the midpoint. A listener is at point O, $3\\text{ m}$ perpendicularly away from P. Speakers are at A and B on the stage ends.",
+        "image_url": "images/cq_RB15_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "বিট কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-02",
+          "topic_name": "অগ্রগামী তরঙ্গ ও স্থির তরঙ্গ",
+          "question_text": "স্থির তরঙ্গে সুস্পন্দ বিন্দু সৃষ্টির শর্ত ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "স্পীকার A এর জন্য O বিন্দুতে শব্দের তীব্রতা কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "স্পীকার A এর পরিপূরক B উভয়ের সুইচ অন করলে O বিন্দুতে শব্দের তীব্রতা লেভেল পূর্বাপেক্ষা দ্বিগুণ হবে কি? — বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "৬. $\\blacktriangleright$ $2\\text{ cm}^3$ আয়তনের দুটি অভিন্ন পাত্র A ও B । A পাত্রে $\\text{O}_2$ ও B পাত্রে $\\text{N}_2$ নিয়ে নিচের চিত্রে প্রদর্শিত চাপ পাওয়া গেল :",
+        "has_image": true,
+        "image_description": "Two identical containers, A containing $O_2$ with pressure $P = 3 \\times 10^5\\text{ Nm}^{-2}$ and B containing $N_2$ with pressure $P = 3.66 \\times 10^5\\text{ Nm}^{-2}$.",
+        "image_url": "images/cq_RB15_fig05.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "শিশিরাঙ্ক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "একই আয়তনের দুটি বায়ুপূর্ণ বেলুনকে ভিন্ন তাপমাত্রায় রাখলে কি ঘটবে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "A পাত্রে গ্যাসের গতিশক্তি কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "পাত্র A ও পাত্র B এর মধ্যে কোনটি বেশি উত্তপ্ত হবে — গাণিতিক বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

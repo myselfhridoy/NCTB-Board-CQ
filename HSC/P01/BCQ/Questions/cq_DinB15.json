@@ -105,8 +105,8 @@
           "type": "জ্ঞানমূলক",
           "chapter_no": 3,
           "chapter_name": "গতিবিদ্যা",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-01",
+          "topic_name": "গতির সাধারণ সমীকরণের ব্যবহার",
           "question_text": "তাৎক্ষণিক ত্বরণ বলতে কী বুঝ?",
           "marks": 1,
           "answer": {
@@ -123,8 +123,8 @@
           "type": "অনুধাবন",
           "chapter_no": 5,
           "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
           "question_text": "কাজের মান কখন ঋণাত্মক হয় এবং কেন? ব্যাখ্যা কর।",
           "marks": 2,
           "answer": {

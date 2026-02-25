@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "দিনাজপুর বোর্ড",
+    "year": "২০১৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "উদ্দীপকে X ও Y বিন্দু দুইটি কলেজের অবস্থান নির্দেশ করে। O উভয় কলেজের যাত্রা অবস্থানের সাধারণ বিন্দু।",
+        "has_image": true,
+        "image_description": "একটি ত্রিমাত্রিক স্থানাঙ্ক ব্যবস্থা যেখানে মূলবিন্দু O এবং দুটি বিন্দুর স্থানাঙ্ক X(3, 2, 1) ও Y(-2, 1, 4) নির্দেশ করা হয়েছে।",
+        "image_url": "images/cq_DinB15_fig01.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "তাৎক্ষণিক বেগ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "উপরের দিকে নিক্ষিপ্ত বস্তুর গতিবেগ হ্রাস পায় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "$\\vec{OX}$ ও $\\vec{OY}$ ভেক্টরদ্বয়ের মধ্যবর্তী কোণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-09",
+          "topic_name": "ভেক্টরের ক্রস গুণন",
+          "question_text": "$\\vec{OX}$, $\\vec{OY}$ এর তলের উপর লম্ব একক ভেক্টর এবং $\\vec{OY}$, $\\vec{OX}$ এর তলের উপর লম্ব একক ভেক্টর, একই হবে কি? প্রয়োজনীয় গাণিতিক বিশ্লেষণের মাধ্যমে যুক্তি দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে পৃথিবীর কেন্দ্র O এবং ব্যাসার্ধ $R = 6.4 \\times 10^3 \\text{ km}$। C ভূপৃষ্ঠের একটি বিন্দু এবং D ভূপৃষ্ঠ হতে $200 \\text{ km}$ উচ্চতায় অবস্থিত একটি বিন্দু যেখানে $m = 10 \\text{ kg}$ ভরের একটি বস্তু রয়েছে।",
+        "has_image": true,
+        "image_description": "পৃথিবীর একটি চিত্র যেখানে ব্যাসার্ধ, কেন্দ্র O, পৃষ্ঠের বিন্দু C এবং পৃষ্ঠ হতে 200 km উচ্চতায় একটি বিন্দু D দেখানো হয়েছে।",
+        "image_url": "images/cq_DinB15_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "তাৎক্ষণিক ত্বরণ বলতে কী বুঝ?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "কাজের মান কখন ঋণাত্মক হয় এবং কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "চিত্রটি লক্ষ্য কর, D অবস্থানের অভিকর্ষজ ত্বরণের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-01",
+          "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
+          "question_text": "চিত্রে C অবস্থানে যদি $m = 10 \\text{ kg}$ ভরের বস্তু নিয়ে যাওয়া হয়, তবে এর উপর পৃথিবীর আকর্ষণ বলের কোনো পরিবর্তন ঘটবে কি? গাণিতিক বিশ্লেষণে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "$$ \\\\begin{array}{|c|c|} \\\\hline P_x = 4 \\\\times 10^5 \\\\text{ N-m}^{-2} & P_y = 8 \\\\times 10^5 \\\\text{ N-m}^{-2} \\\\\\\\ V_x = 4 \\\\text{ litre} & V_y = 8 \\\\text{ litre} \\\\\\\\ T_x = 600 \\\\text{ K} & T_y = 650 \\\\text{ K} \\\\\\\\ \\\\hline \\\\text{X} & \\\\text{Y} \\\\\\\\ \\\\hline \\\\end{array} $$ \\nচিত্রে X ও Y সিলিন্ডারে কিছু গ্যাস আছে। যাদের ঘনত্ব $\\\\rho \\\\text{ kg/m}^3$ এবং ভর সমান।",
+        "has_image": true,
+        "image_description": "দুটি আয়তাকার বক্স X এবং Y এর ভেতরে গ্যাসের বিভিন্ন পরামিতি দেওয়া আছে।",
+        "image_url": "images/cq_DinB15_fig03.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "সংরক্ষক বল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "সকল হারমোনিকই উপসুর কিন্তু সকল উপসুর হারমোনিক নয়। ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "X ও Y সিলিন্ডারের গ্যাসের গড় বর্গমূল বেগের তুলনা কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "X ও Y পাত্র দুটিকে একটি নল দ্বারা যুক্ত করা হলে গ্যাসের অণুগুলি X পাত্র হতে Y পাত্রে যাবে কি? তোমার উত্তরের সপক্ষে যুক্তি দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "$y_1 = 0.1 \\\\sin\\\\left(200\\\\pi t - \\\\frac{20\\\\pi}{17}x\\\\right)$\n$y_2 = 0.1 \\\\sin\\\\left(200\\\\pi t + \\\\frac{20\\\\pi}{17}x\\\\right)$\nউদ্দীপকে x ও y মিটারে এবং সময় t সেকেন্ডে ধরে নিম্নলিখিত প্রশ্নের উত্তর দাও :",
+        "has_image": true,
+        "image_description": "দুটি তরঙ্গ সমীকরণ ও একটি স্থির তরঙ্গের রেখাচিত্র।",
+        "image_url": "images/cq_DinB15_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "দশা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "প্রতি সেকেন্ডে বীট 6 বলতে কি বুঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "প্রথম তরঙ্গটির তরঙ্গবেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-02",
+          "topic_name": "অগ্রগামী তরঙ্গ ও স্থির তরঙ্গ",
+          "question_text": "উদ্দীপকে তরঙ্গদ্বয়ের মধ্যে উপরিপাতনের ফলে কোন ধরনের তরঙ্গ সৃষ্টি হবে গাণিতিক বিশ্লেষণের মাধ্যমে তোমার মতামতের ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "চিত্রটি লক্ষ্য কর। এটি একটি পাহাড়। একজন সাইকেল চালক ইহার উপর সাইকেল চালাচ্ছে। সাইকেলের চাকার ব্যাসার্ধ ভেক্টর $\\\\vec{r} = 4\\\\hat{i} - 6\\\\hat{j} + 12\\\\hat{k}$ এবং বলের ভেক্টর $\\\\vec{F} = 2\\\\hat{i} + 3\\\\hat{j} - 5\\\\hat{k}$",
+        "has_image": true,
+        "image_description": "পাহাড়ের উপর দিয়ে একজন সাইকেল চালক সাইকেল চালাচ্ছেন এবং পথের বিভিন্ন বিন্দু A, E, F, C, D, H চিহ্নিত করা আছে।",
+        "image_url": "images/cq_DinB15_fig05.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "বীট কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "ধ্রুব বল ও স্প্রিং স্পন্দন এর সাথে দোলনকালের সম্পর্ক স্থাপন কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "সাইকেল চালকের টর্ক কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "DE, EG, GH পথে সাইকেল চালকের অনুভূতি বর্ণনা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "একটি পরীক্ষাগারে দুইটি কক্ষ। কক্ষ দুইটিতে দুইটি তার ঝুলানো আছে। প্রথম কক্ষের কক্ষ তাপমাত্রা $2^\\circ\\text{C}$ এবং দ্বিতীয় কক্ষের কক্ষ তাপমাত্রা $50^\\circ\\text{C}$। দ্বিতীয় তারটি প্রথম তার অপেক্ষা মোটা। প্রথম তারের দৈর্ঘ্য 1m, ব্যাস 5mm, 3kg ভর ঝুলানোর ফলে দৈর্ঘ্য হল 1 cm এবং ব্যাস 0.01 mm। আবার দ্বিতীয় তারের দৈর্ঘ্য 3m ব্যাস 15 mm সম ভর দেওয়ায় দৈর্ঘ্য হল 3 cm এবং ব্যাস 0.03 mm।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "ডেসিবেল কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "",
+          "topic_name": "",
+          "question_text": "সরল দোলন গতির অন্তরক সমীকরণটি ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-04",
+          "topic_name": "পয়সনের অনুপাত",
+          "question_text": "প্রথম ও দ্বিতীয় তারের পয়সনের অনুপাতের তুলনা কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-05",
+          "topic_name": "অসহ পীড়ন",
+          "question_text": "তার দুটির মধ্যে কোনটির অসহভার বেশি বলে তুমি মনে কর? মতামত ব্যক্ত কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

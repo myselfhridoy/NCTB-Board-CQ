@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "বরিশাল বোর্ড",
+    "year": "২০১৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "উপরের চিত্রে একটি প্রাসের গতি দেখানো হলো। $[g = 10 \\text{ ms}^{-2}]$",
+        "has_image": true,
+        "image_description": "একটি প্রাসের গতির চিত্র যেখানে প্রক্ষিপ্ত কোণ $30^\\circ$ এবং আদিবেগ $30 \\text{ ms}^{-1}$। গতিপথের উপর দুটি বিন্দু নির্দেশিত, একটির উচ্চতা $4\\text{m}$ এবং অপরটির আনুভূমিক দূরত্ব $4\\text{m}$ (ab অংশ)।",
+        "image_url": "images/cq_BB15_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "সরণ ভেক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-04",
+          "topic_name": "নদী ও নৌকা",
+          "question_text": "গুণ টানার ফলে নৌকা সামনের দিকে কীভাবে এগিয়ে চলে — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "প্রাসটির সর্বাধিক উচ্চতা হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "প্রাসটির আনুভূমিক পাল্লা এবং ab অংশের দৈর্ঘ্য গাণিতিক বিশ্লেষণের সাহায্যে তুলনা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "একজন সার্কাসের খেলোয়াড় মাথার উপরে উলম্ব তলে কোনো বস্তুকে একটি দীর্ঘ সুতায় $90 \\text{ cm}$ দূরত্বে বেঁধে প্রতি মিনিটে $100$ বার ঘুরাচ্ছে। হঠাৎ করে ঘূর্ণায়মান বস্তুটির এক তৃতীয়াংশ খুলে পড়ে গেল। এতে খেলোয়াড় ভীত না হয়ে প্রতি মিনিটে ঘূর্ণন সংখ্যা একই রাখার জন্য প্রয়োজনমত সুতার দৈর্ঘ্য বাড়িয়ে দিল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-04",
+          "topic_name": "কাজ-শক্তি উপপাদ্য",
+          "question_text": "কাজ-শক্তি উপপাদ্যটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "একটি সরল দোলকের কৌণিক বিস্তার $3^\\circ$, এর গতি সরল ছন্দিত হবে কিনা — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "বস্তুটির ভর কমে যাবার পূর্বে ইহার কেন্দ্রমুখী ত্বরণ কত ছিল হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "সার্কাসের খেলোয়াড় সুতার দৈর্ঘ্যের যে পরিবর্তন এনেছিলেন গাণিতিক বিশ্লেষণের মাধ্যমে এর সঠিকতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "তিনটি সুরশলাকা যাদের প্রথম দুটির গায়ে কম্পাঙ্ক $450 \\text{ Hz}$ লেখা আছে যার একটি বাহু কিছুটা ক্ষয়ে গেছে। তৃতীয় সুর শলাকার গায়ে কম্পাঙ্কের মান লিখা নেই। তৃতীয় সুরশলাকাটিকে পৃথকভাবে অপর দুটির সাথে স্পন্দিত করলে প্রতি সেকেন্ডে একই সংখ্যক বীট সৃষ্টি হয়। আবার প্রথম দুটি একই সাথে স্পন্দিত করলে প্রতি সেকেন্ডে $6$টি বীট সৃষ্টি হয়। [১ম সুর শলাকা হতে সৃষ্ট শব্দের তীব্রতা $10^{-7} \\text{ wm}^{-2}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-02",
+          "topic_name": "অগ্রগামী তরঙ্গ ও স্থির তরঙ্গ",
+          "question_text": "স্থির তরঙ্গ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "শ্রেণিকক্ষের শব্দের তীব্রতা $10^{-6} \\text{ wm}^{-2}$ বলতে কী বুঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "১ম সুর শলাকাটি হতে সৃষ্ট শব্দের তীব্রতা লেভেল ডেসিবল এককে নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "উদ্দীপকের তথ্যসমূহ হতে ৩য় সুর শলাকাটির কম্পাঙ্ক নির্ণয় করা সম্ভব কিনা গাণিতিক বিশ্লেষণের সাহায্যে তোমার মতামত লিখ।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "A ও B দুটি তারের বিভিন্ন রাশির মান নিচের ছকে প্রদান করা হলো : \n\n$$ \\begin{array}{|c|c|c|c|c|c|} \\hline \\text{তার} & \\text{দৈর্ঘ্য } L(\\text{m}) & \\text{ব্যাসার্ধ } r(\\text{mm}) & \\text{বল } F(\\text{N}) & \\text{দৈর্ঘ্য প্রসারণ } l(\\text{mm}) & \\text{ব্যাসের হ্রাস } d(\\text{mm}) \\\\ \\hline \\text{A} & 0.80 & 0.5 & 5 & 7 & 0.005 \\\\ \\hline \\text{B} & 0.75 & 0.6 & 6 & 8 & 0.01 \\\\ \\hline \\end{array} $$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-09",
+          "topic_name": "পৃষ্ঠশক্তি",
+          "question_text": "পৃষ্ঠ শক্তি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-04",
+          "topic_name": "কেপলারের সূত্র",
+          "question_text": "পৃথিবীতে বছরের দিনের সংখ্যা পৃথিবী ও সূর্যের মধ্যবর্তী গড় দূরত্বের সাথে কীভাবে সম্পর্কিত ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-04",
+          "topic_name": "পয়সনের অনুপাত",
+          "question_text": "A তারের পয়সনের অনুপাত হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-01",
+          "topic_name": "ইয়ং এর গুণাঙ্ক",
+          "question_text": "A ও B তারটির মধ্যে কোনটি বেশি স্থিতিস্থাপক — গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "উপরের চিত্রে একটি কাল্পনিক গ্রহ দেখানো হয়েছে যার ভর $12 \\times 10^{24} \\text{ kg}$ এবং ব্যাসার্ধ $8 \\times 10^6 \\text{ m}$। O উহার কেন্দ্র। b উহার পৃষ্ঠে কোনো বিন্দু। a ও c দুটি বিন্দু এমন দূরে অবস্থিত যাতে $ao = ab = bc$ হয়। $[G = 6.67 \\times 10^{-11} \\text{ Nm}^2\\text{kg}^{-2}]$",
+        "has_image": true,
+        "image_description": "একটি গ্রহের চিত্র, যার কেন্দ্র O। O থেকে a, b, c বিন্দুগুলি এমনভাবে অবস্থিত যে ao=ab=bc। b বিন্দুটি গ্রহের পৃষ্ঠে অবস্থিত।",
+        "image_url": "images/cq_BB15_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "বলের প্রকারভেদ",
+          "question_text": "অসংরক্ষণশীল বল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "একটি হালকা ও একটি ভারী বস্তুর ভরবেগ সমান হলে কোনটির গতিশক্তি বেশি হবে — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "উল্লেখিত গ্রহটির পৃষ্ঠের মুক্তি বেগ হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "a ও c বিন্দুর মধ্যে কোনটিতে অভিকর্ষজ ত্বরণের মান বেশি হবে? তোমার উত্তরের গাণিতিক প্রমাণ দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "স্বাভাবিক তাপমাত্রা ও চাপে $1 \\text{ mole}$ করে দুটি গ্যাস একই আয়তনের ছিপিযুক্ত দুটি পাত্রে রক্ষিত আছে। গ্যাস দুটির আণবিক ভর যথাক্রমে $2\\text{gm}$ ও $32 \\text{ gm}$। পাত্র দুটির মুখের ছিপি একই সাথে খুলে দেয়া হলো। [অ্যাভোগেড্রোর সংখ্যা $= 6.023 \\times 10^{23}$ এবং $R = 8.31 \\text{ Jole mole}^{-1}\\text{K}^{-1}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "পরম আর্দ্রতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-07",
+          "topic_name": "সান্দ্রতা এবং স্টোকসের সূত্র",
+          "question_text": "তাপমাত্রা বৃদ্ধিতে গ্যাসের সান্দ্রতা বৃদ্ধি পায় — ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "দ্বিতীয় পাত্রের গ্যাসের গড় গতিশক্তি হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-03",
+          "topic_name": "বর্গমূল গড় বর্গবেগ (RMS)",
+          "question_text": "পাত্র দুটি একই সাথে খালি হতে হলে দ্বিতীয় পাত্রের তাপমাত্রার কিরূপ পরিবর্তন হবে — গাণিতিক বিশ্লেষণ এর সাহায্যে লিখ।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

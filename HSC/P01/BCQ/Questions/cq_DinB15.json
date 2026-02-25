@@ -22,8 +22,8 @@
           "type": "জ্ঞানমূলক",
           "chapter_no": 3,
           "chapter_name": "গতিবিদ্যা",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-01",
+          "topic_name": "গতির সাধারণ সমীকরণের ব্যবহার",
           "question_text": "তাৎক্ষণিক বেগ কাকে বলে?",
           "marks": 1,
           "answer": {
@@ -40,8 +40,8 @@
           "type": "অনুধাবন",
           "chapter_no": 3,
           "chapter_name": "গতিবিদ্যা",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-02",
+          "topic_name": "উলম্ব গতি",
           "question_text": "উপরের দিকে নিক্ষিপ্ত বস্তুর গতিবেগ হ্রাস পায় কেন?",
           "marks": 2,
           "answer": {

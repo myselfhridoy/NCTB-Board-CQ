@@ -271,8 +271,8 @@
           "type": "জ্ঞানমূলক",
           "chapter_no": 9,
           "chapter_name": "তরঙ্গ",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
           "question_text": "দশা কাকে বলে?",
           "marks": 1,
           "answer": {
@@ -289,8 +289,8 @@
           "type": "অনুধাবন",
           "chapter_no": 9,
           "chapter_name": "তরঙ্গ",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
           "question_text": "প্রতি সেকেন্ডে বীট 6 বলতে কি বুঝ?",
           "marks": 2,
           "answer": {
@@ -354,8 +354,8 @@
           "type": "জ্ঞানমূলক",
           "chapter_no": 9,
           "chapter_name": "তরঙ্গ",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
           "question_text": "বীট কাকে বলে?",
           "marks": 1,
           "answer": {
@@ -372,8 +372,8 @@
           "type": "অনুধাবন",
           "chapter_no": 8,
           "chapter_name": "পর্যাবৃত্ত গতি",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-05",
+          "topic_name": "স্প্রিং",
           "question_text": "ধ্রুব বল ও স্প্রিং স্পন্দন এর সাথে দোলনকালের সম্পর্ক স্থাপন কর।",
           "marks": 2,
           "answer": {

@@ -11,10 +11,10 @@
     {
       "question_no": 1,
       "stem": {
-        "text": "১. $\\blacktriangleright$ নিচের চিত্রে করিম ও রহিম দুজন মাঝি স্থির পানিতে $500\\text{ kg}$ ভরের একটি স্থির নৌকাকে নদীর দু'তীর থেকে দড়ি দিয়ে $30^{\\circ}$ কোণে $\\vec{F}$ বলে টানছে। নৌকাটি $5$ মিনিটে তীরের সমান্তরালে $3.6\\text{ km}$ পথ অতিক্রম করে। করিম রহিমকে বলে \"সমান টানে এ দূরত্ব $5$ মিনিটের কম সময়ে পৌঁছা সম্ভব।\" [নৌকার তল ও পানির ঘর্ষণ বল উপেক্ষণীয়] |",
+        "text": "নিচের চিত্রে করিম ও রহিম দুজন মাঝি স্থির পানিতে $500\\text{ kg}$ ভরের একটি স্থির নৌকাকে নদীর দু'তীর থেকে দড়ি দিয়ে $30^{\\circ}$ কোণে $\\vec{F}$ বলে টানছে। নৌকাটি $5$ মিনিটে তীরের সমান্তরালে $3.6\\text{ km}$ পথ অতিক্রম করে। করিম রহিমকে বলে \"সমান টানে এ দূরত্ব $5$ মিনিটের কম সময়ে পৌঁছা সম্ভব।\" [নৌকার তল ও পানির ঘর্ষণ বল উপেক্ষণীয়] |",
         "has_image": true,
         "image_description": "A boat is pulled by two ropes from the banks at an angle of 30 degrees with the horizontal axis. Total distance covered along the axis is 3.6 km.",
-        "image_url": "images/cq_RB15_fig01.jpg"
+        "image_url": "images/cq_RB15_fig01.png"
       },
       "sub_questions": [
         {
@@ -94,7 +94,7 @@
     {
       "question_no": 2,
       "stem": {
-        "text": "২. $\\blacktriangleright$ গোলরক্ষকের $80\\text{ m}$ সামনে থেকে একজন ফুটবল খেলোয়াড় অণুভূমিকের সাথে $30^{\\circ}$ কোণে $25\\text{ ms}^{-1}$ বেগে বল কিক করে। একই সময়ে গোলকিপার বলটি ধরার জন্য বলের দিকে $10\\text{ ms}^{-1}$ সমবেগে দৌড়ে যায়। [$g = 9.8\\text{ ms}^{-2}$]",
+        "text": "গোলরক্ষকের $80\\text{ m}$ সামনে থেকে একজন ফুটবল খেলোয়াড় অণুভূমিকের সাথে $30^{\\circ}$ কোণে $25\\text{ ms}^{-1}$ বেগে বল কিক করে। একই সময়ে গোলকিপার বলটি ধরার জন্য বলের দিকে $10\\text{ ms}^{-1}$ সমবেগে দৌড়ে যায়। [$g = 9.8\\text{ ms}^{-2}$]",
         "has_image": false,
         "image_description": "",
         "image_url": ""
@@ -177,10 +177,10 @@
     {
       "question_no": 3,
       "stem": {
-        "text": "৩. $\\blacktriangleright$ উপরের চিত্রে একটি স্প্রিং এর একপ্রান্ত O বিন্দু হতে ঝুলানো হল। $0.2\\text{ kg}$ ভরের একটি বলকে $49\\text{ ms}^{-1}$ বেগে নিক্ষেপ করায় এটি $20\\text{ m}$ উপরে স্প্রিংটির অপর প্রান্তে আঘাত করে $3\\text{ cm}$ সংকুচিত করে, স্প্রিংটিও বলের উপর প্রত্যয়নী বল প্রয়োগ করে।",
+        "text": "উপরের চিত্রে একটি স্প্রিং এর একপ্রান্ত O বিন্দু হতে ঝুলানো হল। $0.2\\text{ kg}$ ভরের একটি বলকে $49\\text{ ms}^{-1}$ বেগে নিক্ষেপ করায় এটি $20\\text{ m}$ উপরে স্প্রিংটির অপর প্রান্তে আঘাত করে $3\\text{ cm}$ সংকুচিত করে, স্প্রিংটিও বলের উপর প্রত্যয়নী বল প্রয়োগ করে।",
         "has_image": true,
         "image_description": "A vertical spring-mass system diagram showing an initial upward throw of a mass $m=0.2\\text{ kg}$ with $v=49\\text{ ms}^{-1}$ toward a spring fixed at point O. The distance to the uncompressed spring is $20\\text{ m}$, and it compresses by $3\\text{ cm}$.",
-        "image_url": "images/cq_RB15_fig02.jpg"
+        "image_url": "images/cq_RB15_fig02.png"
       },
       "sub_questions": [
         {
@@ -260,10 +260,10 @@
     {
       "question_no": 4,
       "stem": {
-        "text": "৪. $\\blacktriangleright$ উপরের উদ্দীপকে $0.02\\text{ kg}$ ভরের একটি বস্তুকে O বিন্দু থেকে $1\\text{ m}$ লম্বা সুতার সাহায্যে ঝুলানো হল। A বিন্দু সর্বোচ্চ বিস্তার নির্দেশ করে যা O বিন্দুতে $30^{\\circ}$ কোণ উৎপন্ন করে, এটিকে A বিন্দু পর্যন্ত টেনে ছেড়ে দেয়া হলে এটি দুলতে শুরু করে। $[g = 9.8\\text{ ms}^{-2}]$",
+        "text": "উপরের উদ্দীপকে $0.02\\text{ kg}$ ভরের একটি বস্তুকে O বিন্দু থেকে $1\\text{ m}$ লম্বা সুতার সাহায্যে ঝুলানো হল। A বিন্দু সর্বোচ্চ বিস্তার নির্দেশ করে যা O বিন্দুতে $30^{\\circ}$ কোণ উৎপন্ন করে, এটিকে A বিন্দু পর্যন্ত টেনে ছেড়ে দেয়া হলে এটি দুলতে শুরু করে। $[g = 9.8\\text{ ms}^{-2}]$",
         "has_image": true,
         "image_description": "A simple pendulum diagram with pivot O and mass $m=0.02\\text{ kg}$ at position C. It swings between positions A ($30^{\\circ}$) and B ($15^{\\circ}$) with string length $1\\text{ m}$.",
-        "image_url": "images/cq_RB15_fig03.jpg"
+        "image_url": "images/cq_RB15_fig03.png"
       },
       "sub_questions": [
         {
@@ -343,10 +343,10 @@
     {
       "question_no": 5,
       "stem": {
-        "text": "৫. $\\blacktriangleright$ শাহীন তার কলেজের একটি অনুষ্ঠানে $4\\text{ m}$ দৈর্ঘ্যের স্টেজ তৈরি করল। স্টেজের এক প্রান্তে $1\\text{ mW}$ ক্ষমতার একটি স্পীকার A স্থাপন করল, স্টেজের মধ্যবিন্দু P হতে সোজাসুজি $3\\text{ m}$ দূরে O বিন্দুতে একজন শ্রোতার নিকট শব্দের তীব্রতা কম হওয়ায় সে স্টেজের মধ্যবিন্দু P হতে অপর প্রান্তে একই দূরত্বে ও একই ক্ষমতার অপর একটি স্পীকার B স্থাপন করল। নিচের চিত্রে তা দেখানো হলো :",
+        "text": "শাহীন তার কলেজের একটি অনুষ্ঠানে $4\\text{ m}$ দৈর্ঘ্যের স্টেজ তৈরি করল। স্টেজের এক প্রান্তে $1\\text{ mW}$ ক্ষমতার একটি স্পীকার A স্থাপন করল, স্টেজের মধ্যবিন্দু P হতে সোজাসুজি $3\\text{ m}$ দূরে O বিন্দুতে একজন শ্রোতার নিকট শব্দের তীব্রতা কম হওয়ায় সে স্টেজের মধ্যবিন্দু P হতে অপর প্রান্তে একই দূরত্বে ও একই ক্ষমতার অপর একটি স্পীকার B স্থাপন করল। নিচের চিত্রে তা দেখানো হলো :",
         "has_image": true,
         "image_description": "Diagram showing stage length of $4\\text{ m}$. P is the midpoint. A listener is at point O, $3\\text{ m}$ perpendicularly away from P. Speakers are at A and B on the stage ends.",
-        "image_url": "images/cq_RB15_fig04.jpg"
+        "image_url": "images/cq_RB15_fig04.png"
       },
       "sub_questions": [
         {
@@ -426,10 +426,10 @@
     {
       "question_no": 6,
       "stem": {
-        "text": "৬. $\\blacktriangleright$ $2\\text{ cm}^3$ আয়তনের দুটি অভিন্ন পাত্র A ও B । A পাত্রে $\\text{O}_2$ ও B পাত্রে $\\text{N}_2$ নিয়ে নিচের চিত্রে প্রদর্শিত চাপ পাওয়া গেল :",
+        "text": "$2\\text{ cm}^3$ আয়তনের দুটি অভিন্ন পাত্র A ও B । A পাত্রে $\\text{O}_2$ ও B পাত্রে $\\text{N}_2$ নিয়ে নিচের চিত্রে প্রদর্শিত চাপ পাওয়া গেল :",
         "has_image": true,
         "image_description": "Two identical containers, A containing $O_2$ with pressure $P = 3 \\times 10^5\\text{ Nm}^{-2}$ and B containing $N_2$ with pressure $P = 3.66 \\times 10^5\\text{ Nm}^{-2}$.",
-        "image_url": "images/cq_RB15_fig05.jpg"
+        "image_url": "images/cq_RB15_fig05.png"
       },
       "sub_questions": [
         {

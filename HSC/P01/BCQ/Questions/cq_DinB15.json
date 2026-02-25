@@ -437,8 +437,8 @@
           "type": "জ্ঞানমূলক",
           "chapter_no": 9,
           "chapter_name": "তরঙ্গ",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
           "question_text": "ডেসিবেল কি?",
           "marks": 1,
           "answer": {
@@ -455,8 +455,8 @@
           "type": "অনুধাবন",
           "chapter_no": 8,
           "chapter_name": "পর্যাবৃত্ত গতি",
-          "topic_code": "",
-          "topic_name": "",
+          "topic_code": "T-01",
+          "topic_name": "সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ",
           "question_text": "সরল দোলন গতির অন্তরক সমীকরণটি ব্যাখ্যা কর।",
           "marks": 2,
           "answer": {

@@ -94,7 +94,7 @@
     {
       "question_no": 2,
       "stem": {
-        "text": "নিচের উদ্দীপকটি লক্ষ কর :\\n$P(x, y, z) = 2xy^4 - x^2z$ একটি স্কেলার রাশি এবং\\n$\\vec{A} = (2x + y)\\hat{i} + (3y + z^2)\\hat{j} + (-5z + x)\\hat{k}$ একটি ভেক্টর রাশি\\nএবং\\n$\\vec{B} = (6xy + z^3)\\hat{i} + (3x^2 - z)\\hat{j} + (3xz^2 - y)\\hat{k}$ অপর একটি ভেক্টর রাশি।",
+        "text": "নিচের উদ্দীপকটি লক্ষ কর :\n$P(x, y, z) = 2xy^4 - x^2z$ একটি স্কেলার রাশি এবং\n$\\vec{A} = (2x + y)\\hat{i} + (3y + z^2)\\hat{j} + (-5z + x)\\hat{k}$ একটি ভেক্টর রাশি\nএবং\n$\\vec{B} = (6xy + z^3)\\hat{i} + (3x^2 - z)\\hat{j} + (3xz^2 - y)\\hat{k}$ অপর একটি ভেক্টর রাশি।",
         "has_image": false,
         "image_description": "",
         "image_url": ""

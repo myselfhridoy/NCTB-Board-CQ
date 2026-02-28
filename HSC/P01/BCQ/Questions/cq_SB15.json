@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "সিলেট বোর্ড",
+    "year": "২০১৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "উদ্দীপকে বস্তুটির ভর ও ব্যাসার্ধ যথাক্রমে $(M = 6 \\times 10^{24} \\text{ kg}$ এবং $R = 6.4 \\times 10^6 \\text{ m})$",
+        "has_image": true,
+        "image_description": "A planet of mass M and radius R with an artificial satellite orbiting at a height of 700 Km from its surface.",
+        "image_url": "images/cq_SB15_fig01.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-03",
+          "topic_name": "ভেক্টরের উপাংশ",
+          "question_text": "ভেক্টর বিভাজন কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "সমদ্রুতিতে চলমান বস্তুর ত্বরণ থাকে কি? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-06",
+          "topic_name": "উপগ্রহের গতি",
+          "question_text": "কৃত্রিম উপগ্রহটির কেন্দ্রমুখী ত্বরণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-05",
+          "topic_name": "মুক্তিবেগ",
+          "question_text": "কৃত্রিম উপগ্রহটির মহাশূন্যে মিলিয়ে যাওয়ার সম্ভাবনা আছে কী? গাণিতিক বিশ্লেষণের মাধ্যমে সঠিক সিদ্ধান্ত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে একটি দণ্ড PQ দেখানো হলো যার দৈর্ঘ্য $1 \\text{ m}$। Q বিন্দুতে $F = 500\\text{N}$ বল প্রয়োগ করা হলো।",
+        "has_image": true,
+        "image_description": "A vertical axis of rotation AB passing through point P. A horizontal rod PQ of length 1m is attached to P. An upward vertical force F=500N is applied at the end Q.",
+        "image_url": "images/cq_SB15_fig02.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "প্রাস কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-01",
+          "topic_name": "ভেক্টরের প্রকারভেদ ও আয়ত একক ভেক্টর দ্বারা প্রকাশ",
+          "question_text": "স্বাধীন ভেক্টরের পাদবিন্দু মূলবিন্দুতে নয় কেন— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "দ্বন্দ্ব ও টর্ক",
+          "question_text": "AB ঘূর্ণন অক্ষের চারদিকে PQ দণ্ডটির টর্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "question_text": "যদি ঘূর্ণন অক্ষ AB, PQ দণ্ডটির প্রান্তবিন্দু হতে পরিবর্তন করে মধ্যবিন্দুতে দেওয়া হয়, তবে কোন ক্ষেত্রে জড়তার ভ্রামক বেশি হবে— তোমার উত্তরের সপক্ষে গাণিতিক যুক্তিসহ ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "পেট্রোনাস টুইন টাওয়ারের শীর্ষতলের উচ্চতা $375 \\text{ m}$। কাসেম $10 \\text{ kg}$ ভরের একটি বস্তুকে শীর্ষতলে আরোহণ করে। এতে সময় লাগে $40 \\text{ মিনিট}$। তিনি শীর্ষতল থেকে বস্তুটি নিচে ফেলে দিল। উহা বিনা বাধায় ভূমিতে পতিত হলো। মনির বললো, \"আমি এই কাজটি করতে পারবো।\" কাসেমের ভর $60 \\text{ kg}$ এবং মনিরের ভর $55 \\text{ kg}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "কর্মদক্ষতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "বলের দ্বারা কাজ বলতে কী বুঝায়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-03",
+          "topic_name": "বিভবশক্তি ও গতিশক্তি",
+          "question_text": "ভূমি থেকে কত উচ্চতায় বস্তুটির বিভবশক্তি এর গতি শক্তির দ্বিগুণ হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-05",
+          "topic_name": "ক্ষমতা",
+          "question_text": "মনির কি একই সময়ে কাজটি করতে পারবে? গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "উপরের চিত্রে প্রদর্শিত A নলের ব্যাস $0.8 \\text{ মি.মি.}$ এবং B নলের ব্যাস $0.4 \\text{ মি.মি.}$। পানির স্পর্শ কোণ $2^\\circ$, পৃষ্ঠটান $72 \\times 10^{-3} \\text{ Nm}^{-1}$।",
+        "has_image": true,
+        "image_description": "Two capillary tubes A and B immersed in a liquid bath. Liquid rises in both tubes, but higher in tube B.",
+        "image_url": "images/cq_SB15_fig03.png"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-10",
+          "topic_name": "কৈশিকতা ও স্পর্শ কোণ",
+          "question_text": "স্পর্শ কোণ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-10",
+          "topic_name": "কৈশিকতা ও স্পর্শ কোণ",
+          "question_text": "বৃষ্টির ফোঁটা কচুপাতাকে ভিজায় না অথচ আম পাতাকে ভিজায় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-10",
+          "topic_name": "কৈশিকতা ও স্পর্শ কোণ",
+          "question_text": "B নলের পানির উচ্চতা বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-10",
+          "topic_name": "কৈশিকতা ও স্পর্শ কোণ",
+          "question_text": "নল দুটিতে পানির উচ্চতার তারতম্যের কারণ বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "সালাম $300 \\text{ Hz}$ কম্পাঙ্ক ও $0.25 \\text{ cm}$ বিস্তারের শব্দ তরঙ্গ পরপর বায়ু ও পানিতে প্রয়োগ করে তরঙ্গদৈর্ঘ্যের পার্থক্য $4.16 \\text{ m}$ পেল। উভয় মাধ্যমে শব্দের বেগ ও তীব্রতা ভিন্ন ভিন্ন পাওয়া গেল। সালাম বললো শব্দের বেগ ও তীব্রতার মান বায়ু মাধ্যম থেকে পানি মাধ্যমে বেশি পাওয়া যাবে। বায়ু মাধ্যমে শব্দের বেগ $352 \\text{ ms}^{-1}$। বায়ু ও পানির ঘনত্ব যথাক্রমে $1.293 \\text{ kgm}^{-3}$ ও $1000 \\text{ kgm}^{-3}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "তরঙ্গের তীব্রতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "এক সাথে অনেকগুলো সৈন্য ব্রীজের উপর দিয়ে মার্চ করে যাওয়া সঠিক নয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "উদ্দীপক অনুসারে পানিতে শব্দের বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "গাণিতিক বিশ্লেষণের মাধ্যমে সালামের বক্তব্যের সঠিকতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "আবির পদার্থবিজ্ঞান গবেষণাগারে $5.7 \\times 10^{-4} \\text{ m}^3$ আয়তনের $3\\text{g}$ নাইট্রোজেন গ্যাসকে $0.64 \\text{ m}$ পারদ স্তম্ভ চাপ ও $39^\\circ\\text{C}$ তাপমাত্রা থেকে প্রমাণ চাপ ও তাপমাত্রায় রূপান্তর করলো। এতে গ্যাসে আয়তন ও গতিশক্তি উভয়ের পরিবর্তন হলো। নেহাল বললো গ্যাসের আয়তন ও গতিশক্তি উভয়ই হ্রাস পেয়েছে। নাইট্রোজেনের গ্রাম আণবিক ভর $28\\text{g}$ এবং $R = 8.31 \\text{ J K}^{-1} \\text{mol}^{-1}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "আদর্শ গ্যাস কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "কোনো স্থানে বাতাসের আপেক্ষিক আর্দ্রতা $70\\%$ বলতে কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "প্রমাণ চাপ ও তাপমাত্রায় গ্যাসটির আয়তন নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-04",
+          "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+          "question_text": "নেহালের বক্তব্য কী সঠিক ছিল? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

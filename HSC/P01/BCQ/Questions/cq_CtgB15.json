@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "চট্টগ্রাম বোর্ড",
+    "year": "২০১৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "সার্কাস পার্টিতে একজন পারফরমার $5\\text{ kg}$ ভরের একটি গোলককে ভূমি হতে $1.5\\text{ m}$ উপরে অণুভূমিক তলে $2\\text{ m}$ লম্বা রশির সাহায্যে বৃত্তাকার পথে ঘোরাচ্ছেন। গোলকটি প্রতি মিনিটে $20$ বার আবর্তন করে। ঘূর্ণায়মান অবস্থায় হঠাৎ রশিটি ছিঁড়ে যায়। নিচের প্রশ্নগুলোর উত্তর দাও :",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "বলের ঘাত ও ঘাত বল",
+          "question_text": "ঘাতবল কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "বৃত্তাকার গতি",
+          "question_text": "সুষম বৃত্তাকার গতির বৈশিষ্ট্য লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-10",
+          "topic_name": "কেন্দ্রমুখী বল ও সুতার টান",
+          "question_text": "আবর্তনশীল গোলকটি কেন্দ্রের দিকে কত বল অনুভব করবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "পারফরমার হতে দর্শক সারির দূরত্ব কেমন হলে গোলকটি কোনো দর্শককে আঘাত করবে না? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে প্রদর্শিত AB মই বেয়ে $30\\text{ kg}$ ভরের একটি বালক উপরে উঠে এবং CD আনত তল বেয়ে নিচে নেমে আসে। তলের ঘর্ষণ বল $50\\text{N}$ ।",
+        "has_image": true,
+        "image_description": "A figure showing a ladder AB and an inclined plane CD forming a trapezoid ABCD with the ground AD. Lengths are given as AB = 4m, BC = 1m, CD = 5m. The angle between AB and the horizontal ground AD is 60°.",
+        "image_url": "images/cq_CtgB15_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-01",
+          "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
+          "question_text": "নিউটনের মহাকর্ষ সূত্রটি বর্ণনা কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "কৌণিক ভরবেগ",
+          "question_text": "দেখাও যে, একক সমকৌণিক বেগে ঘূর্ণনরত কোনো বস্তুর জড়তার ভ্রামক এর কৌণিক ভরবেগের সমান।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+          "topic_code": "T-01",
+          "topic_name": "কৃতকাজ",
+          "question_text": "বালকটি A হতে C বিন্দুতে পৌঁছতে অভিকর্ষ বল দ্বারা কৃতকাজ হিসাব কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "নিউটনের সূত্র",
+          "question_text": "CD পথে নামার সময় বালকটির ত্বরণ অভিকর্ষজ ত্বরণের চেয়ে কম না বেশি হবে? গাণিতিক বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "একজন আবহাওয়াবিদ দৈনিক প্রতিবেদন তৈরির জন্য কোনো একদিন ঢাকা ও রাজশাহীতে স্থাপিত দুটি সিক্ত ও শুষ্ক বাল্ব আর্দ্রতামাপক যন্ত্রের মাধ্যমে নিচের উপাত্তগুলো সংগ্রহ করলেন :\n$\\begin{array}{|c|c|c|c|} \\hline \\text{স্থান} & \\text{শুষ্ক বাল্ব থার্মো পাঠ} & \\text{সিক্ত বাল্ব থার্মো পাঠ} & \\text{বায়ুর তাপমাত্রায় গ্লেইসিয়ারের উৎপাদক} \\\\\\\\ \\hline \\text{ঢাকা} & 28.6^{\\circ}\\text{C} & 20^{\\circ}\\text{C} & 1.664 \\\\\\\\ \\hline \\text{রাজশাহী} & 32.5^{\\circ}\\text{C} & 22^{\\circ}\\text{C} & 1.625 \\\\\\\\ \\hline \\end{array}$\n[$14^{\\circ}\\text{C}, 16^{\\circ}\\text{C}, 28^{\\circ}\\text{C}, 30^{\\circ}\\text{C}, 32^{\\circ}\\text{C}, 34^{\\circ}\\text{C}$ তাপমাত্রায় সম্পৃক্ত জলীয়বাষ্প চাপ যথাক্রমে $11.99, 13.63, 28.35, 31.83, 35.66$ এবং $39.90\\text{ mm Hg}$]\nনিচের প্রশ্নগুলোর উত্তর দাও :",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-02",
+          "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+          "question_text": "আদর্শ গ্যাস কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-01",
+          "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+          "question_text": "একক চাপে এক মোল কোনো গ্যাসের আয়তন বনাম পরম তাপমাত্রা লেখচিত্রের ঢাল কী নির্দেশ করে?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "ঐ দিনে ঢাকার শিশিরাঙ্ক কত ছিল?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topic_code": "T-06",
+          "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+          "question_text": "উপরোক্ত তথ্যমতে কোন ব্যক্তি কোথায় অধিকতর স্বস্তিবোধ করবেন? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "ভূ-পৃষ্ঠ হতে দুটি সেকেন্ড দোলকের একটিকে $2 \\times 10^5\\text{ m}$ উচ্চতায় অবস্থিত কোনো ভূ-স্থির উপগ্রহে নেয়া হলো। অপরটিকে $3 \\times 10^4\\text{m}$ গভীরে একটি খনিতে নেয়া হলো।\nনিচের প্রশ্নগুলোর উত্তর দাও :",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "প্রমাণ তীব্রতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-07",
+          "topic_name": "ভেক্টরের ডট গুণন",
+          "question_text": "$\\vec{A}$ ও $\\vec{B}$ এর মধ্যবর্তী কোণ $45^{\\circ}$ হলে দেখাও যে, $\\vec{A} \\cdot \\vec{B} = |\\vec{A} \\times \\vec{B}|$",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+          "topic_code": "T-02",
+          "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+          "question_text": "কৃত্রিম উপগ্রহে অভিকর্ষজ ত্বরণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-03",
+          "topic_name": "সরল দোলক",
+          "question_text": "কোন ক্ষেত্রে দোলক অধিক ধীরে চলবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "চিত্রটি ভালভাবে লক্ষ্য কর এবং নিচের প্রশ্নগুলোর উত্তর দাও :\nশিকারী যখন বর্শাটি নিক্ষেপ করেন হরিণটি তখন স্থিরবস্থা থেকে $10\\text{ ms}^{-2}$ সমত্বরণে PQ বরাবর দৌড়াতে থাকে।",
+        "has_image": true,
+        "image_description": "A hunter throwing a spear at an angle of 30° with the horizontal. Initial velocity of spear is v_0 = 30 ms^-1. Gravitational acceleration g = 10 ms^-2. A deer is shown at point Q, which is at a horizontal distance of 32.94m from the hunter's initial point P.",
+        "image_url": "images/cq_CtgB15_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "ভেক্টর",
+          "topic_code": "T-10",
+          "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+          "question_text": "ভেক্টর অপারেটর কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "ভৌত জগৎ ও পরিমাপ",
+          "topic_code": "T-01",
+          "topic_name": "মাত্রা সমীকরণ দ্বারা সমীকরণের সত্যতা যাচাই",
+          "question_text": "বলের একককে মৌলিক এককের মাধ্যমে প্রকাশ কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "উদ্দীপকে বর্শাটি এর নিক্ষেপণ বিন্দু হতে সর্বাধিক কত উচ্চতায় উঠবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "গতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "প্রক্ষিপ্ত বস্তুর গতি (প্রাস)",
+          "question_text": "বর্শাটি কি হরিণকে আঘাত করবে? তোমার উত্তরের সপক্ষে গাণিতিক যুক্তি উপস্থাপন কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "$Y = 6\\sin \\left( 8\\pi t - \\frac{\\pi x}{25} \\right)$ একটি চলমান তরঙ্গের সমীকরণ নির্দেশ করে; যেখানে $x$ ও $y$ কে সেন্টিমিটারে প্রকাশ করা হয়েছে। তরঙ্গটি $0.09\\text{ kg m}^{-3}$ ঘনত্বের মাধ্যমের মধ্য দিয়ে সঞ্চালিত হচ্ছে।\nনিচের প্রশ্নগুলোর উত্তর দাও :",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+          "topic_code": "T-07",
+          "topic_name": "সান্দ্রতা এবং স্টোকসের সূত্র",
+          "question_text": "প্রান্তিক বেগের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "পর্যাবৃত্ত গতি",
+          "topic_code": "T-01",
+          "topic_name": "সরল ছন্দিত স্পন্দনের অন্তরক সমীকরণ",
+          "question_text": "পরবশ কম্পন ও অনুনাদের মধ্যে পার্থক্য ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-01",
+          "topic_name": "তরঙ্গ সংক্রান্ত বিভিন্ন রাশি",
+          "question_text": "উদ্দীপকে বর্ণিত তরঙ্গের কম্পাঙ্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "তরঙ্গ",
+          "topic_code": "T-03",
+          "topic_name": "বিট ও সুরের তীব্রতা",
+          "question_text": "তরঙ্গটি শ্রাব্য কি না – তীব্রতা লেভেল নির্ণয়ের মাধ্যমে প্রমাণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

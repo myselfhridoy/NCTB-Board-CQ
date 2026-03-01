@@ -783,10 +783,10 @@
       "question_no": 24,
       "mcq_type": "Situation Set MCQ",
       "shared_stem": {
-        "text": "উদ্দীপকের আলোকে ২৩ ও ২৪নং প্রশ্নের উত্তর দাও :",
+        "text": "",
         "has_image": true,
-        "image_description": "একটি বহমান নদীর চিত্র যেখানে নদীর প্রস্থ $d = 4\\ km$। স্রোতের বেগ অনুভূমিক ডানদিকে $P = 9\\ km\\ h^{-1}$। একটি নৌকা বা সাঁতারুর বেগ $Q = 18\\ km\\ h^{-1}$ যা নদীর লম্ব দিকের সাথে $30^{\\circ}$ কোণ উৎপন্ন করে বিপরীত স্রোতের দিকে নির্দেশিত।",
-        "image_url": "images/mcq_DB25_fig02.jpg"
+        "image_description": "",
+        "image_url": ""
       },
       "question_text": "উদ্দীপক অনুসারে-",
       "multi_statements": [

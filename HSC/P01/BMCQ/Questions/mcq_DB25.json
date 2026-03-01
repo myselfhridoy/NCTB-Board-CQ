@@ -676,6 +676,179 @@
         "has_image": false,
         "image_url": ""
       }
+    },
+    {
+      "question_no": 21,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "$r$ ব্যাসার্ধবিশিষ্ট একটি রাস্তার বাঁকের ব্যাংকিং কোণ $\\theta$ হলে, $v$ বেগে গতিশীল গাড়ির নিরাপদে বাঁক নেওয়ার শর্ত হলো-",
+      "multi_statements": [],
+      "options": {
+        "ক": "$v \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$",
+        "খ": "$v \\nless (rg \\tan\\theta)^{\\frac{1}{2}}$",
+        "গ": "$v^2 \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$",
+        "ঘ": "$v > (rg \\tan\\theta)^{\\frac{1}{2}}$"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-11",
+      "topic_name": "রাস্তার ব্যাংকিং",
+      "answer_explanation": {
+        "full_explanation": "রাস্তার বাঁকে নিরাপদে বাঁক নেওয়ার জন্য প্রয়োজনীয় কেন্দ্রমুখী বল ব্যাংকিং থেকে প্রাপ্ত বলের উপাংশ থেকে সরবরাহ হতে হবে। ঘর্ষণবিহীন অবস্থায় সর্বোচ্চ নিরাপদ বেগের সমীকরণ $v = \\sqrt{rg \\tan\\theta}$। তাই গাড়িটিকে নিরাপদে বাঁক নিতে হলে এর বেগ $v$ এর মান $\\sqrt{rg \\tan\\theta}$ এর সমান বা তার চেয়ে কম হতে হবে। অর্থাৎ, $v \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$।",
+        "final_answer": "$v \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$",
+        "shortcut": "$v_{max} = \\sqrt{rg \\tan\\theta}$",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 22,
+      "mcq_type": "Multiple Completion MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "আবর্তনশীল বস্তুর ক্ষেত্রে কৃতকাজ শূন্য হবে না-",
+      "multi_statements": [
+        "বস্তু সমবেগে গতিশীল হলে",
+        "বস্তু সমত্বরণে গতিশীল হলে",
+        "বস্তুর উপর কেন্দ্রমুখী বল প্রযুক্ত হলে"
+      ],
+      "options": {
+        "ক": "i ও ii",
+        "খ": "ii ও iii",
+        "গ": "i ও iii",
+        "ঘ": "i, ii ও iii"
+      },
+      "correct_answer": "*",
+      "chapter_no": 5,
+      "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+      "topic_code": "T-01",
+      "topic_name": "কৃতকাজ",
+      "answer_explanation": {
+        "full_explanation": "কেন্দ্রমুখী বল সর্বদা বেগের বা সরণের লম্ব বরাবর কাজ করে, তাই এর দ্বারা কৃতকাজ শূন্য ($W = Fs \\cos 90^{\\circ} = 0$)। সমবেগে (uniform speed) আবর্তনশীল বস্তুর গতিশক্তির পরিবর্তন হয় না, তাই কাজ-শক্তি উপপাদ্য অনুসারে কৃতকাজ শূন্য। তবে বস্তুটি সমত্বরণে গতিশীল হলে এর বেগের মান বৃদ্ধি পায়, ফলে গতিশক্তি বৃদ্ধি পায় এবং কৃতকাজ শূন্য হয় না। শুধুমাত্র (ii) উক্তিটি সঠিক, যা প্রদত্ত কোনো অপশনে নেই। তাই প্রশ্নটিতে সঠিক উত্তর নেই (উত্তরমালায় * দেওয়া আছে)।",
+        "final_answer": "সঠিক উত্তর নেই",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 23,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "উদ্দীপকের আলোকে ২৩ ও ২৪নং প্রশ্নের উত্তর দাও :",
+        "has_image": true,
+        "image_description": "একটি বহমান নদীর চিত্র যেখানে নদীর প্রস্থ $d = 4\\ km$। স্রোতের বেগ অনুভূমিক ডানদিকে $P = 9\\ km\\ h^{-1}$। একটি নৌকা বা সাঁতারুর বেগ $Q = 18\\ km\\ h^{-1}$ যা নদীর লম্ব দিকের সাথে $30^{\\circ}$ কোণ উৎপন্ন করে বিপরীত স্রোতের দিকে নির্দেশিত।",
+        "image_url": "images/mcq_DB25_fig02.jpg"
+      },
+      "question_text": "স্রোতের বেগ $P$ কে নাকচ করার জন্য $Q$ এর উপাংশের মান কত হবে?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$27\\ km\\ h^{-1}$",
+        "খ": "$18\\ km\\ h^{-1}$",
+        "গ": "$15.59\\ km\\ h^{-1}$",
+        "ঘ": "$9\\ km\\ h^{-1}$"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 2,
+      "chapter_name": "ভেক্টর",
+      "topic_code": "T-04",
+      "topic_name": "নদী ও নৌকা",
+      "answer_explanation": {
+        "full_explanation": "স্রোতের বেগ $P$ কে নাকচ করতে হলে, স্রোতের বিপরীত দিকে $Q$ এর অনুভূমিক উপাংশের মান $P$ এর সমান হতে হবে। যেহেতু স্রোতের বেগ $P = 9\\ km\\ h^{-1}$, তাই একে নাকচ করতে প্রয়োজনীয় বিপরীতমুখী উপাংশও $9\\ km\\ h^{-1}$ হতে হবে। চিত্রানুযায়ী, লম্বের সাথে $30^{\\circ}$ কোণ থাকলে স্রোতের বিপরীতে $Q$ এর উপাংশ $Q \\sin 30^{\\circ} = 18 \\times 0.5 = 9\\ km\\ h^{-1}$, যা স্রোতকে সম্পূর্ণ নাকচ করে।",
+        "final_answer": "$9\\ km\\ h^{-1}$",
+        "shortcut": "স্রোতকে নাকচ করার উপাংশ = স্রোতের বেগ = $P$",
+        "calculator_hacks": "",
+        "steps": [
+          "নদী পার হওয়ার সময় স্রোতকে নাকচ করতে অনুভূমিক উপাংশ সমান ও বিপরীতমুখী হতে হবে।"
+        ],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 24,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "উদ্দীপকের আলোকে ২৩ ও ২৪নং প্রশ্নের উত্তর দাও :",
+        "has_image": true,
+        "image_description": "একটি বহমান নদীর চিত্র যেখানে নদীর প্রস্থ $d = 4\\ km$। স্রোতের বেগ অনুভূমিক ডানদিকে $P = 9\\ km\\ h^{-1}$। একটি নৌকা বা সাঁতারুর বেগ $Q = 18\\ km\\ h^{-1}$ যা নদীর লম্ব দিকের সাথে $30^{\\circ}$ কোণ উৎপন্ন করে বিপরীত স্রোতের দিকে নির্দেশিত।",
+        "image_url": "images/mcq_DB25_fig02.jpg"
+      },
+      "question_text": "উদ্দীপক অনুসারে-",
+      "multi_statements": [
+        "সাঁতারুর ন্যূনতম দূরত্বে নদী পার হওয়ার সময় = $0.256\\ h$",
+        "সাঁতারুর ন্যূনতম সময়ে নদী পার হওয়ার সময় = $0.22\\ h$",
+        "সাঁতারুর নদী পার হওয়ার সময় = $0.22\\ h$"
+      ],
+      "options": {
+        "ক": "i ও ii",
+        "খ": "ii ও iii",
+        "গ": "i ও iii",
+        "ঘ": "i, ii ও iii"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 2,
+      "chapter_name": "ভেক্টর",
+      "topic_code": "T-04",
+      "topic_name": "নদী ও নৌকা",
+      "answer_explanation": {
+        "full_explanation": "ন্যূনতম দূরত্বে নদী পার হওয়ার সময়, $t_{1} = \\frac{d}{\\sqrt{Q^2 - P^2}} = \\frac{4}{\\sqrt{18^2 - 9^2}} = \\frac{4}{\\sqrt{243}} \\approx 0.256\\ h$। (উদ্দীপকের চিত্রে সাঁতারু এই পথেই যাচ্ছেন)। ন্যূনতম সময়ে নদী পার হওয়ার সময়, $t_{min} = \\frac{d}{Q} = \\frac{4}{18} = 0.222\\ h \\approx 0.22\\ h$। উদ্দীপকের নির্দিষ্ট কোণে সাঁতার কাটলে পার হওয়ার সময় $0.256\\ h$, তাই (iii) নম্বর উক্তিটি ভুল। i এবং ii সঠিক।",
+        "final_answer": "i ও ii",
+        "shortcut": "$t_{min\\_dist} = \\frac{d}{\\sqrt{v^2 - u^2}}$, $t_{min\\_time} = \\frac{d}{v}$",
+        "calculator_hacks": "4 / \\sqrt{18^2 - 9^2} \\approx 0.256; 4 / 18 \\approx 0.222",
+        "steps": [
+          "ন্যূনতম দূরত্বের সূত্র ব্যবহার করে সময় বের করুন।",
+          "ন্যূনতম সময়ের সূত্র ব্যবহার করে সময় বের করুন।"
+        ],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 25,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "স্থিতিস্থাপক সীমার মধ্যে বস্তুর ব্যবর্তন পীড়ন ও ব্যবর্তন বিকৃতির অনুপাত হচ্ছে-",
+      "multi_statements": [],
+      "options": {
+        "ক": "দৃঢ়তার গুণাঙ্ক",
+        "খ": "আয়তন গুণাঙ্ক",
+        "গ": "ইয়ং এর গুণাঙ্ক",
+        "ঘ": "পয়সনের অনুপাত"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 7,
+      "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+      "topic_code": "T-02",
+      "topic_name": "কাঠিন্যের গুণাঙ্ক (Rigidity)",
+      "answer_explanation": {
+        "full_explanation": "হুকের সূত্রানুসারে, স্থিতিস্থাপক সীমার মধ্যে ব্যবর্তন (বা কৃন্তন) পীড়ন এবং ব্যবর্তন বিকৃতির অনুপাত একটি ধ্রুবক। এই ধ্রুবককে বস্তুর উপাদানের দৃঢ়তার গুণাঙ্ক বা ব্যবর্তন গুণাঙ্ক (Modulus of Rigidity) বলা হয়। একে সাধারণত $\\eta$ দ্বারা প্রকাশ করা হয়।",
+        "final_answer": "দৃঢ়তার গুণাঙ্ক",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
     }
   ]
 }

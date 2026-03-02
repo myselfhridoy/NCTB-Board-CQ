@@ -65,7 +65,9 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": [
+              "উলম্বের সাথে ছাতা \\theta কোণে ধরলে, \\tan \\theta = \\frac{v_M}{v_R}"
+            ],
             "has_image": false,
             "image_description": "",
             "image_url": ""
@@ -83,7 +85,9 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": [
+              "উলম্বের সাথে ছাতা \\theta কোণে ধরলে, \\tan \\theta = \\frac{v_M}{v_R}"
+            ],
             "has_image": false,
             "image_description": "",
             "image_url": ""

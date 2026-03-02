@@ -87,9 +87,9 @@
             "final_answer": "",
             "steps": [
               "ট্রাকের প্রকৃত বেগ, $v_{T} = \\sqrt{v_{TC}^2 + v_C^2 + 2 v_{TC} v_C \\cos \\alpha}$",
-              "ট্রাকের বেগ ভেক্টর, \\vec{v_T} = (v_T sin\\theta) \\cap{i} + (v_T cos\\theta) \\cap{j}",
-              "\\vec{v_C} x \\vec{v_T} নির্ণয়",
-              "\\cap{\\eta} = \\frac{\\vec{v_C} x \\vec{v_T}}{|\\vec{v_C} x \\vec{v_T}|}"
+              "ট্রাকের বেগ ভেক্টর, $\\vec{v_T} = (v_T \\sin\\theta) \\hat{i} + (v_T \\cos\\theta) \\hat{j}$",
+              "$\\vec{v_C} \\times \\vec{v_T}$ নির্ণয়",
+              "$\\hat{\\eta} = \\frac{\\vec{v_C} \\times \\vec{v_T}}{|\\vec{v_C} \\times \\vec{v_T}|}$"
             ],
             "has_image": false,
             "image_description": "",

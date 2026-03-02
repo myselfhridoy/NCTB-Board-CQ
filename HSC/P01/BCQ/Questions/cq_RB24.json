@@ -148,7 +148,9 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": [
+              "উলম্ব তলে সুতার টান, $T = F_c + mgcos\theta$, উলম্ব তলে \theta = 180°"
+            ],
             "has_image": false,
             "image_description": "",
             "image_url": ""

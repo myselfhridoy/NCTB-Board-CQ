@@ -641,12 +641,14 @@
           "chapter_name": "ভেক্টর",
           "topic_code": "T-05",
           "topic_name": "ভেক্টর বিয়োগ ও আপেক্ষিক বেগ (বৃষ্টির অংক)",
-          "question_text": "স্থির বাতাসে বৃষ্টির লব্ধি বেগ নির্ণয় কর (সাইকেল চালকের সাপেক্ষে)।",
+          "question_text": "স্থির বাতাসে বৃষ্টির লব্ধি বেগ নির্ণয় কর।",
           "marks": 3,
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": [
+              "$v_{RM} = \\sqrt{v_R^2 + v_M^2 + 2 v_R v_M \\cos \\alpha}$"
+            ],
             "has_image": false,
             "image_description": "",
             "image_url": ""

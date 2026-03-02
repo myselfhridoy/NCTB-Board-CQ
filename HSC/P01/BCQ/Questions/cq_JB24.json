@@ -231,7 +231,7 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": ["চাকার জড়তার ভ্রামক, $I = mr^2$"],
             "has_image": false,
             "image_description": "",
             "image_url": ""

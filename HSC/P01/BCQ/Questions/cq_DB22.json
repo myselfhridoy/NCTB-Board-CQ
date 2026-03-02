@@ -667,7 +667,7 @@
             "full_explanation": "",
             "final_answer": "",
             "steps": [
-              "উলম্বের সাথে উৎপন্ন কোণ \\theta, বাতাস প্রবাহিত না হলে, $\\tan \\theta = \\frac{v_M}{v_R}$, বাতাস প্রবাহিত হলে, \\tan \\theta = \\frac{v_M \\pm v_A}{v_R} \n $v_M$ ও $v_A$ বিপরীত দিকে হলে `+`, $v_M$ ও $v_A$ একই দিকে হলে `-`"
+              "উলম্বের সাথে উৎপন্ন কোণ \\theta, বাতাস প্রবাহিত না হলে, $\\tan \\theta_1 = \\frac{v_M}{v_R}$, বাতাস প্রবাহিত হলে, \\tan \\theta_2 = \\frac{v_M \\pm v_A}{v_R} \n $v_M$ ও $v_A$ বিপরীত দিকে হলে `+`, $v_M$ ও $v_A$ একই দিকে হলে `-`"
             ],
             "has_image": false,
             "image_description": "",

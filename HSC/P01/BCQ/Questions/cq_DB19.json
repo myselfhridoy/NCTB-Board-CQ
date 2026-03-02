@@ -65,7 +65,9 @@
           "answer": {
             "full_explanation": "",
             "final_answer": "",
-            "steps": [],
+            "steps": [
+              "ট্রাকটি উত্তর দিকের সাথে \\theta কোণে উত্তর-পূর্ব দিকে চলছে।\n $\\tan \\theta = \\frac{v_C}{v_TC}$"
+            ],
             "has_image": false,
             "image_description": "",
             "image_url": ""

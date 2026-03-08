@@ -1,0 +1,831 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "১ম পত্র",
+    "source": "রাজশাহী বোর্ড",
+    "year": "2025",
+    "exam_type": "বোর্ড বহুনির্বাচনি",
+    "set_code": "সেট-গ",
+    "subject_code": "174",
+    "total_marks": 25,
+    "time": "২৫ মিনিট"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "mcq_type": "Multiple Completion MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "আর্দ্রতামাপক যন্ত্রের শুষ্ক ও সিক্ত বাল্ব থার্মোমিটারের পাঠের পার্থক্য—",
+      "multi_statements": [
+        "i. কম হলে আর্দ্র আবহাওয়া নির্দেশ করে",
+        "ii. বেশি হলে শুষ্ক আবহাওয়া নির্দেশ করে",
+        "iii. হঠাৎ হ্রাস পেলে নিম্নচাপ নির্দেশ করে"
+      ],
+      "options": {
+        "ক": "i ও ii",
+        "খ": "i ও iii",
+        "গ": "ii ও iii",
+        "ঘ": "i, ii ও iii"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 10,
+      "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "topic_code": "T-06",
+      "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 2,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": true,
+        "image_description": "সামান্তরিকের দুটি সন্নিহিত বাহু বরাবর P ও Q ভেক্টর এবং কর্ণ বরাবর লব্ধি R ভেক্টর ক্রিয়াশীল। লব্ধি R ভেক্টরটি P ভেক্টরের সাথে লম্বভাবে অবস্থিত।",
+        "image_url": "images/mcq_RB25_fig01.jpg"
+      },
+      "question_text": "চিত্রে, দুটি ভেক্টরের লব্ধির মান $R$ একটি ভেক্টরের মানের সমান এবং তার সাথে লম্ব; অন্যটির মান—",
+      "multi_statements": [],
+      "options": {
+        "ক": "$\\sqrt{2} R$",
+        "খ": "$R^2$",
+        "গ": "$\\sqrt{2R}$",
+        "ঘ": "$\\frac{1}{\\sqrt{2}} R$"
+      },
+      "correct_answer": "গ",
+      "chapter_no": 2,
+      "chapter_name": "ভেক্টর",
+      "topic_code": "T-02",
+      "topic_name": "দুইটি ভেক্টরের লব্ধি",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 3,
+      "mcq_type": "Multiple Completion MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "কোনো দোলক ঘড়িকে পৃথিবীর কেন্দ্রে নিয়ে গেলে ঘড়িটির—",
+      "multi_statements": [
+        "i. দোলন থেমে যাবে",
+        "ii. দোলনকাল অসীম হবে",
+        "iii. দোলকটি দ্রুত দুলবে"
+      ],
+      "options": {
+        "ক": "i ও ii",
+        "খ": "i ও iii",
+        "গ": "ii ও iii",
+        "ঘ": "i, ii ও iii"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 8,
+      "chapter_name": "পর্যাবৃত্ত গতি",
+      "topic_code": "T-03",
+      "topic_name": "সরল দোলক",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 4,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "$\\vec{r} = 3x\\hat{i} - 2y\\hat{j} + 4z\\hat{k}$ হলে, $\\vec{\\nabla} \\cdot \\vec{r} = ?$",
+      "multi_statements": [],
+      "options": {
+        "ক": "3",
+        "খ": "5",
+        "গ": "9",
+        "ঘ": "12"
+      },
+      "correct_answer": "খ",
+      "chapter_no": 2,
+      "chapter_name": "ভেক্টর",
+      "topic_code": "T-10",
+      "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 5,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "বল ও সরণের মধ্যবর্তী কোণ কত হলে কাজের পরিমাণ সর্বাধিক হবে?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$0^{\\circ}$",
+        "খ": "$45^{\\circ}$",
+        "গ": "$60^{\\circ}$",
+        "ঘ": "$90^{\\circ}$"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 5,
+      "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+      "topic_code": "T-01",
+      "topic_name": "কৃতকাজ",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 6,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "জগতে মৌলিক বলের সংখ্যা কয়টি?",
+      "multi_statements": [],
+      "options": {
+        "ক": "২টি",
+        "খ": "৪টি",
+        "গ": "৫টি",
+        "ঘ": "৬টি"
+      },
+      "correct_answer": "খ",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-02",
+      "topic_name": "বলের প্রকারভেদ",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 7,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "কৌণিক ভরবেগের পরিবর্তনের হার—",
+      "multi_statements": [],
+      "options": {
+        "ক": "বলের সমান",
+        "খ": "জড়তার ভ্রামকের সমান",
+        "গ": "কৌণিক ত্বরণের সমান",
+        "ঘ": "টর্কের সমান"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-08",
+      "topic_name": "কৌণিক ভরবেগ",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 8,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "ভূপৃষ্ঠ থেকে যে গভীরতায় এবং উচ্চতায় অভিকর্ষজ ত্বরণের মান সমান হয় তাদের অনুপাত কোনটি?",
+      "multi_statements": [],
+      "options": {
+        "ক": "1 : 2",
+        "খ": "2 : 1",
+        "গ": "1 : 1",
+        "ঘ": "1 : 3"
+      },
+      "correct_answer": "খ",
+      "chapter_no": 6,
+      "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+      "topic_code": "T-02",
+      "topic_name": "অভিকর্ষজ ত্বরণ (g)",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 9,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "জড়তার ভ্রামক সংক্রান্ত সমান্তরাল অক্ষের উপপাদ্যের সমীকরণ—",
+      "multi_statements": [],
+      "options": {
+        "ক": "$I_G = I + Mh^2$",
+        "খ": "$I = I_G + Mh^2$",
+        "গ": "$I = I_G + M^2h$",
+        "ঘ": "$I_G = I + M^2h$"
+      },
+      "correct_answer": "খ",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-06",
+      "topic_name": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 10,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "একটি গাড়ি $36\\ km\\ h^{-1}$ বেগে বাঁক নিতে গিয়ে দুর্ঘটনায় পতিত হয়। উদ্দীপক থেকে ১০ ও ১১নং প্রশ্নের উত্তর দাও :",
+        "has_image": true,
+        "image_description": "রাস্তার ব্যাংকিং সম্পর্কিত চিত্র, যেখানে রাস্তার প্রস্থ $8\\ m$ এবং উচ্চতা $0.2\\ m$ দেওয়া আছে।",
+        "image_url": "images/mcq_RB25_fig02.jpg"
+      },
+      "question_text": "রাস্তার ব্যাংকিং কোণ কত?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$1.43^{\\circ}$",
+        "খ": "$1.82^{\\circ}$",
+        "গ": "$2.81^{\\circ}$",
+        "ঘ": "$2.95^{\\circ}$"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-11",
+      "topic_name": "রাস্তার ব্যাংকিং",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 11,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "একটি গাড়ি $36\\ km\\ h^{-1}$ বেগে বাঁক নিতে গিয়ে দুর্ঘটনায় পতিত হয়। উদ্দীপক থেকে ১০ ও ১১নং প্রশ্নের উত্তর দাও :",
+        "has_image": true,
+        "image_description": "রাস্তার ব্যাংকিং সম্পর্কিত চিত্র, যেখানে রাস্তার প্রস্থ $8\\ m$ এবং উচ্চতা $0.2\\ m$ দেওয়া আছে।",
+        "image_url": "images/mcq_RB25_fig02.jpg"
+      },
+      "question_text": "রাস্তাটির ব্যাংকিং কোণ কত হলে গাড়িটি নিরাপদে বাঁকটি অতিক্রম করতে পারত?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$1.43^{\\circ}$",
+        "খ": "$2.81^{\\circ}$",
+        "গ": "$4.51^{\\circ}$",
+        "ঘ": "$5.82^{\\circ}$"
+      },
+      "correct_answer": "*",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-11",
+      "topic_name": "রাস্তার ব্যাংকিং",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 12,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": true,
+        "image_description": "পীড়ন বনাম বিকৃতির একটি লেখচিত্র, যেখানে D বিন্দুটি অসহ পীড়ন নির্দেশ করে।",
+        "image_url": "images/mcq_RB25_fig03.jpg"
+      },
+      "question_text": "চিত্রে 'D' বিন্দু হচ্ছে—",
+      "multi_statements": [],
+      "options": {
+        "ক": "অসহ বল",
+        "খ": "অসহ পীড়ন",
+        "গ": "স্থিতিস্থাপক সীমা",
+        "ঘ": "স্থিতিস্থাপক ক্লান্তি"
+      },
+      "correct_answer": "খ",
+      "chapter_no": 7,
+      "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+      "topic_code": "T-05",
+      "topic_name": "অসহ পীড়ন",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 13,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "নিচের কোনটি ভেক্টর রাশি নয়?",
+      "multi_statements": [],
+      "options": {
+        "ক": "গ্রাডিয়েন্ট",
+        "খ": "ডাইভারজেন্স",
+        "গ": "সরণ",
+        "ঘ": "কার্ল"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 2,
+      "chapter_name": "ভেক্টর",
+      "topic_code": "T-10",
+      "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 14,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "স্থির চাপে গ্যাসের তাপমাত্রা বনাম ঘনত্বের লেখচিত্র নিচের কোনটি?",
+      "multi_statements": [],
+      "options": {
+        "ক": "images/mcq_RB25_q14_ka.jpg",
+        "খ": "images/mcq_RB25_q14_kha.jpg",
+        "গ": "images/mcq_RB25_q14_ga.jpg",
+        "ঘ": "images/mcq_RB25_q14_gha.jpg"
+      },
+      "correct_answer": "গ",
+      "chapter_no": 10,
+      "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "topic_code": "T-01",
+      "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 15,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "সরল ছন্দিত কণার সর্বনিম্ন অবস্থান এবং সাম্যাবস্থার দশা পার্থক্য হচ্ছে—",
+      "multi_statements": [],
+      "options": {
+        "ক": "$\\frac{\\pi}{2}$",
+        "খ": "$\\pi$",
+        "গ": "$\\frac{3\\pi}{2}$",
+        "ঘ": "$2\\pi$"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 8,
+      "chapter_name": "পর্যাবৃত্ত গতি",
+      "topic_code": "T-02",
+      "topic_name": "সরল ছন্দিত স্পন্দন (বেগ, ত্বরণ)",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 16,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "কোনো বস্তুর গতিশক্তি $300\\%$ বাড়লে ভরবেগ কত শতাংশ বাড়বে?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$75\\%$",
+        "খ": "$89\\%$",
+        "গ": "$95\\%$",
+        "ঘ": "$100\\%$"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 5,
+      "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+      "topic_code": "T-03",
+      "topic_name": "বিভবশক্তি ও গতিশক্তি",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 17,
+      "mcq_type": "Multiple Completion MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "সরল দোলকের সাহায্যে নির্ণয় করা যায়—",
+      "multi_statements": [
+        "i. অভিকর্ষজ ত্বরণ",
+        "ii. পাহাড়ের উচ্চতা",
+        "iii. সময়"
+      ],
+      "options": {
+        "ক": "i ও ii",
+        "খ": "i ও iii",
+        "গ": "ii ও iii",
+        "ঘ": "i, ii ও iii"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 8,
+      "chapter_name": "পর্যাবৃত্ত গতি",
+      "topic_code": "T-03",
+      "topic_name": "সরল দোলক",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 18,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "উদ্দীপক থেকে ১৮ ও ১৯নং প্রশ্নের উত্তর দাও : [$R = 8.314\\ J\\ K^{-1}\\ mol^{-1}$ এবং পারদের ঘনত্ব $13596\\ kg\\ m^{-3}$]",
+        "has_image": true,
+        "image_description": "দুটি সিলিন্ডার A এবং B এর চিত্র। A সিলিন্ডারে He গ্যাস, STP, m = 8 gm। B সিলিন্ডারে He গ্যাস, T = 127°C, P = 70 cm পারদ চাপ, m = 8 gm।",
+        "image_url": "images/mcq_RB25_fig05.jpg"
+      },
+      "question_text": "B সিলিন্ডারে হিলিয়াম (He) গ্যাসের আয়তন কত?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$5.13 \\times 10^{-2}\\ m^3$",
+        "খ": "$6.58 \\times 10^{-2}\\ m^3$",
+        "গ": "$7.13 \\times 10^{-2}\\ m^3$",
+        "ঘ": "$8.51 \\times 10^{-2}\\ m^3$"
+      },
+      "correct_answer": "গ",
+      "chapter_no": 10,
+      "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "topic_code": "T-02",
+      "topic_name": "আদর্শ গ্যাসের সমীকরণ (PV=nRT)",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 19,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "উদ্দীপক থেকে ১৮ ও ১৯নং প্রশ্নের উত্তর দাও : [$R = 8.314\\ J\\ K^{-1}\\ mol^{-1}$ এবং পারদের ঘনত্ব $13596\\ kg\\ m^{-3}$]",
+        "has_image": true,
+        "image_description": "দুটি সিলিন্ডার A এবং B এর চিত্র। A সিলিন্ডারে He গ্যাস, STP, m = 8 gm। B সিলিন্ডারে He গ্যাস, T = 127°C, P = 70 cm পারদ চাপ, m = 8 gm।",
+        "image_url": "images/mcq_RB25_fig05.jpg"
+      },
+      "question_text": "B সিলিন্ডারে হিলিয়াম গ্যাসের গতিশক্তি A সিলিন্ডারের কতগুণ?",
+      "multi_statements": [],
+      "options": {
+        "ক": "1.38",
+        "খ": "1.46",
+        "গ": "1.59",
+        "ঘ": "1.64"
+      },
+      "correct_answer": "খ",
+      "chapter_no": 10,
+      "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "topic_code": "T-04",
+      "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 20,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "মহাকর্ষীয় ধ্রুবকের মাত্রা কোনটি?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$[M^{-1}T^{-2}L^3]$",
+        "খ": "$[M^{-1}L^{-1}T^2]$",
+        "গ": "$[M^{-1}L^{-2}T^3]$",
+        "ঘ": "$[M^{-1}L^{-1}T^3]$"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 6,
+      "chapter_name": "মহাকর্ষ ও অভিকর্ষ",
+      "topic_code": "T-01",
+      "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 21,
+      "mcq_type": "Multiple Completion MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "বলের ঘাতের ক্ষেত্রে—",
+      "multi_statements": [
+        "i. বলের ঘাত = বল $\\times$ ক্রিয়াকাল",
+        "ii. এর একক NS",
+        "iii. বলের ঘাত = ভরবেগের পরিবর্তন"
+      ],
+      "options": {
+        "ক": "i ও ii",
+        "খ": "i ও iii",
+        "গ": "ii ও iii",
+        "ঘ": "i, ii ও iii"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-03",
+      "topic_name": "বলের ঘাত ও ঘাত বল",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 22,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "একটি তারের ইয়ং এর গুণাঙ্ক $2.1 \\times 10^{11}\\ Nm^{-2}$ এবং ব্যাস $2\\ mm$। তারের দৈর্ঘ্য $0.5\\%$ বৃদ্ধি করতে হলে কত বল প্রয়োগ করতে হবে?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$2.15 \\times 10^{3}\\ N$",
+        "খ": "$2.61 \\times 10^{3}\\ N$",
+        "গ": "$2.98 \\times 10^{3}\\ N$",
+        "ঘ": "$3.29 \\times 10^{3}\\ N$"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 7,
+      "chapter_name": "পদার্থের গাঠনিক ধর্ম",
+      "topic_code": "T-01",
+      "topic_name": "ইয়ং এর গুণাঙ্ক",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 23,
+      "mcq_type": "Simple MCQ",
+      "shared_stem": {
+        "text": "",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "বাষ্পায়ন নির্ভর করে না—",
+      "multi_statements": [],
+      "options": {
+        "ক": "তরলের প্রকৃতির উপর",
+        "খ": "তরলের তাপমাত্রার উপর",
+        "গ": "বায়ুর তাপমাত্রার উপর",
+        "ঘ": "তরলের আয়তনের উপর"
+      },
+      "correct_answer": "ঘ",
+      "chapter_no": 10,
+      "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "topic_code": "T-06",
+      "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 24,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "একটি ইঞ্জিন $10^5\\ kg$ ভরের বস্তুকে ভূমির সাথে $65^{\\circ}$ কোণে $72\\ km\\ h^{-1}$ বেগে টেনে নিয়ে যাচ্ছে। ঘর্ষণজনিত বাধা $10^3\\ kg$ তে $20\\ N$ [$g = 9.8\\ m\\ s^{-2}$] উদ্দীপক থেকে ২৪ ও ২৫নং প্রশ্নের উত্তর দাও :",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "ক্রিয়াশীল লব্ধি বল কত?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$8.9 \\times 10^5\\ N$",
+        "খ": "$8.81 \\times 10^5\\ N$",
+        "গ": "$7.85 \\times 10^5\\ N$",
+        "ঘ": "$7.16 \\times 10^5\\ N$"
+      },
+      "correct_answer": "ক",
+      "chapter_no": 4,
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "topic_code": "T-01",
+      "topic_name": "নিউটনের সূত্র",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    },
+    {
+      "question_no": 25,
+      "mcq_type": "Situation Set MCQ",
+      "shared_stem": {
+        "text": "একটি ইঞ্জিন $10^5\\ kg$ ভরের বস্তুকে ভূমির সাথে $65^{\\circ}$ কোণে $72\\ km\\ h^{-1}$ বেগে টেনে নিয়ে যাচ্ছে। ঘর্ষণজনিত বাধা $10^3\\ kg$ তে $20\\ N$ [$g = 9.8\\ m\\ s^{-2}$] উদ্দীপক থেকে ২৪ ও ২৫নং প্রশ্নের উত্তর দাও :",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "question_text": "ইঞ্জিনের ক্ষমতা কত?",
+      "multi_statements": [],
+      "options": {
+        "ক": "$2.65 \\times 10^4\\ HP$",
+        "খ": "$2.51 \\times 10^4\\ HP$",
+        "গ": "$2.38 \\times 10^4\\ HP$",
+        "ঘ": "$2.25 \\times 10^4\\ HP$"
+      },
+      "correct_answer": "গ",
+      "chapter_no": 5,
+      "chapter_name": "কাজ, শক্তি ও ক্ষমতা",
+      "topic_code": "T-05",
+      "topic_name": "ক্ষমতা",
+      "answer_explanation": {
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
+        "has_image": false,
+        "image_url": ""
+      }
+    }
+  ]
+}

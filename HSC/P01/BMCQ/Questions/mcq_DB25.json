@@ -4,9 +4,9 @@
     "paper": "১ম পত্র",
     "source": "ঢাকা বোর্ড",
     "year": "২০২৫",
-    "exam_type": "বহুনির্বাচনি অভীক্ষা",
+    "exam_type": "বোর্ড বহুনির্বাচনি",
     "set_code": "সেট-গ",
-    "subject_code": "174",
+    "subject_code": "১৭৪",
     "total_marks": 25,
     "time": "২৫ মিনিট"
   },
@@ -20,7 +20,7 @@
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "$100\\ kg$ ভরের একজন লোক লিফটে $2\\ m\\ s^{-2}$ ত্বরণে উপরে উঠলে লোকটির উপর ঊর্ধ্বমুখী প্রতিক্রিয়া বল কত? $[g = 9.8\\ m\\ s^{-2}]$",
+      "question_text": "$100\\ kg$ ভরের একজন লোক লিফটে $2\\ m\\ s^{-2}$ ত্বরণে উপরে উঠলে লোকটির উপর ঊর্ধ্বমুখী প্রতিক্রিয়া বল কত? $[g=9.8\\ m\\ s^{-2}]$",
       "multi_statements": [],
       "options": {
         "ক": "$780\\ N$",
@@ -30,18 +30,15 @@
       },
       "correct_answer": "গ",
       "chapter_no": 4,
-      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
       "topic_code": "T-05",
       "topic_name": "লিফট",
       "answer_explanation": {
-        "full_explanation": "লিফট a ত্বরণে উপরে উঠলে ঊর্ধ্বমুখী প্রতিক্রিয়া বল, $R = m(g + a)$। এখানে $m = 100\\ kg$, $g = 9.8\\ m\\ s^{-2}$, $a = 2\\ m\\ s^{-2}$। সুতরাং, $R = 100(9.8 + 2) = 100 \\times 11.8 = 1180\\ N$।",
-        "final_answer": "$1180\\ N$",
-        "shortcut": "$R = m(g + a)$",
-        "calculator_hacks": "100 * (9.8 + 2)",
-        "steps": [
-          "প্রতিক্রিয়া বলের সমীকরণ $R = m(g + a)$ লিখুন।",
-          "মানসমূহ বসিয়ে গুণ করুন।"
-        ],
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -55,7 +52,7 @@
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "একটি বস্তুর উপর $(5\\hat{i} - 3\\hat{j} - 2\\hat{k})\\ N$ বল প্রয়োগ করায় $7\\ sec$ সময় পর বেগ $(3\\hat{i} + 2\\hat{j} + \\hat{k})\\ m\\ s^{-1}$ হলে বস্তুটির ক্ষমতা কত?",
+      "question_text": "একটি বস্তুর উপর $(5\\hat{i}-3\\hat{j}-2\\hat{k})\\ N$ বল প্রয়োগ করায় $7\\ sec$ সময় পর বেগ $(3\\hat{i}+2\\hat{j}+\\hat{k})\\ m\\ s^{-1}$ হলে বস্তুটির ক্ষমতা কত?",
       "multi_statements": [],
       "options": {
         "ক": "$1\\ W$",
@@ -69,13 +66,11 @@
       "topic_code": "T-05",
       "topic_name": "ক্ষমতা",
       "answer_explanation": {
-        "full_explanation": "ক্ষমতা $P = \\vec{F} \\cdot \\vec{v}$। এখানে $\\vec{F} = 5\\hat{i} - 3\\hat{j} - 2\\hat{k}$ এবং $\\vec{v} = 3\\hat{i} + 2\\hat{j} + \\hat{k}$। ডট গুণন করে পাই, $P = (5 \\times 3) + (-3 \\times 2) + (-2 \\times 1) = 15 - 6 - 2 = 7\\ W$।",
-        "final_answer": "$7.0\\ W$",
-        "shortcut": "$P = \\vec{F} \\cdot \\vec{v}$",
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
         "calculator_hacks": "",
-        "steps": [
-          "বল এবং বেগের ভেক্টর রূপের ডট গুণন করুন।"
-        ],
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -92,19 +87,19 @@
       "question_text": "বলের ঘাত এর ক্ষেত্রে কোনটি সঠিক?",
       "multi_statements": [],
       "options": {
-        "ক": "বলের মান কম কিন্তু ক্রিয়াকাল বেশি",
-        "খ": "বলের মান বেশি কিন্তু ক্রিয়াকাল কম",
-        "গ": "বলের মান ও ক্রিয়াকাল উভয় কম",
-        "ঘ": "বলের মান ও ক্রিয়াকাল উভয় বেশি"
+        "ক": "বলের মান কম কিন্তু ক্রিয়াকাল বেশি",
+        "খ": "বলের মান বেশি কিন্তু ক্রিয়াকাল কম",
+        "গ": "বলের মান ও ক্রিয়াকাল উভয় কম",
+        "ঘ": "বলের মান ও ক্রিয়াকাল উভয় বেশি"
       },
-      "correct_answer": "খ",
+      "correct_answer": "গ",
       "chapter_no": 4,
-      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
       "topic_code": "T-03",
       "topic_name": "বলের ঘাত ও ঘাত বল",
       "answer_explanation": {
-        "full_explanation": "ঘাত বল (Impulsive force) হলো খুব অল্প সময়ের জন্য ক্রিয়াশীল অনেক বড় মানের বল। এই বল এবং ক্রিয়াকালের গুণফলকে বলের ঘাত বলা হয়। তাই ঘাত বলের ক্ষেত্রে বলের মান অনেক বেশি হয় কিন্তু ক্রিয়াকাল খুব কম হয়।",
-        "final_answer": "বলের মান বেশি কিন্তু ক্রিয়াকাল কম",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -116,9 +111,9 @@
       "question_no": 4,
       "mcq_type": "Situation Set MCQ",
       "shared_stem": {
-        "text": "উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নের উত্তর দাও : দোলকটির দোলনকাল $2\\ sec$ এবং $g = 9.8\\ m\\ s^{-2}$.",
-      "has_image": true,
-      "image_description": "একটি সরল দোলকের চিত্র যেখানে O হচ্ছে ঝুলন বিন্দু, C হচ্ছে সাম্যাবস্থান, A হচ্ছে বাম দিকের সর্বোচ্চ অবস্থান এবং B হচ্ছে ডান দিকের সর্বোচ্চ অবস্থান।",
+        "text": "উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নের উত্তর দাও :\nদোলকটির দোলনকাল $2\\ sec$ এবং $g = 9.8\\ m\\ s^{-2}$।",
+        "has_image": true,
+        "image_description": "A diagram of a simple pendulum suspended from point O, with equilibrium position C and extreme positions A and B.",
         "image_url": "images/mcq_DB25_fig01.jpg"
       },
       "question_text": "দোলকটির কার্যকরী দৈর্ঘ্য কত?",
@@ -135,14 +130,11 @@
       "topic_code": "T-03",
       "topic_name": "সরল দোলক",
       "answer_explanation": {
-        "full_explanation": "সরল দোলকের দোলনকালের সূত্র $T = 2\\pi\\sqrt{\\frac{L}{g}}$ থেকে কার্যকরী দৈর্ঘ্য $L = \\frac{gT^2}{4\\pi^2}$। এখানে $T = 2\\ sec$ এবং $g = 9.8\\ m\\ s^{-2}$। মান বসালে, $L = \\frac{9.8 \\times 2^2}{4 \\times (3.1416)^2} = \\frac{39.2}{39.478} \\approx 0.993\\ m$।",
-        "final_answer": "$0.99\\ m$",
-        "shortcut": "$L = \\frac{gT^2}{4\\pi^2}$",
-        "calculator_hacks": "9.8 * 4 / (4 * \\pi^2)",
-        "steps": [
-          "দোলনকালের সূত্র থেকে কার্যকরী দৈর্ঘ্যের সমীকরণ বের করুন।",
-          "মানসমূহ বসিয়ে হিসাব করুন।"
-        ],
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -151,12 +143,12 @@
       "question_no": 5,
       "mcq_type": "Situation Set MCQ",
       "shared_stem": {
-        "text": "উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নের উত্তর দাও : দোলকটির দোলনকাল $2\\ sec$ এবং $g = 9.8\\ m\\ s^{-2}$.",
+        "text": "উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নের উত্তর দাও :\nদোলকটির দোলনকাল $2\\ sec$ এবং $g = 9.8\\ m\\ s^{-2}$।",
         "has_image": true,
-        "image_description": "একটি সরল দোলকের চিত্র যেখানে O হচ্ছে ঝুলন বিন্দু, C হচ্ছে সাম্যাবস্থান, A হচ্ছে বাম দিকের সর্বোচ্চ অবস্থান এবং B হচ্ছে ডান দিকের সর্বোচ্চ অবস্থান।",
+        "image_description": "A diagram of a simple pendulum suspended from point O, with equilibrium position C and extreme positions A and B.",
         "image_url": "images/mcq_DB25_fig01.jpg"
       },
-      "question_text": "BA দূরত্ব অতিক্রম করতে ববটির কত সময় লাগবে?",
+      "question_text": "$BA$ দূরত্ব অতিক্রম করতে ববটির কত সময় লাগবে?",
       "multi_statements": [],
       "options": {
         "ক": "$0.25\\ sec$",
@@ -164,20 +156,17 @@
         "গ": "$1\\ sec$",
         "ঘ": "$2\\ sec$"
       },
-      "correct_answer": "গ",
+      "correct_answer": "ঘ",
       "chapter_no": 8,
       "chapter_name": "পর্যাবৃত্ত গতি",
       "topic_code": "T-03",
       "topic_name": "সরল দোলক",
       "answer_explanation": {
-        "full_explanation": "একটি পূর্ণ দোলন সম্পন্ন করতে যে সময় লাগে তাকে দোলনকাল (T) বলে। ববটি B অবস্থান থেকে A অবস্থানে গেলে একটি অর্ধ-দোলন সম্পন্ন হয়। তাই BA দূরত্ব অতিক্রম করতে প্রয়োজনীয় সময় $t = \\frac{T}{2} = \\frac{2}{2} = 1\\ sec$।",
-        "final_answer": "$1\\ sec$",
-        "shortcut": "$t = \\frac{T}{2}$",
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
         "calculator_hacks": "",
-        "steps": [
-          "BA দূরত্ব একটি অর্ধ-দোলন নির্দেশ করে তা চিহ্নিত করুন।",
-          "দোলনকালকে ২ দিয়ে ভাগ করুন।"
-        ],
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -205,8 +194,8 @@
       "topic_code": "T-03",
       "topic_name": "বিভবশক্তি ও গতিশক্তি",
       "answer_explanation": {
-        "full_explanation": "গতিশক্তি $E = \\frac{1}{2}mv^2$। লব ও হরকে m দ্বারা গুণ করলে পাই, $E = \\frac{m^2v^2}{2m} = \\frac{(mv)^2}{2m}$। যেহেতু ভরবেগ $p = mv$, তাই $E = \\frac{p^2}{2m}$।",
-        "final_answer": "$E = \\frac{p^2}{2\\ m}$",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -227,8 +216,8 @@
       "multi_statements": [],
       "options": {
         "ক": "১ম",
-        "খ": "২য়",
-        "গ": "৩য়",
+        "খ": "২য়",
+        "গ": "৩য়",
         "ঘ": "৪র্থ"
       },
       "correct_answer": "ক",
@@ -237,8 +226,8 @@
       "topic_code": "T-03",
       "topic_name": "স্ক্রু-গজ, ভার্নিয়ার স্কেল, স্ফেরোমিটার ও নিত্তি",
       "answer_explanation": {
-        "full_explanation": "কোনো পরিমাপক যন্ত্রের লঘিষ্ঠ ধ্রুবক (Least count) যত ক্ষুদ্র হবে, সেই যন্ত্র দ্বারা পরিমাপকৃত মান তত বেশি নির্ভুল এবং সূক্ষ্ম হবে। প্রদত্ত স্ফেরোমিটারগুলোর মধ্যে ১ম স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক ($0.0001\\ mm$) সবচেয়ে ক্ষুদ্রতম।",
-        "final_answer": "১ম",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -269,8 +258,8 @@
       "topic_code": "T-06",
       "topic_name": "শিশিরাঙ্ক ও আপেক্ষিক আর্দ্রতা",
       "answer_explanation": {
-        "full_explanation": "যখন বায়ুর তাপমাত্রা শিশিরাঙ্কের সমান হয়, তখন উক্ত স্থানের বায়ু জলীয় বাষ্প দ্বারা পুরোপুরি সম্পৃক্ত থাকে। সম্পৃক্ত অবস্থায় বায়ুর আপেক্ষিক আর্দ্রতা (Relative Humidity) সর্বোচ্চ অর্থাৎ ১০০% হয়।",
-        "final_answer": "$100\\%$",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -296,13 +285,13 @@
         "ঘ": "$10^5$"
       },
       "correct_answer": "খ",
-      "chapter_no": 1,
-      "chapter_name": "ভৌত জগৎ ও পরিমাপ",
+      "chapter_no": 10,
+      "chapter_name": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
       "topic_code": "T-04",
-      "topic_name": "বিভিন্ন এককের Conversion",
+      "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
       "answer_explanation": {
-        "full_explanation": "S.I. পদ্ধতিতে বোলজম্যান ধ্রুবক $k$ এর একক $J\\ K^{-1}$ এবং CGS পদ্ধতিতে এর একক $erg\\ K^{-1}$। আমরা জানি $1\\ J = 10^7\\ erg$। সুতরাং, CGS এককে বোলজম্যান ধ্রুবকের গাণিতিক মান S.I. এককের মানের তুলনায় $10^7$ গুণ বেশি হবে।",
-        "final_answer": "$10^7$",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -319,7 +308,7 @@
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "পয়সনের অনুপাত হলো-",
+      "question_text": "পয়সনের অনুপাত হলো-",
       "multi_statements": [],
       "options": {
         "ক": "$0.10$",
@@ -333,13 +322,11 @@
       "topic_code": "T-04",
       "topic_name": "পয়সনের অনুপাত",
       "answer_explanation": {
-        "full_explanation": "পয়সনের অনুপাত, $\\sigma = \\frac{\\text{পার্শ্ব বিকৃতি}}{\\text{দৈর্ঘ্য বিকৃতি}} = \\frac{\\Delta d / d}{\\Delta L / L}$। এখানে, আদি ব্যাস $d = 5\\ mm$, ব্যাসের পরিবর্তন $\\Delta d = 0.01\\ mm$, আদি দৈর্ঘ্য $L = 1\\ m = 100\\ cm$, দৈর্ঘ্যের পরিবর্তন $\\Delta L = 2\\ cm$। মান বসালে, $\\sigma = \\frac{0.01 / 5}{2 / 100} = \\frac{0.002}{0.02} = 0.1$ বা $0.10$।",
-        "final_answer": "$0.10$",
-        "shortcut": "$\\sigma = \\frac{\\Delta d \\times L}{d \\times \\Delta L}$",
-        "calculator_hacks": "(0.01 * 100) / (5 * 2)",
-        "steps": [
-          "পার্শ্ব বিকৃতি এবং দৈর্ঘ্য বিকৃতির অনুপাতের সূত্রে মান বসান।"
-        ],
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -348,12 +335,12 @@
       "question_no": 11,
       "mcq_type": "Situation Set MCQ",
       "shared_stem": {
-        "text": "",
+        "text": "উদ্দীপকের আলোকে ১০ ও ১১নং প্রশ্নের উত্তর দাও : $1\\ m$ দীর্ঘ কোনো তারের ব্যাস $5\\ mm$। তারের দৈর্ঘ্য বরাবর একটি বল প্রয়োগ করায় এর ব্যাস $0.01\\ mm$ হ্রাস পায় এবং দৈর্ঘ্য $2\\ cm$ বৃদ্ধি পায়।",
         "has_image": false,
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "তারটির উপাদানের ইয়ং এর গুণাঙ্ক $2 \\times 10^{11}\\ Nm^{-2}$ হলে তারে সঞ্চিত বিভবশক্তি কত?",
+      "question_text": "তারটির উপাদানের ইয়ং এর গুণাঙ্ক $2 \\times 10^{11}\\ N\\ m^{-2}$ হলে তারে সঞ্চিত বিভবশক্তি কত?",
       "multi_statements": [],
       "options": {
         "ক": "$7.85 \\times 10^2\\ J$",
@@ -367,14 +354,11 @@
       "topic_code": "T-06",
       "topic_name": "কৃতকাজ ও সঞ্চিত শক্তি",
       "answer_explanation": {
-        "full_explanation": "তারে সঞ্চিত বিভবশক্তি $U = \\frac{1}{2} \\times \\text{বল} \\times \\text{দৈর্ঘ্য বৃদ্ধি} = \\frac{1}{2} F l$। আবার, $Y = \\frac{FL}{Al} \\implies F = \\frac{YAl}{L}$। সুতরাং, $U = \\frac{YAl^2}{2L}$। এখানে $Y = 2 \\times 10^{11}\\ Nm^{-2}$, আদি দৈর্ঘ্য $L = 1\\ m$, দৈর্ঘ্য বৃদ্ধি $l = 2\\ cm = 0.02\\ m$, ব্যাসার্ধ $r = 2.5\\ mm = 2.5 \\times 10^{-3}\\ m$, ক্ষেত্রফল $A = \\pi r^2 = \\pi (2.5 \\times 10^{-3})^2 \\approx 1.9635 \\times 10^{-5}\\ m^2$। মান বসালে, $U = \\frac{2 \\times 10^{11} \\times 1.9635 \\times 10^{-5} \\times (0.02)^2}{2 \\times 1} \\approx 7.854 \\times 10^2\\ J$।",
-        "final_answer": "$7.85 \\times 10^2\\ J$",
-        "shortcut": "$U = \\frac{YAl^2}{2L}$",
-        "calculator_hacks": "(2*10^11 * \\pi * (2.5*10^-3)^2 * 0.02^2) / 2",
-        "steps": [
-          "সঞ্চিত শক্তির সমীকরণে $F$ এর মান ইয়ং-এর গুণাঙ্কের সূত্র থেকে প্রতিস্থাপন করুন।",
-          "প্রদত্ত মানসমূহ SI এককে রূপান্তর করে সমীকরণে বসান।"
-        ],
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -391,10 +375,10 @@
       "question_text": "কম্পনরত কণার ক্ষেত্রে স্বাধীনতার মাত্রাপিছু বণ্টিত মোট শক্তি কত?",
       "multi_statements": [],
       "options": {
-        "ক": "$\\frac{1}{2} kT$",
+        "ক": "$\\frac{1}{2}\\ kT$",
         "খ": "$kT$",
-        "গ": "$\\frac{3}{2} kT$",
-        "ঘ": "$3 kT$"
+        "গ": "$\\frac{3}{2}\\ kT$",
+        "ঘ": "$3\\ kT$"
       },
       "correct_answer": "খ",
       "chapter_no": 10,
@@ -402,8 +386,8 @@
       "topic_code": "T-04",
       "topic_name": "গ্যাসের গতিতত্ত্ব ও গতিশক্তি",
       "answer_explanation": {
-        "full_explanation": "শক্তির সমবিভাজন নীতি অনুসারে, প্রতিটি রৈখিক বা আবর্তনশীল স্বাধীনতার মাত্রার জন্য শক্তির পরিমাণ $\\frac{1}{2}kT$। কিন্তু একটি কম্পনরত কণার (vibrating particle) প্রতিটি স্বাধীনতার মাত্রার সাথে গতিশক্তি ও বিভবশক্তি উভয়ই জড়িত থাকে। তাই কম্পনরত কণার ক্ষেত্রে স্বাধীনতার মাত্রাপিছু মোট শক্তি = $\\frac{1}{2}kT + \\frac{1}{2}kT = kT$।",
-        "final_answer": "$kT$",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -434,13 +418,13 @@
       "topic_code": "T-03",
       "topic_name": "সরল দোলক",
       "answer_explanation": {
-        "full_explanation": "লেখচিত্রে Y অক্ষে $T^2$ এবং X অক্ষে $g$ দেখানো হয়েছে, যা একটি অধিবৃত্তাকার বক্ররেখা (Inverse relationship)। সরল দোলকের ত্বরণের সূত্র বা ৩য় সূত্রানুসারে, নির্দিষ্ট দৈর্ঘ্যের দোলকের দোলনকাল অভিকর্ষজ ত্বরণের বর্গমূলের ব্যস্তানুপাতিক ($T \\propto \\frac{1}{\\sqrt{g}}$), যা থেকে পাওয়া যায় $T^2 \\propto \\frac{1}{g}$। এটি লেখচিত্রের বক্ররেখার সাথে মিলে যায়।",
-        "final_answer": "৩য়",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
-        "has_image": false,
-        "image_url": ""
+        "has_image": true,
+        "image_url": "images/mcq_DB25_fig02.jpg"
       }
     },
     {
@@ -452,13 +436,13 @@
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "কোনো যন্ত্রের কার্যকর শক্তি $E$, মোট প্রদত্ত শক্তি $E'$ এবং শক্তির অপচয় $E_1$ হলে- নিচের কোনটি সঠিক নয়?",
+      "question_text": "কোনো যন্ত্রের কার্যকর শক্তি $E$, মোট প্রদত্ত শক্তি $E'$ এবং শক্তির অপচয় $E_1$ হলে- নিচের কোনটি সঠিক নয়?",
       "multi_statements": [],
       "options": {
-        "ক": "যখন $E = E'$ তখন কর্মদক্ষতা $\\eta = 100\\%$",
-        "খ": "যখন $E_1 = 0$ তখন কর্মদক্ষতা $\\eta = 100\\%$",
-        "গ": "যখন $E' = E_1$ তখন কর্মদক্ষতা $\\eta = 0\\%$",
-        "ঘ": "যখন $E' = E_1$ তখন কর্মদক্ষতা $\\eta = 100\\%$"
+        "ক": "যখন $E=E'$ তখন কর্মদক্ষতা $\\eta=100\\%$",
+        "খ": "যখন $E_1=0$ তখন কর্মদক্ষতা $\\eta=100\\%$",
+        "গ": "যখন $E'=E_1$ তখন কর্মদক্ষতা $\\eta=0\\%$",
+        "ঘ": "যখন $E'=E_1$ তখন কর্মদক্ষতা $\\eta=100\\%$"
       },
       "correct_answer": "ঘ",
       "chapter_no": 5,
@@ -466,8 +450,8 @@
       "topic_code": "T-05",
       "topic_name": "ক্ষমতা",
       "answer_explanation": {
-        "full_explanation": "কর্মদক্ষতা $\\eta = \\frac{\\text{কার্যকর শক্তি}}{\\text{মোট প্রদত্ত শক্তি}} \\times 100\\% = \\frac{E}{E'} \\times 100\\%$। কার্যকর শক্তি $E = E' - E_1$। যদি $E' = E_1$ হয় (অর্থাৎ সম্পূর্ণ শক্তিই অপচয় হয়), তবে কার্যকর শক্তি $E = 0$ হবে। এই অবস্থায় কর্মদক্ষতা $\\eta = \\frac{0}{E'} \\times 100\\% = 0\\%$। তাই 'যখন $E' = E_1$ তখন কর্মদক্ষতা $\\eta = 100\\%$' উক্তিটি সঠিক নয়।",
-        "final_answer": "যখন $E' = E_1$ তখন কর্মদক্ষতা $\\eta = 100\\%$",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -486,24 +470,24 @@
       },
       "question_text": "$\\vec{\\nabla} \\cdot \\vec{V} = 0$ হলে-",
       "multi_statements": [
-        "ভেক্টর ক্ষেত্রটি সলিনয়ডাল",
-        "প্রবাহী অপ্রসারণশীল হয়",
-        "কোনো পদার্থের আগত ও নির্গত ফ্লাক্সের পরিবর্তন হয় না"
+        "ভেক্টর ক্ষেত্রটি সলিনয়ডাল",
+        "প্রবাহী অপ্রসারণশীল হয়",
+        "কোনো পদার্থের আগত ও নির্গত ফ্লাক্সের পরিবর্তন হয় না"
       ],
       "options": {
         "ক": "i ও ii",
-        "খ": "ii ও iii",
-        "গ": "i ও iii",
+        "খ": "i ও iii",
+        "গ": "ii ও iii",
         "ঘ": "i, ii ও iii"
       },
-      "correct_answer": "ঘ",
+      "correct_answer": "খ",
       "chapter_no": 2,
       "chapter_name": "ভেক্টর",
       "topic_code": "T-10",
       "topic_name": "ভেক্টর ক্যালকুলাস (গ্রেডিয়েন্ট, ডাইভারজেন্স, কার্ল)",
       "answer_explanation": {
-        "full_explanation": "যখন কোনো ভেক্টর ক্ষেত্রের ডাইভারজেন্স শূন্য ($\\vec{\\nabla} \\cdot \\vec{V} = 0$) হয়, তখন ক্ষেত্রটিকে সলিনয়ডাল (solenoidal) বলা হয়। ডাইভারজেন্স শূন্য হওয়ার অর্থ হলো ঐ বিন্দুতে আগত ও নির্গত ফ্লাক্সের পরিমাণ সমান। প্রবাহী গতিবিদ্যার ক্ষেত্রে এটি নির্দেশ করে যে তরল বা প্রবাহীটি অসংনমনীয় বা অপ্রসারণশীল (incompressible)।",
-        "final_answer": "i, ii ও iii",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -520,7 +504,7 @@
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "একটি পাত্রে $0^{\\circ}\\ C$ তাপমাত্রায় কিছু গ্যাস রক্ষিত আছে। স্থির আয়তনে কত তাপমাত্রায় গ্যাসের চাপ $0^{\\circ}\\ C$ তাপমাত্রায় চাপের এক-তৃতীয়াংশ হবে?",
+      "question_text": "একটি পাত্রে $0^{\\circ}\\ C$ তাপমাত্রায় কিছু গ্যাস রক্ষিত আছে। স্থির আয়তনে কত তাপমাত্রায় গ্যাসের চাপ $0^{\\circ}\\ C$ তাপমাত্রায় চাপের এক-তৃতীয়াংশ হবে?",
       "multi_statements": [],
       "options": {
         "ক": "$91\\ K$",
@@ -534,14 +518,11 @@
       "topic_code": "T-01",
       "topic_name": "বয়েল, চার্লস ও চাপীয় সূত্র",
       "answer_explanation": {
-        "full_explanation": "স্থির আয়তনে চাপের সূত্র (গে-লুসাকের সূত্র) অনুযায়ী, $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$। এখানে প্রাথমিক তাপমাত্রা $T_1 = 0^{\\circ}\\ C = 273\\ K$, এবং শর্তমতে শেষ চাপ $P_2 = \\frac{P_1}{3}$। সুতরাং, $T_2 = \\frac{P_2 \\times T_1}{P_1} = \\frac{(P_1/3) \\times 273}{P_1} = \\frac{273}{3} = 91\\ K$।",
-        "final_answer": "$91\\ K$",
-        "shortcut": "$T_2 = \\frac{T_1}{3}$",
-        "calculator_hacks": "273 / 3",
-        "steps": [
-          "চাপের সূত্রের সমীকরণ $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$ লিখুন।",
-          "$P_2$ এর স্থানে $P_1/3$ বসিয়ে $T_2$ এর মান বের করুন।"
-        ],
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -555,7 +536,7 @@
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "S.I পদ্ধতিতে মহাকর্ষীয় ধ্রুবকের একক-",
+      "question_text": "S.I পদ্ধতিতে মহাকর্ষীয় ধ্রুবকের একক-",
       "multi_statements": [],
       "options": {
         "ক": "$m\\ kg\\ s^{-1}$",
@@ -569,14 +550,11 @@
       "topic_code": "T-01",
       "topic_name": "মহাকর্ষীয় বলের সূত্রের ব্যবহার",
       "answer_explanation": {
-        "full_explanation": "নিউটনের মহাকর্ষ সূত্রানুসারে $F = G\\frac{m_1 m_2}{r^2} \\implies G = \\frac{F r^2}{m_1 m_2}$। S.I. পদ্ধতিতে বলের ($F$) একক $N$, দূরত্বের ($r$) একক $m$ এবং ভরের ($m$) একক $kg$। অতএব, $G$-এর একক $= N\\ m^2\\ kg^{-2}$। যেহেতু $1\\ N = 1\\ kg\\ m\\ s^{-2}$, তাই $G$-এর মৌলিক একক $= (kg\\ m\\ s^{-2}) \\times m^2 \\times kg^{-2} = m^3\\ kg^{-1}\\ s^{-2}$।",
-        "final_answer": "$m^3\\ kg^{-1}\\ s^{-2}$",
-        "shortcut": "$N\\ m^2\\ kg^{-2}$ কে মৌলিক এককে ভাঙুন",
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
         "calculator_hacks": "",
-        "steps": [
-          "$G$ এর সূত্র থেকে একক $N\\ m^2\\ kg^{-2}$ নির্ণয় করুন।",
-          "$N$ কে $kg\\ m\\ s^{-2}$ দ্বারা প্রতিস্থাপন করে সরল করুন।"
-        ],
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -604,8 +582,8 @@
       "topic_code": "T-03",
       "topic_name": "সরল দোলক",
       "answer_explanation": {
-        "full_explanation": "ফাঁপা ববকে পারদ দিয়ে অর্ধেক পূর্ণ করলে পারদের কারণে ববের ভারকেন্দ্র (center of mass) ববের জ্যামিতিক কেন্দ্র থেকে কিছুটা নিচে নেমে যায়। ফলে দোলকের কার্যকরী দৈর্ঘ্য ($L$) বৃদ্ধি পায়। দোলনকালের সূত্র $T = 2\\pi\\sqrt{\\frac{L}{g}}$ থেকে দেখা যায় যে $T \\propto \\sqrt{L}$। কার্যকরী দৈর্ঘ্য বৃদ্ধি পাওয়ায় দোলনকাল ($T$) বৃদ্ধি পাবে, অর্থাৎ দোলকটি ধীরে চলবে।",
-        "final_answer": "ধীরে চলবে",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -622,13 +600,13 @@
         "image_description": "",
         "image_url": ""
       },
-      "question_text": "মেরু অঞ্চল অপেক্ষা বিষুবীয় অঞ্চলে অভিকর্ষজ ত্বরণ কত কম?",
+      "question_text": "মেরু অঞ্চল অপেক্ষা বিষুবীয় অঞ্চলে অভিকর্ষজ ত্বরণ কত কম?",
       "multi_statements": [],
       "options": {
         "ক": "$\\omega^2 R$",
         "খ": "$\\omega R$",
-        "গ": "$\\omega R \\cos^2 \\lambda$",
-        "ঘ": "$\\omega R^2 \\cos^2 \\lambda$"
+        "গ": "$\\omega R\\cos^2\\lambda$",
+        "ঘ": "$\\omega R^2\\cos^2\\lambda$"
       },
       "correct_answer": "ক",
       "chapter_no": 6,
@@ -636,9 +614,9 @@
       "topic_code": "T-02",
       "topic_name": "অভিকর্ষজ ত্বরণ (g)",
       "answer_explanation": {
-        "full_explanation": "পৃথিবীর ঘূর্ণনের কারণে $\\lambda$ অক্ষাংশে অভিকর্ষজ ত্বরণ $g_{\\lambda} = g - \\omega^2 R \\cos^2 \\lambda$। মেরু অঞ্চলে অক্ষাংশ $\\lambda = 90^{\\circ}$, তাই $\\cos 90^{\\circ} = 0$, সুতরাং $g_{\\text{মেরু}} = g$। বিষুবীয় অঞ্চলে অক্ষাংশ $\\lambda = 0^{\\circ}$, তাই $\\cos 0^{\\circ} = 1$, সুতরাং $g_{\\text{বিষুবীয়}} = g - \\omega^2 R$। অতএব, ত্বরণের পার্থক্য = $g_{\\text{মেরু}} - g_{\\text{বিষুবীয়}} = g - (g - \\omega^2 R) = \\omega^2 R$।",
-        "final_answer": "$\\omega^2 R$",
-        "shortcut": "$g_{\\text{মেরু}} - g_{\\text{বিষুবীয়}} = \\omega^2 R$",
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
         "has_image": false,
@@ -664,12 +642,12 @@
       },
       "correct_answer": "খ",
       "chapter_no": 4,
-      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
       "topic_code": "T-07",
       "topic_name": "দ্বন্দ্ব ও টর্ক",
       "answer_explanation": {
-        "full_explanation": "কোনো বিন্দুর সাপেক্ষে ব্যাসার্ধ ভেক্টর ($\\vec{r}$) এবং প্রযুক্ত বলের ভেক্টরের ($\\vec{F}$) ক্রস গুণন বা ভেক্টর গুণনকে টর্ক (Torque) বা বলের ভ্রামক (Moment of force) বলা হয়। গাণিতিকভাবে, $\\vec{\\tau} = \\vec{r} \\times \\vec{F}$।",
-        "final_answer": "বলের ভ্রামক",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -689,20 +667,20 @@
       "question_text": "$r$ ব্যাসার্ধবিশিষ্ট একটি রাস্তার বাঁকের ব্যাংকিং কোণ $\\theta$ হলে, $v$ বেগে গতিশীল গাড়ির নিরাপদে বাঁক নেওয়ার শর্ত হলো-",
       "multi_statements": [],
       "options": {
-        "ক": "$v \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$",
-        "খ": "$v \\nless (rg \\tan\\theta)^{\\frac{1}{2}}$",
-        "গ": "$v^2 \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$",
-        "ঘ": "$v > (rg \\tan\\theta)^{\\frac{1}{2}}$"
+        "ক": "$v \\le (rg\\tan\\theta)^{\\frac{1}{2}}$",
+        "খ": "$v \\nless (rg\\tan\\theta)^{\\frac{1}{2}}$",
+        "গ": "$v^2 \\le (rg\\tan\\theta)^{\\frac{1}{2}}$",
+        "ঘ": "$v > (rg\\tan\\theta)^{\\frac{1}{2}}$"
       },
       "correct_answer": "ক",
       "chapter_no": 4,
-      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
+      "chapter_name": "নিউটনিয়ান বলবিদ্যা",
       "topic_code": "T-11",
       "topic_name": "রাস্তার ব্যাংকিং",
       "answer_explanation": {
-        "full_explanation": "রাস্তার বাঁকে নিরাপদে বাঁক নেওয়ার জন্য প্রয়োজনীয় কেন্দ্রমুখী বল ব্যাংকিং থেকে প্রাপ্ত বলের উপাংশ থেকে সরবরাহ হতে হবে। ঘর্ষণবিহীন অবস্থায় সর্বোচ্চ নিরাপদ বেগের সমীকরণ $v = \\sqrt{rg \\tan\\theta}$। তাই গাড়িটিকে নিরাপদে বাঁক নিতে হলে এর বেগ $v$ এর মান $\\sqrt{rg \\tan\\theta}$ এর সমান বা তার চেয়ে কম হতে হবে। অর্থাৎ, $v \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$।",
-        "final_answer": "$v \\leq (rg \\tan\\theta)^{\\frac{1}{2}}$",
-        "shortcut": "$v_{max} = \\sqrt{rg \\tan\\theta}$",
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
         "has_image": false,
@@ -736,8 +714,8 @@
       "topic_code": "T-01",
       "topic_name": "কৃতকাজ",
       "answer_explanation": {
-        "full_explanation": "কেন্দ্রমুখী বল সর্বদা বেগের বা সরণের লম্ব বরাবর কাজ করে, তাই এর দ্বারা কৃতকাজ শূন্য ($W = Fs \\cos 90^{\\circ} = 0$)। সমবেগে (uniform speed) আবর্তনশীল বস্তুর গতিশক্তির পরিবর্তন হয় না, তাই কাজ-শক্তি উপপাদ্য অনুসারে কৃতকাজ শূন্য। তবে বস্তুটি সমত্বরণে গতিশীল হলে এর বেগের মান বৃদ্ধি পায়, ফলে গতিশক্তি বৃদ্ধি পায় এবং কৃতকাজ শূন্য হয় না। শুধুমাত্র (ii) উক্তিটি সঠিক, যা প্রদত্ত কোনো অপশনে নেই। তাই প্রশ্নটিতে সঠিক উত্তর নেই (উত্তরমালায় * দেওয়া আছে)।",
-        "final_answer": "সঠিক উত্তর নেই",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],
@@ -751,8 +729,8 @@
       "shared_stem": {
         "text": "উদ্দীপকের আলোকে ২৩ ও ২৪নং প্রশ্নের উত্তর দাও :",
         "has_image": true,
-        "image_description": "একটি বহমান নদীর চিত্র যেখানে নদীর প্রস্থ $d = 4\\ km$। স্রোতের বেগ অনুভূমিক ডানদিকে $P = 9\\ km\\ h^{-1}$। একটি নৌকা বা সাঁতারুর বেগ $Q = 18\\ km\\ h^{-1}$ যা নদীর লম্ব দিকের সাথে $30^{\\circ}$ কোণ উৎপন্ন করে বিপরীত স্রোতের দিকে নির্দেশিত।",
-        "image_url": "images/mcq_DB25_fig02.jpg"
+        "image_description": "A diagram of a flowing river showing a current vector P = 9 km h^-1 to the right and a swimmer/boat vector Q = 18 km h^-1 moving diagonally upwards and leftwards. The angle between the vector Q and the straight-across (vertical) direction is marked as 30 degrees. The width of the river is marked as d = 4 km.",
+        "image_url": "images/mcq_DB25_fig03.jpg"
       },
       "question_text": "স্রোতের বেগ $P$ কে নাকচ করার জন্য $Q$ এর উপাংশের মান কত হবে?",
       "multi_statements": [],
@@ -762,19 +740,17 @@
         "গ": "$15.59\\ km\\ h^{-1}$",
         "ঘ": "$9\\ km\\ h^{-1}$"
       },
-      "correct_answer": "ঘ",
+      "correct_answer": "গ",
       "chapter_no": 2,
       "chapter_name": "ভেক্টর",
       "topic_code": "T-04",
       "topic_name": "নদী ও নৌকা",
       "answer_explanation": {
-        "full_explanation": "স্রোতের বেগ $P$ কে নাকচ করতে হলে, স্রোতের বিপরীত দিকে $Q$ এর অনুভূমিক উপাংশের মান $P$ এর সমান হতে হবে। যেহেতু স্রোতের বেগ $P = 9\\ km\\ h^{-1}$, তাই একে নাকচ করতে প্রয়োজনীয় বিপরীতমুখী উপাংশও $9\\ km\\ h^{-1}$ হতে হবে। চিত্রানুযায়ী, লম্বের সাথে $30^{\\circ}$ কোণ থাকলে স্রোতের বিপরীতে $Q$ এর উপাংশ $Q \\sin 30^{\\circ} = 18 \\times 0.5 = 9\\ km\\ h^{-1}$, যা স্রোতকে সম্পূর্ণ নাকচ করে।",
-        "final_answer": "$9\\ km\\ h^{-1}$",
-        "shortcut": "স্রোতকে নাকচ করার উপাংশ = স্রোতের বেগ = $P$",
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
         "calculator_hacks": "",
-        "steps": [
-          "নদী পার হওয়ার সময় স্রোতকে নাকচ করতে অনুভূমিক উপাংশ সমান ও বিপরীতমুখী হতে হবে।"
-        ],
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -783,16 +759,16 @@
       "question_no": 24,
       "mcq_type": "Situation Set MCQ",
       "shared_stem": {
-        "text": "",
+        "text": "উদ্দীপকের আলোকে ২৩ ও ২৪নং প্রশ্নের উত্তর দাও :",
         "has_image": true,
-        "image_description": "",
-        "image_url": ""
+        "image_description": "A diagram of a flowing river showing a current vector P = 9 km h^-1 to the right and a swimmer/boat vector Q = 18 km h^-1 moving diagonally upwards and leftwards. The angle between the vector Q and the straight-across (vertical) direction is marked as 30 degrees. The width of the river is marked as d = 4 km.",
+        "image_url": "images/mcq_DB25_fig03.jpg"
       },
       "question_text": "উদ্দীপক অনুসারে-",
       "multi_statements": [
-        "সাঁতারুর ন্যূনতম দূরত্বে নদী পার হওয়ার সময় = $0.256\\ h$",
-        "সাঁতারুর ন্যূনতম সময়ে নদী পার হওয়ার সময় = $0.22\\ h$",
-        "সাঁতারুর নদী পার হওয়ার সময় = $0.22\\ h$"
+        "সাঁতারুর ন্যূনতম দূরত্বে নদী পার হওয়ার সময় $= 0.256\\ h$",
+        "সাঁতারুর ন্যূনতম সময়ে নদী পার হওয়ার সময় $= 0.22\\ h$",
+        "সাঁতারুর নদী পার হওয়ার সময় $= 0.22\\ h$"
       ],
       "options": {
         "ক": "i ও ii",
@@ -806,14 +782,11 @@
       "topic_code": "T-04",
       "topic_name": "নদী ও নৌকা",
       "answer_explanation": {
-        "full_explanation": "ন্যূনতম দূরত্বে নদী পার হওয়ার সময়, $t_{1} = \\frac{d}{\\sqrt{Q^2 - P^2}} = \\frac{4}{\\sqrt{18^2 - 9^2}} = \\frac{4}{\\sqrt{243}} \\approx 0.256\\ h$। (উদ্দীপকের চিত্রে সাঁতারু এই পথেই যাচ্ছেন)। ন্যূনতম সময়ে নদী পার হওয়ার সময়, $t_{min} = \\frac{d}{Q} = \\frac{4}{18} = 0.222\\ h \\approx 0.22\\ h$। উদ্দীপকের নির্দিষ্ট কোণে সাঁতার কাটলে পার হওয়ার সময় $0.256\\ h$, তাই (iii) নম্বর উক্তিটি ভুল। i এবং ii সঠিক।",
-        "final_answer": "i ও ii",
-        "shortcut": "$t_{min\\_dist} = \\frac{d}{\\sqrt{v^2 - u^2}}$, $t_{min\\_time} = \\frac{d}{v}$",
-        "calculator_hacks": "4 / \\sqrt{18^2 - 9^2} \\approx 0.256; 4 / 18 \\approx 0.222",
-        "steps": [
-          "ন্যূনতম দূরত্বের সূত্র ব্যবহার করে সময় বের করুন।",
-          "ন্যূনতম সময়ের সূত্র ব্যবহার করে সময় বের করুন।"
-        ],
+        "full_explanation": "",
+        "final_answer": "",
+        "shortcut": "",
+        "calculator_hacks": "",
+        "steps": [],
         "has_image": false,
         "image_url": ""
       }
@@ -841,8 +814,8 @@
       "topic_code": "T-02",
       "topic_name": "কাঠিন্যের গুণাঙ্ক (Rigidity)",
       "answer_explanation": {
-        "full_explanation": "হুকের সূত্রানুসারে, স্থিতিস্থাপক সীমার মধ্যে ব্যবর্তন (বা কৃন্তন) পীড়ন এবং ব্যবর্তন বিকৃতির অনুপাত একটি ধ্রুবক। এই ধ্রুবককে বস্তুর উপাদানের দৃঢ়তার গুণাঙ্ক বা ব্যবর্তন গুণাঙ্ক (Modulus of Rigidity) বলা হয়। একে সাধারণত $\\eta$ দ্বারা প্রকাশ করা হয়।",
-        "final_answer": "দৃঢ়তার গুণাঙ্ক",
+        "full_explanation": "",
+        "final_answer": "",
         "shortcut": "",
         "calculator_hacks": "",
         "steps": [],

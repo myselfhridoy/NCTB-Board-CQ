@@ -3,7 +3,7 @@
     "subject": "পদার্থবিজ্ঞান",
     "paper": "১ম পত্র",
     "source": "রাজশাহী বোর্ড",
-    "year": "2025",
+    "year": "২০২৫",
     "exam_type": "বোর্ড বহুনির্বাচনি",
     "set_code": "সেট-গ",
     "subject_code": "174",
@@ -447,10 +447,10 @@
       "question_text": "স্থির চাপে গ্যাসের তাপমাত্রা বনাম ঘনত্বের লেখচিত্র নিচের কোনটি?",
       "multi_statements": [],
       "options": {
-        "ক": "images/mcq_RB25_q14_ka.jpg",
-        "খ": "images/mcq_RB25_q14_kha.jpg",
-        "গ": "images/mcq_RB25_q14_ga.jpg",
-        "ঘ": "images/mcq_RB25_q14_gha.jpg"
+        "ক": "images/mcq_RB25_fig04_1.jpg",
+        "খ": "images/mcq_RB25_fig04_2.jpg",
+        "গ": "images/mcq_RB25_fig04_3.jpg",
+        "ঘ": "images/mcq_RB25_fig04_4.jpg"
       },
       "correct_answer": "গ",
       "chapter_no": 10,

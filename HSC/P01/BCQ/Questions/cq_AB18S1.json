@@ -315,7 +315,7 @@
             "full_explanation": "",
             "final_answer": "টেনিস বলটি  $3.03 s$ পরে মাটিতে আঘাত করবে",
             "steps": [
-              "Start with an **SVG Code instead of Crafts** of diagram visualizing the problem. Represent the building as a vertical line divided into 10 segments (floors). Clearly mark the Baby's position at the 10th floor (which corresponds to the ceiling of the 9th floor). Include labels for individual floor height ($5m$) and total height. Use a minimalist, black-and-white academic style. \\n n-তম তলার উচ্চতা, $h_n = (n-1) x \\text{তলার উচ্চতা}$ \\n পড়ন্ত বস্তুর সূত্র, $h = ut + \\frac{1/2}at^{2}$"
+              "**n-তম তলার উচ্চতা, $h_n = (n-1) x \\text{তলার উচ্চতা}$ \\n পড়ন্ত বস্তুর সূত্র, $h = ut + \\frac{1/2}at^{2}$** Start with an **SVG Code instead of Crafts** of diagram visualizing the problem. Represent the building as a vertical line divided into 10 segments (floors). Clearly mark the Baby's position at the 10th floor (which corresponds to the ceiling of the 9th floor). Include labels for individual floor height ($5m$) and total height. Use a minimalist, black-and-white academic style."
             ],
             "has_image": false,
             "image_description": "",

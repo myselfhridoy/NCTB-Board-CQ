@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "বরিশাল বোর্ড",
+    "year": "২০২৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "$5 \\times 10^5 \\text{ Pa}$ চাপে কোনো আবদ্ধ গ্যাসে 2400 J তাপ সরবরাহ করায় গ্যাসের আয়তন $1.6 \\times 10^3 \\text{ cm}^3$ থেকে পরিবর্তিত হয়ে $3.2 \\times 10^3 \\text{ cm}^3$ হলো। একজন শিক্ষার্থী উক্ত গ্যাসের অন্তঃস্থ শক্তির পরিবর্তন $1.6 \\times 10^3 \\text{ J}$ পেল। সে উক্ত গ্যাসের তাপমাত্রা পরিমাপের জন্য একটি রোধ থার্মোমিটার ব্যবহার করলো। থার্মোমিটারটির বরফবিন্দু, বাষ্পবিন্দু ও গ্যাসের চূড়ান্ত তাপমাত্রায় রোধ যথাক্রমে $12\\ \\Omega, 24\\ \\Omega$ ও $36\\ \\Omega$ প্রদর্শন করে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
+          "question_text": "প্রত্যাবর্তী প্রক্রিয়া কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "$C_p > C_v$ কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "তাপমাত্রা পরিমাপের নীতি",
+          "question_text": "উদ্দীপকে বর্ণিত গ্যাসের চূড়ান্ত তাপমাত্রা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "উদ্দীপকের শিক্ষার্থীর প্রাপ্ত অন্তঃস্থ শক্তির পরিবর্তন সঠিক ছিল কি-না- গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "উপরের চিত্রে, ABCD আয়তকার ক্ষেত্রের AB = DC = 1 m এবং AD = BC = 0.8 m। আয়তক্ষেত্রটির B ও D বিন্দুতে যথাক্রমে $+5 \\times 10^{-3}\\ \\text{C}$ এবং $-2.25 \\times 10^{-3}\\ \\text{C}$ চার্জ স্থাপন করা হলো।",
+        "has_image": true,
+        "image_description": "আয়তক্ষেত্র ABCD যেখানে A নিচে বাম, B নিচে ডান, C উপরে ডান, D উপরে বাম।",
+        "image_url": "images/cq_BB25_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "গাউসের সূত্র ও কুলম্বের সূত্রের সীমাবদ্ধতা",
+          "question_text": "গাউসের সূত্রটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "কোনো বস্তুর আধান $5 \\times 10^{-19}\\ \\text{C}$ হতে পারে কি? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "'A' বিন্দুতে প্রাবল্যের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "'A' ও 'C' বিন্দুকে ধাতব পরিবাহী তার দ্বারা যুক্ত করলে তড়িৎ প্রবাহিত হবে কি-না- গাণিতিক বিশ্লেষণসহ যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "2.5 kg পানির তাপমাত্রা $20^\\circ \\text{C}$ থেকে $95^\\circ \\text{C}$ এ উন্নীত করার জন্য 220 V – 1000 W এর নিমজ্জক উৎপাদক ব্যবহার করা হলো। 12 মিনিট পর উৎপাদকটি বিকল হয়ে গেল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "শান্ট কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "পরিবাহীর রোধ তাপমাত্রার উপর নির্ভরশীল- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "উদ্দীপকে উল্লিখিত নিমজ্জক উৎপাদকটির রোধ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "তড়িৎ প্রবাহের দরুন উৎপন্ন তাপের হিসাব",
+          "question_text": "উদ্দীপকের নিমজ্জক উৎপাদকটির দ্বারা পানির কাঙ্ক্ষিত তাপমাত্রায় পৌঁছানো সম্ভব হবে কি? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "রহিম পরীক্ষাগারে ইয়ং-এর দ্বিচির পরীক্ষা সম্পন্ন করার জন্য চিড় দুটির মধ্যবর্তী দূরত্ব 2.5 mm রেখে এর উপর 5840 \\text{\\AA} তরঙ্গদৈর্ঘ্যের একবর্ণী আলো আপতিত করলো। সে পর্দার মধ্যবিন্দু হতে 5.1392 mm দূরে 11তম উজ্জ্বল ডোরা দেখতে পেল। চিড় থেকে পর্দার দূরত্ব 2 m।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "সুসঙ্গত উৎস কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "ফ্রনহফার শ্রেণির অপবর্তনে উত্তল লেন্স ব্যবহার করা হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "উদ্দীপকের আলোকে প্রতিটি ডোরার প্রস্থ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "উদ্দীপক অনুসারে রহিমের পরীক্ষণ যথার্থ কি-না- গাণিতিক বিশ্লেষণসহ যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "কোনো ধাতব পাত হতে ইলেকট্রন নিঃসরণের জন্য ‘গ্রুপ-A’ ও ‘গ্রুপ-B’ এর শিক্ষার্থীরা যথাক্রমে 4500 \\text{\\AA} ও 5897 \\text{\\AA} তরঙ্গদৈর্ঘ্যের আলো ব্যবহার করলে। ধাতুটির কার্যাপেক্ষক 2.3 eV। প্লাঙ্কের ধ্রুবক, $h = 6.63 \\times 10^{-34}\\ \\text{Js}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-05",
+          "topic_name": "প্লাঙ্কের কালো বস্তুর বিকিরণ ও এক্স-রে",
+          "question_text": "এক্স-রশ্মি কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-04",
+          "topic_name": "মৌলিক বল ও মহাকাশ ভ্রমণে আপেক্ষিকতার ব্যবহার",
+          "question_text": "সবল নিউক্লীয় বল ও দুর্বল নিউক্লীয় বলের মধ্যে পার্থক্য লেখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "‘গ্রুপ-A’ এর পরীক্ষায় নিঃসৃত ইলেকট্রনের বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "‘গ্রুপ-B’ এর পরীক্ষায় ইলেকট্রন নিঃসৃত হবে কি-না- গাণিতিক বিশ্লেষণের সাহায্যে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "35 বছর বয়সে একজন নভোচারী 600 kg ভরের একটি মহাকাশযানে 0.8 c বেগে মহাকাশ অভিযানে বের হলেন। তাঁর হিসাবে 20 বছর পর তিনি পৃথিবীতে ফিরে আসলেন। $[c = 3 \\times 10^8 \\text{ m s}^{-1}]$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-01",
+          "topic_name": "জড় ও অজড় কাঠামো এবং মাইকেলসন-মোরলে পরীক্ষা",
+          "question_text": "জড় প্রসঙ্গ কাঠামো কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-05",
+          "topic_name": "প্লাঙ্কের কালো বস্তুর বিকিরণ ও এক্স-রে",
+          "question_text": "আদর্শ কালো বস্তু উত্তম শোষক ও উত্তম বিকিরক- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "ফিরে আসার পর পৃথিবীর পর্যবেক্ষকের হিসাবে নভোচারীর বয়স নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-03",
+          "topic_name": "ভর ও শক্তির সম্পর্ক (E = mc²)",
+          "question_text": "মহাকাশযানটির আপেক্ষিক গতিশক্তি তার নিশ্চল শক্তির দ্বিগুণ হবে কি-না- গাণিতিক বিশ্লেষণসহ যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "‘A’ ও ‘B’ তেজস্ক্রিয় মৌল দুটির অর্ধায়ু যথাক্রমে 10 day ও 12 day।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
+          "question_text": "ভর-ক্ষতির সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "কোনো ধাতুর সূচন কম্পাঙ্ক $6.1 \\times 10^{14}\\ \\text{Hz}$ বলতে কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "‘A’ মৌলের গড় আয়ু নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "20 দিন পর উভয় মৌলের 30% অক্ষত অবস্থায় পাওয়া যাবে কি-না- গাণিতিক বিশ্লেষণসহ যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "100 \\Omega রোধের একটি বৈদ্যুতিক বাতি হতে সর্বাধিক উজ্জ্বলতা পেতে কমপক্ষে 220 V প্রয়োজন। বাস্তবিকই একটি কমন এমিটার ট্রানজিস্টরের আউটপুটে যুক্ত করা হলো। ইনপুটে 1.15 V বিভব প্রয়োগ করা হলে বেস প্রবাহ 30 mA পাওয়া যায়। ট্রানজিস্টরের প্রবাহ লাভ, \\beta = 75।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "ডোপিং কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "অর্ধপরিবাহীতে তাপ দিলে পরিবাহীর ন্যায় আচরণ করে- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের ট্রানজিস্টরের প্রবাহ বিবর্ধক গুণক \\alpha নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের বাতি হতে সর্বাধিক উজ্জ্বলতা পাওয়া যাবে কি-না- গাণিতিক বিশ্লেষণসহ যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

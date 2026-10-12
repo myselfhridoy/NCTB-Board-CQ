@@ -94,7 +94,7 @@
     {
       "question_no": 2,
       "stem": {
-        "text": "নিচের উদ্দীপকটি লক্ষ্য কর :\n\n[Image Description: Diagram showing points Q and P at top, O at center. Q-O distance is 3 m at 30 degrees. P-O distance is 4 m at 45 degrees. Points A and B are on a horizontal line with O in the middle. Distance from A to O and O to B is 0.2 mm. Charge at A is -4 \\mu C and at B is +4 \\mu C.]\n\nচিত্রে O, AB এর মধ্যবিন্দু।",
+        "text": "নিচের উদ্দীপকটি লক্ষ্য কর :\n\n চিত্রে O, AB এর মধ্যবিন্দু।",
         "has_image": true,
         "image_description": "Diagram showing points Q and P at top, O at center. Q-O distance is 3 m at 30 degrees. P-O distance is 4 m at 45 degrees. Points A and B are on a horizontal line with O in the middle. Distance from A to O and O to B is 0.2 mm. Charge at A is -4 \\mu C and at B is +4 \\mu C.",
         "image_url": "images/cq_DB25_fig01.jpg"
@@ -592,7 +592,7 @@
     {
       "question_no": 8,
       "stem": {
-        "text": "একটি পরমাণুর দ্বিতীয় কক্ষপথের একটি ইলেকট্রন শক্তি শোষণ করে তৃতীয় কক্ষপথে গমন করল। দ্বিতীয় কক্ষপথের ব্যাসার্ধ $2.12\\text{ \\AA}$। ইলেকট্রনের ভর $= 9.11 \\times 10^{-31}\\text{ kg}$। ইলেকট্রনের আধান $= -1.6 \\times 10^{-19}\\text{ C}$। শূন্য মাধ্যমে কুলম্বের ধ্রুবক $= 8.854 \\times 10^{-12}\\text{ C}^2\\text{N}^{-1}\\text{m}^{-2}$। প্লাঙ্কের ধ্রুবক $= 6.63 \\times 10^{-34}\\text{ J-s}$। দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লা $= 4 \\times 10^{-7}\\text{ m}$ হতে $8 \\times 10^{-7}\\text{ m}$।",
+        "text": "একটি পরমাণুর দ্বিতীয় কক্ষপথের একটি ইলেকট্রন শক্তি শোষণ করে তৃতীয় কক্ষপথে গমন করল। দ্বিতীয় কক্ষপথের ব্যাসার্ধ $2.12\\text{ Å}$। ইলেকট্রনের ভর $= 9.11 \\times 10^{-31}\\text{ kg}$। ইলেকট্রনের আধান $= -1.6 \\times 10^{-19}\\text{ C}$। শূন্য মাধ্যমে কুলম্বের ধ্রুবক $= 8.854 \\times 10^{-12}\\text{ C}^2\\text{N}^{-1}\\text{m}^{-2}$। প্লাঙ্কের ধ্রুবক $= 6.63 \\times 10^{-34}\\text{ J-s}$। দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যের পাল্লা $= 4 \\times 10^{-7}\\text{ m}$ হতে $8 \\times 10^{-7}\\text{ m}$।",
         "has_image": false,
         "image_description": "",
         "image_url": ""

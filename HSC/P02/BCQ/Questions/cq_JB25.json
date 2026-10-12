@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "যশোর বোর্ড",
+    "year": "২০২৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "নিচের চিত্রে ABCD একটি কার্নো চক্র দেখানো হয়েছে। উৎসের তাপমাত্রা 127°C ; $P_1 = 3.7 \\times 10^5 \\text{ Nm}^{-2}$ এবং প্রতি ধাপে সংকোচন বা প্রসারণের অনুপাত 2 : 1. এখানে, $\\gamma = 1.4$ এবং মোল সংখ্যা 1.",
+        "has_image": true,
+        "image_description": "P-V diagram of a Carnot cycle with points A($P_1, V_1$), B($P_2, V_2$), C($P_3, V_3$), D($P_4, V_4$).",
+        "image_url": "images/cq_JB25_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "এনট্রপি ও বিশৃঙ্খলা",
+          "question_text": "এনট্রপি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "তাপীয় সিস্টেম এবং অভ্যন্তরীণ শক্তি",
+          "question_text": "চলন্ত ফ্যানের নিচে ভেজা শরীরে ঠাণ্ডা অনুভব হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "কার্নো চক্র",
+          "question_text": "$P_3$-এর মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "কার্নো চক্র",
+          "question_text": "উদ্দীপকের চক্রে মোট কৃতকাজ শূন্য হবে কি-না- গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে $AB = AC = 1 \\text{ m}$.\n\nসুতার সাহায্যে সমভর, সমধর্মী ও সমান আধানবিশিষ্ট দুটি বস্তু A বিন্দু থেকে মুক্তভাবে ঝুলানো হয়েছে। যেখানে আধানদ্বয়ের মান $5.4 \\times 10^{-6} \\text{ C}$ এবং $BC = 1 \\text{ m}$। আধানদ্বয়ের অবস্থান B ও C বিন্দুতে। $[g = 9.8 \\text{ m/s}^2]$",
+        "has_image": true,
+        "image_description": "Triangle ABC with AB = AC = 1 m and BC = 1 m. Charges are at B and C, suspended from A.",
+        "image_url": "images/cq_JB25_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "গাউসের সূত্র ও কুলম্বের সূত্রের সীমাবদ্ধতা",
+          "question_text": "তড়িৎ ফ্লাক্স কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "ধারকের কোন সমবায়ের ক্ষেত্রে সর্বোচ্চ সঞ্চিত শক্তি পাওয়া যায়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "বস্তু দুটির ভর নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "A বিন্দুতে $5.4 \\times 10^{-6} \\text{ C}$ মানের চার্জ স্থাপন করলে ABC ত্রিভুজের মধ্যমাত্রয়ের ছেদ বিন্দুতে -1 C চার্জ স্থির রাখা সম্ভব কি-না? গাণিতিকভাবে যাচাই করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "পাশের চিত্রে $R_1, R_2, R_3$ এবং $R_4$-এর মান যথাক্রমে $30\\ \\Omega, 15\\ \\Omega, 20\\ \\Omega$ এবং $15\\ \\Omega$। অ্যামিটার A-এর সর্বোচ্চ পাল্লা 2 A :",
+        "has_image": true,
+        "image_description": "Circuit diagram with a 150 V battery. R1 is in series with a parallel combination of R2 and R3. R4 is in series with an ammeter A, connected across the parallel combination.",
+        "image_url": "images/cq_JB25_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "ইলেকট্রনের তাড়ন বেগের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "শান্ট ও ফিউজ একই নয়- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "কার্শফের সূত্র ও এর ব্যবহার",
+          "question_text": "$R_4$-এর সাথে কত মানের রোধ যুক্ত করলে অ্যামিটারটির বিক্ষেপ শূন্য হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "$R_1$ এবং $R_4$ অপসারণ করে অ্যামিটারে কী ব্যবস্থা গ্রহণ করলে এটি দ্বারা তড়িৎ প্রবাহ পরিমাপ করা যাবে?",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড়দ্বয়ের মধ্যবর্তী দূরত্ব 1 mm. চিড় ও পর্দার মধ্যবর্তী দূরত্ব 1 m এবং ব্যবহৃত আলোর তরঙ্গদৈর্ঘ্য $5.88 \\times 10^{-7} \\text{ m}$. পর্দার উপর P একটি বিন্দু যা কেন্দ্রীয় উজ্জ্বল ডোরা থেকে 2.5 cm দূরে অবস্থিত।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "গ্রেটিং ধ্রুবক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "অপবর্তনে আলোর ডোরা প্রস্থ সমান হয় না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "কেন্দ্রীয় উজ্জ্বল ডোরা থেকে 17-তম উজ্জ্বল ডোবার কৌণিক ব্যবধান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "পরীক্ষণটি 1.33 প্রতিসরাঙ্কের পানি মাধ্যমে করা হলে P বিন্দুতে উজ্জ্বল নাকি অন্ধকার ডোরা গঠিত হবে তা গাণিতিক বিশ্লেষণের মাধ্যমে নির্ণয় কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "কোনো একটি ধাতবপৃষ্ঠে $8.57 \\times 10^{14} \\text{ Hz}$ কম্পাঙ্কের আলোক আপতিত হওয়ায় ধাতব পৃষ্ঠ থেকে $6.9 \\times 10^5 \\text{ m s}^{-1}$ বেগে ইলেকট্রন নিঃসরণ হয়। পরবর্তীতে ধাতবপৃষ্ঠে যথাক্রমে $5 \\times 10^{14}, 5.3 \\times 10^{14}, 6 \\times 10^{14}$ এবং $7 \\times 10^{14} \\text{ Hz}$ কম্পাঙ্কের আলোক আপতিত করা হলো। $[h = 6.63 \\times 10^{-34} \\text{ Js}]$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "তড়িচ্চালক শক্তি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ফটোতড়িৎ ক্রিয়া এবং এক্স-রে নিঃসরণ পরস্পর বিপরীতধর্মী প্রক্রিয়া- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ধাতুটির সূচন তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ধাতুটির ক্ষেত্রে আপতিত ফোটনগুলোর কম্পাঙ্ক ও নিঃসৃত ইলেকট্রনের গতিশক্তির লেখচিত্র অঙ্কনপূর্বক ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "দুটি তেজস্ক্রিয় মৌল A ও B কোনো এক সময় তাদের অক্ষত পরমাণুর সংখ্যা $N_0$। পরবর্তীতে এই $N_0$ এর 15% ক্ষয় হতে তাদের সময় লাগে যথাক্রমে 5 y এবং 15 y।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "শক্তল লেখচিত্র কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
+          "question_text": "নিউক্লিয়াসের ভরত্রুটির কারণ কী? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "A মৌলের গড় আয়ু নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "A-এর তুলনায় B-এর অক্ষত পরমাণুর সংখ্যা 3 গুণ হতে যত সময় লাগবে 6 গুণ হতে তার দ্বিগুণ সময় লাগবে কি-না গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "12 m লম্বা একটি রকেট 36 m লম্বা স্থির মহাকাশ স্টেশনকে অতিক্রম করার সময় রকেটে অবস্থানরত 70 kg ভরের পর্যবেক্ষক মহাকাশ স্টেশনের দৈর্ঘ্য রকেটের দ্বিগুণ পরিমাপ করলেন।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "নিবৃত্তি বিভব কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "বিক্ষেপণের পরে ফোটনের তরঙ্গদৈর্ঘ্যের কীরূপ পরিবর্তন হয়? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "রকেটের বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-03",
+          "topic_name": "ভর ও শক্তির সম্পর্ক (E = mc²)",
+          "question_text": "“নিশ্চল অবস্থার তুলনায় পর্যবেক্ষক এখন বেশি শক্তি ধারণ করেন”- উদ্দীপকের আলোকে উক্তিটির যথার্থতা গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "NPN ট্রানজিস্টর বর্তনীর চিত্রে $I_B = 0.2 \\text{ mA}$, $I_C = 10 \\text{ mA}$, $R_L = 50\\ \\Omega$, $\\beta = 49$",
+        "has_image": true,
+        "image_description": "NPN transistor circuit diagram with base current IB = 0.2 mA, collector current IC = 10 mA, load resistor RL = 50 \\Omega, and current gain \\beta = 49.",
+        "image_url": "images/cq_JB25_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "সেমিকন্ডাক্টর কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-02",
+          "topic_name": "ইলেকট্রন ও হোলের ধারণা এবং p-টাইপ ও n-টাইপ সেমিকন্ডাক্টর",
+          "question_text": "একটি N-type সেমিকন্ডাক্টরে Hole সৃষ্টির কারণ ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "অ্যামিটারের কারেন্ট নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের বর্তনী থেকে 100% ভোল্টেজ গেইন পাওয়া সম্ভব কি-না? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

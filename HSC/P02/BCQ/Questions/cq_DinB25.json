@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "দিনাজপুর বোর্ড",
+    "year": "২০২৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "একটি কার্নো ইঞ্জিন $327^\\circ\\text{C}$ তাপমাত্রার উৎস থেকে $2.5 \\times 10^6\\ \\text{J}$ তাপশক্তি গ্রহণ করে এবং $27^\\circ\\text{C}$ তাপমাত্রার তাপধারকে তাপ বর্জন করে। দক্ষতা বৃদ্ধির লক্ষ্যে প্রথম পর্যায়ে উৎসের তাপমাত্রা $50^\\circ\\text{C}$ বৃদ্ধি এবং দ্বিতীয় পর্যায়ে গ্রাহকের তাপমাত্রা $50^\\circ\\text{C}$ হ্রাস করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "তাপমাত্রা পরিমাপের নীতি",
+          "question_text": "পানির ত্রৈধ বিন্দু কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "রুদ্ধতাপীয় প্রসারণে সিস্টেম শীতল হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "ইঞ্জিন তাপধারকে যে তাপ বর্জন করে তা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "উদ্দীপকের ইঞ্জিনের দক্ষতা বৃদ্ধির জন্য কোন পর্যায়টি অবিকৃত থাকলে এটা হবে— গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "নিচের উদ্দীপক লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও :\n\nচিত্রে 2 m বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজের দুটি কোণিক বিন্দু P ও Q তে যথাক্রমে +2 C ও -2 C আধান আছে।",
+        "has_image": true,
+        "image_description": "সমবাহু ত্রিভুজ যার শীর্ষবিন্দু R, ভূমি বিন্দু P ও Q, বাহু 2 m; P-তে +2 C, Q-তে -2 C আধান।",
+        "image_url": "images/cq_DinB25_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "আধানের কোয়ান্টায়ন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "চার্জিত গোলাকার পরিবাহীর কেন্দ্রে তড়িৎ প্রাবল্য শূন্য হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "P বিন্দুতে স্থাপিত চার্জের জন্য Q বিন্দুতে প্রাবল্য নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "উদ্দীপকের R বিন্দুতে একটি হিলিয়াম নিউক্লিয়াস স্থাপন করলে সেটি কোন দিকে কত বল অনুভব করবে?",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "নিচে একটি বৈদ্যুতিক বর্তনী দেখানো হলো :",
+        "has_image": true,
+        "image_description": "বর্তনী চিত্র যেখানে E = 6 V, R1 = 20 \\Omega, R2 = 150 \\Omega, R3 = 100 \\Omega।",
+        "image_url": "images/cq_DinB25_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "বৈদ্যুতিক পরিবাহিতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "খোলা বর্তনীতে কোষের দুই প্রান্তের বিভব পার্থক্য এর তড়িচ্চালক শক্তির সমান— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "বর্তনীর তুল্যরোধ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "উদ্দীপকের $R_1$ এর মান অর্ধেক করা হলে মূল প্রবাহমাত্রা পূর্বের প্রবাহমাত্রার দ্বিগুণ হবে কি-না— গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "একটি সমতল গ্রেটিং এর চির এবং দাগের বেধ যথাক্রমে 0.0004 cm এবং 0.00015 cm। গ্রেটিংটিতে 7000 \\text{\\AA} তরঙ্গদৈর্ঘ্যের একবর্ণী আলো আপতিত করা হলো। গ্রেটিং হতে পর্দার দূরত্ব 1 m।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "আলোর ব্যতিচার কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "উড়ো জাহাজের ছায়া মাটিতে পড়ে না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "প্রথম ক্রমের উজ্জ্বল ডোরার জন্য অপবর্তন কোণের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "উদ্দীপকের পর্দায় গঠিত কেন্দ্রীয় চরমের উভয় পাশে 2য় চরমের মধ্যবর্তী দূরত্ব 1ম চরমের মধ্যবর্তী দূরত্বের দ্বিগুণ হবে কি-না— গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "একটি ইলেকট্রন ও একটি প্রোটন আলাদাভাবে 0.98 c বেগে গতিশীল। [ইলেকট্রন ও প্রোটনের ভর যথাক্রমে $9.1 \\times 10^{-31}\\ \\text{kg}$ ও $1.67 \\times 10^{-27}\\ \\text{kg}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "কাল দীর্ঘায়ন কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "কোনো বস্তু আলোর বেগে চলতে পারে না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-03",
+          "topic_name": "ভর ও শক্তির সম্পর্ক (E = mc²)",
+          "question_text": "উদ্দীপকের ইলেকট্রনের মোট শক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-03",
+          "topic_name": "ভর ও শক্তির সম্পর্ক (E = mc²)",
+          "question_text": "উদ্দীপকের প্রোটনের গতিশক্তি ইলেকট্রনের গতিশক্তির দ্বিগুণ হবে কি-না— গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "কোনো ধাতু থেকে ইলেকট্রন অবমুক্ত করতে সর্বনিম্ন 2.20 eV শক্তির প্রয়োজন। ধাতুটির উপর 5000 \\text{\\AA} তরঙ্গদৈর্ঘ্যের আলো ফেলা হলো। [প্লাঙ্কের ধ্রুবক, $h = 6.63 \\times 10^{-34}\\ \\text{Js}$ ও $1\\ \\text{eV} = 1.6 \\times 10^{-19}\\ \\text{J}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "আপেক্ষিক রোধ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "গ্যালভানোমিটারের রক্ষায় শান্টের প্রয়োজনীয়তা ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ধাতুটির সূচন কম্পাঙ্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "উদ্দীপকের ধাতুটির উপর 4500 \\text{\\AA} তরঙ্গদৈর্ঘ্যের আলো আপতিত করা হলে নিগত ইলেকট্রনের গতিশক্তি পূর্বের গতিশক্তির কত কম বা বেশি হবে? —গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "A ও B দুটি তেজস্ক্রিয় মৌলের অর্ধায়ু যথাক্রমে 4 দিন ও 6 দিন এবং তাদের প্রারম্ভিক ভর একই।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "নিউক্লিয়াসের গঠন",
+          "question_text": "আইসোটোপ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "রাদারফোর্ড ও বোরের পরমাণু মডেল",
+          "question_text": "পরমাণুতে ইলেকট্রনের কক্ষপথগুলো ছিন্নায়িত ও অনুমোদিত— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "A মৌলের গড় আয়ু নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "কত দিন পর উদ্দীপকের B মৌলের অক্ষত পরমাণুর ভর A মৌলের অক্ষত পরমাণুর ভরের দ্বিগুণ হবে? —গাণিতিক বিশ্লেষণের সাহায্যে উত্তর দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "নিচের বর্তনী লক্ষ কর এবং প্রশ্নগুলোর উত্তর দাও :",
+        "has_image": true,
+        "image_description": "ট্রানজিস্টর বর্তনী; V1 = 0.1 V, IE = 1 mA, IC = 0.99 mA, RL = 6800 \\Omega।",
+        "image_url": "images/cq_DinB25_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "অর্ধ-পরিবাহী কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-02",
+          "topic_name": "ইলেকট্রন ও হোলের ধারণা এবং p-টাইপ ও n-টাইপ সেমিকন্ডাক্টর",
+          "question_text": "p-টাইপ ও n-টাইপ অর্ধপরিবাহীর মধ্যে পার্থক্য লেখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের ট্রানজিস্টরের প্রবাহ বিবর্ধন গুণক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের বর্তনীতে $R_L$ এর মান অর্ধেক করা হলে ভোল্টেজ গেইন পূর্বের অর্ধেক হবে কি-না— গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

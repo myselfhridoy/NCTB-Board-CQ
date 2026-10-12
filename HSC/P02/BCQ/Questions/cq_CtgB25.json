@@ -592,7 +592,7 @@
     {
       "question_no": 8,
       "stem": {
-        "text": "চিত্র : লজিক বর্তনী",
+        "text": "নিচের চিত্রটি লক্ষ কর:",
         "has_image": true,
         "image_description": "Logic circuit diagram. Inputs A and B go to an AND gate. The output of the AND gate goes to an OR gate. Input B also goes directly to the OR gate. The output of the OR gate goes to a NOT gate, producing output Y.",
         "image_url": "images/cq_CtgB25_fig04.jpg"

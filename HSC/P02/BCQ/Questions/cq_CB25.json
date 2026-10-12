@@ -260,7 +260,7 @@
     {
       "question_no": 4,
       "stem": {
-        "text": "নিচের সারণিতে একটি হাইড্রোজেন পরমাণুর বিভিন্ন স্তরের শক্তি দেখানো হলো :\n\n| শক্তিস্তর (n) | 1 | 2 | 3 | 4 | 5 |\n| শক্তিস্তরের শক্তি (eV) | -13.6 | -3.4 | -1.51 | -0.85 | -0.54 |",
+        "text": "নিচের সারণিতে একটি হাইড্রোজেন পরমাণুর বিভিন্ন স্তরের শক্তি দেখানো হলো :\n$$ \\begin{array}{|c|c|c|c|c|c|} \\hline \\text{শক্তিস্তর (n)} & 1 & 2 & 3 & 4 & 5 \\\\ \\hline \\text{শক্তিস্তরের শক্তি (eV)} & -13.6 & -3.4 & -1.51 & -0.85 & -0.54 \\\\ \\hline \\end{array} $$",
         "has_image": false,
         "image_description": "",
         "image_url": ""
@@ -426,7 +426,7 @@
     {
       "question_no": 6,
       "stem": {
-        "text": "চিত্র-১ ও চিত্র-২ এ দুটি ইঞ্জিনে বাবর্তিত 1 mole $H_2$ গ্যাসের P ~ V লেখচিত্র দেখানো হলো।",
+        "text": "চিত্র-১ ও চিত্র-২ এ দুটি ইঞ্জিনে ব্যবহৃত 1 mole $H_2$ গ্যাসের P ~ V লেখচিত্র দেখানো হলো।",
         "has_image": true,
         "image_description": "P-V diagrams of two engines. Diagram 1: Isothermal expansion at T1 = 50°C from A to B, then adiabatic expansion from B to C at T2 = 200K. Diagram 2: Isothermal expansion at T1 = 80°C from A to B, then adiabatic expansion from B to C at T2 = 200K.",
         "image_url": "images/cq_CB25_fig04.jpg"

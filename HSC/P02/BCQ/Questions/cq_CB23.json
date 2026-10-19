@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "কুমিল্লা বোর্ড",
+    "year": "২০২৩",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "চিত্রে একটি কার্নো ইঞ্জিনের P-V লেখচিত্র দেখানো হলো।",
+        "has_image": true,
+        "image_description": "P-V diagram of a Carnot cycle. T1 = 827 K, T2 = 387 K, Q1 = 500 J. States A, B, C, D are shown.",
+        "image_url": "images/cq_CB23_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "তাপ ইঞ্জিন কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "গ্যাসের মোলার আপেক্ষিক তাপ দুই প্রকার কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "কার্নো চক্র",
+          "question_text": "ইঞ্জিন কর্তৃক কৃতকাজের পরিমাণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "উদ্দীপকের কার্নো ইঞ্জিনের তাপগ্রাহকের তাপমাত্রা দ্বিগুণ করলে দক্ষতা অর্ধেক হবে কিনা- গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে একটি বৃত্তাকার পথের A এবং B বিন্দুতে দুটি চার্জ স্থাপন করা হয়েছে। P বৃত্তের কেন্দ্র, বৃত্তের ব্যাসার্ধ 15 cm এবং AB = BC = CD = DA।",
+        "has_image": true,
+        "image_description": "A circle with a square inscribed. Points A, B, C, D on the circle. P is the center. Charges q1 = 4 nC at A, q2 = 8 nC at B.",
+        "image_url": "images/cq_CB23_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "গাউসের সূত্র ও কুলম্বের সূত্রের সীমাবদ্ধতা",
+          "question_text": "তড়িৎ ফ্লাক্স কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "কোনো বস্তুর আধান $7.5e$ হতে পারে না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "উদ্দীপকের P বিন্দুতে তড়িৎ প্রাবল্যের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "C ও D বিন্দুর সাথে একটি পরিবাহী তার যুক্ত করলে, পরিবাহীর মুক্ত ইলেকট্রনগুলো কোন দিকে গতিশীল হবে? গাণিতিকভাবে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "চিত্রে একটি বৈদ্যুতিক বর্তনী দেখানো হলো।",
+        "has_image": true,
+        "image_description": "Circuit with batteries E1=12V (r1=4 ohm) and E2=14V (r2=2 ohm). Resistor R=15 ohm. Currents I1 and I2 are marked.",
+        "image_url": "images/cq_CB23_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "কার্শফের সূত্র ও এর ব্যবহার",
+          "question_text": "কার্শফের দ্বিতীয় সূত্রটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "ম্যাঙ্গানিনের রোধের উষ্ণতা সহগ $3 \\times 10^{-5}\\ \\text{K}^{-1}$ বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "কার্শফের সূত্র ও এর ব্যবহার",
+          "question_text": "উদ্দীপকে বর্তনীর $I_1$ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "উদ্দীপকে কোষ দুটিকে কীভাবে যুক্ত করলে বহিঃরোধে তাপ উৎপন্ন অধিক হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "বায়ু মাধ্যমে ইয়ং-এর দ্বিচিড় পরীক্ষায় ব্যবহৃত আলোর তরঙ্গদৈর্ঘ্য $\\lambda = 3800\\ \\text{\\AA}$ এবং $S_2P - S_1P = 6\\lambda$।",
+        "has_image": true,
+        "image_description": "Young's double slit experiment. Slits S1, S2. Screen with O (central max) and P. Distance between slits 1 mm. Distance to screen 1 m. $S_2P - S_1P = 6\\lambda$.",
+        "image_url": "images/cq_CB23_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "গ্রেটিং ধ্রুবক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "ফ্রনহফার শ্রেণির অপবর্তনে উত্তল লেন্স ব্যবহার করা হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "চিত্রে O এবং P বিন্দুর মধ্যকার দূরত্ব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "সমগ্র পরীক্ষাটিকে 1.30 প্রতিসরাঙ্কের কোনো মাধ্যমে সম্পন্ন করা হলে 12 তম অন্ধকার ডোরার কৌণিক অবস্থানের কী পরিবর্তন হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "একটি ধাতুর উপর $3000\\ \\text{\\AA}$ এবং $4400\\ \\text{\\AA}$ তরঙ্গ দৈর্ঘ্যবিশিষ্ট দুটি তড়িৎ চুম্বকীয় তরঙ্গ আলাদাভাবে ফেলা হলো। ফলে দুটি ক্ষেত্রেই ধাতব পৃষ্ঠ হতে ইলেকট্রন নির্গত হলো। ধাতুটির সূচন তরঙ্গ দৈর্ঘ্য $5454\\ \\text{\\AA}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-05",
+          "topic_name": "প্লাঙ্কের কালো বস্তুর বিকিরণ ও এক্স-রে",
+          "question_text": "কৃষ্ণবস্তু কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "বস্তুর বেগ বৃদ্ধি পেলে দৈর্ঘ্য সংকোচন বৃদ্ধি পায়- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "উদ্দীপকে ধাতুটির কার্যাপেক্ষক MeV এককে নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ধাতুর উপর আপতিত আলোর তরঙ্গদৈর্ঘ্য বৃদ্ধি পেলে নিবৃত্তি বিভব কমে- উদ্দীপকের আলোকে গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "চিত্রে দুটি তেজস্ক্রিয় মৌল A ও B এর ক্ষয় লেখচিত্র দেখানো হলো।",
+        "has_image": true,
+        "image_description": "Radioactive decay graph. N vs t (days). Curve for A and curve for B. A reaches 0.5N0 earlier than B.",
+        "image_url": "images/cq_CB23_fig05.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
+          "question_text": "নিউক্লিয়ার বন্ধন শক্তি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "নিউক্লিয়াসের গঠন",
+          "question_text": "নিউক্লিয়াসের ঘনত্ব এর ভরসংখ্যার উপর নির্ভর করে না- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "উদ্দীপকের A মৌলের গড় আয়ু নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "A মৌলের 60% ক্ষয় হতে যে সময় লাগে, B মৌলের 30% ক্ষয় হতে একই সময় লাগবে কিনা? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "বর্তনীর ট্রানজিস্টরের $\\alpha = 0.98$ এবং $I_E = 1.5\\ \\text{mA}$।",
+        "has_image": true,
+        "image_description": "Circuit diagram of a common emitter transistor amplifier. $I_B$, $I_C$, $I_E$ are shown. $R_B = 500\\ \\Omega$, $R_L = 5000\\ \\Omega$.",
+        "image_url": "images/cq_CB23_fig06.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "সম্মুখী ঝোঁক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "ব্যান্ড তত্ত্বের আলোকে অন্তরক পদার্থের পরিবাহিতা ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকে $I_B$ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের বর্তনীটিকে ভোল্টেজ বিবর্ধক হিসেবে ব্যবহার করা যায় কিনা? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "চিত্রে একটি ধারক বর্তনী দেখানো হলো।",
+        "has_image": true,
+        "image_description": "Capacitor circuit. 10V source. $C_1=5\\ \\mu\\text{F}$, $C_2=1\\ \\mu\\text{F}$, $C_3=10\\ \\mu\\text{F}$, $C_4=20\\ \\mu\\text{F}$.",
+        "image_url": "images/cq_CB23_fig07.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "ধারক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "ধারক এবং তড়িৎ কোষের তুলনা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "বর্তনীর তুল্য ধারকত্ব বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "বর্তনীর কোন ধারকটিতে সঞ্চিত শক্তির পরিমাণ সবচেয়ে বেশি? গাণিতিক বিশ্লেষণপূর্বক মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

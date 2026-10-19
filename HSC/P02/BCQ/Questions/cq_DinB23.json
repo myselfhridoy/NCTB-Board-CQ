@@ -426,7 +426,7 @@
     {
       "question_no": 6,
       "stem": {
-        "text": "ধর $^{1}_{1}\\text{H} + ^{2}_{1}\\text{H} \\rightarrow ^{3}_{2}\\text{He} + ^{1}_{0}\\text{n}$ ফিউশন বিক্রিয়ায় নির্গত শক্তি দিয়ে একটি আলফা কণাকে আঘাত করা হলো। দেওয়া আছে, $^{1}_{1}\\text{H}$ এর ভর = $3.0155\\text{ amu}$, $^{2}_{1}\\text{H}$ এর ভর = $2.0136\\text{ amu}$, $^{3}_{2}\\text{He}$ এর ভর = $4.0015\\text{ amu}$, নিউট্রন (n) এর ভর = $1.00867\\text{ amu}$, প্রোটন (p) এর ভর = $1.00758\\text{ amu}$।",
+        "text": "ধর $^3_1\\text{H} + ^2_1\\text{H} \\rightarrow ^4_2\\text{He} + ^1_0\\text{n}$ ফিউশন বিক্রিয়ায় নির্গত শক্তি দিয়ে একটি আলফা কণাকে আঘাত করা হলো। দেওয়া আছে, $^3_1\\text{H}$ এর ভর = 3.0155 amu, $^2_1\\text{H}$ এর ভর = 2.0136 amu, $^4_2\\text{He}$ এর ভর = 4.0015 amu, নিউট্রন (n) এর ভর = 1.00867 amu, প্রোটন (p) এর ভর = 1.00758 amu",
         "has_image": false,
         "image_description": "",
         "image_url": ""
@@ -575,7 +575,7 @@
           "chapter_no": 10,
           "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
           "topic_code": "T-04",
-          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যাম্পলিফায়ার, সুইচ)",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
           "question_text": "উদ্দীপকের আলোকে $\\alpha = \\frac{\\beta}{1+\\beta}$ এর সত্যতা যাচাই কর।",
           "marks": 4,
           "answer": {
@@ -660,89 +660,6 @@
           "topic_code": "T-04",
           "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
           "question_text": "উদ্দীপকের কোন প্রক্রিয়ায় কৃতকাজ বেশি হবে? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
-          "marks": 4,
-          "answer": {
-            "full_explanation": "",
-            "final_answer": "",
-            "steps": [],
-            "has_image": false,
-            "image_description": "",
-            "image_url": ""
-          }
-        }
-      ]
-    },
-    {
-      "question_no": 9,
-      "stem": {
-        "text": "চিত্রে p-n জাংশনের I-V লেখচিত্র দেখানো হয়েছে :",
-        "has_image": true,
-        "image_description": "I-V characteristic curve of a p-n junction diode. Forward bias shows exponential increase. Reverse bias shows breakdown at -5.8V.",
-        "image_url": "images/cq_DinB23_fig04.jpg"
-      },
-      "sub_questions": [
-        {
-          "label": "ক",
-          "type": "জ্ঞানমূলক",
-          "chapter_no": 10,
-          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
-          "topic_code": "T-01",
-          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
-          "question_text": "ডোপিং কী?",
-          "marks": 1,
-          "answer": {
-            "full_explanation": "",
-            "final_answer": "",
-            "steps": [],
-            "has_image": false,
-            "image_description": "",
-            "image_url": ""
-          }
-        },
-        {
-          "label": "খ",
-          "type": "অনুধাবন",
-          "chapter_no": 10,
-          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
-          "topic_code": "T-01",
-          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
-          "question_text": "তাপমাত্রার সাথে অর্ধপরিবাহীর রোধের পরিবর্তন ব্যাখ্যা কর।",
-          "marks": 2,
-          "answer": {
-            "full_explanation": "",
-            "final_answer": "",
-            "steps": [],
-            "has_image": false,
-            "image_description": "",
-            "image_url": ""
-          }
-        },
-        {
-          "label": "গ",
-          "type": "প্রয়োগ",
-          "chapter_no": 10,
-          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
-          "topic_code": "T-03",
-          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
-          "question_text": "AB অংশের গতীয় রোধ নির্ণয় কর।",
-          "marks": 3,
-          "answer": {
-            "full_explanation": "",
-            "final_answer": "",
-            "steps": [],
-            "has_image": false,
-            "image_description": "",
-            "image_url": ""
-          }
-        },
-        {
-          "label": "ঘ",
-          "type": "উচ্চতর দক্ষতা",
-          "chapter_no": 10,
-          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
-          "topic_code": "T-03",
-          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
-          "question_text": "লেখচিত্রের AB ও ACD অংশে বিভব পার্থক্যের সাথে তড়িৎ প্রবাহের ভিন্নতার কারণ বিশ্লেষণ কর।",
           "marks": 4,
           "answer": {
             "full_explanation": "",

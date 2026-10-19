@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "দিনাজপুর বোর্ড",
+    "year": "২০২২",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "চিত্রে P-V লেখচিত্র দ্বারা একটি চক্রীয় প্রক্রিয়া দেখানো হয়েছে। এখানে, A বিন্দুতে তাপমাত্রা = 300 K। স্থির আয়তনে মোলার আপেক্ষিক তাপ = $20.78 \\text{ J mol}^{-1}\\text{ K}^{-1}$। মোল সংখ্যা = 1.6; $\\gamma$ = 1.4 এবং $1 \\text{ atm} = 10^5\\text{ N m}^{-2}$",
+        "has_image": true,
+        "image_description": "P-V diagram showing a cyclic process. P(atm) on y-axis (0, 2, 4, 5.28), V(litre) on x-axis (0, 10, 20). Points A(20, 2), B(10, 4), C(10, 5.28). Curve connects A to B to C to A.",
+        "image_url": "images/cq_DinB22_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "তাপীয় সিস্টেম এবং অভ্যন্তরীণ শক্তি",
+          "question_text": "অন্তঃস্থ শক্তির সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "কার্নোর ইঞ্জিনের কার্যনির্বাহক বস্তু পরিবর্তন করলে ওই ইঞ্জিনের দক্ষতার কোনো রূপ পরিবর্তন হবে না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "AB পথে কৃতকাজের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "এনট্রপি ও বিশৃঙ্খলা",
+          "question_text": "উদ্দীপকের চক্রীয় প্রক্রিয়ায় এনট্রপির পরিবর্তন শূন্য হবে কিনা- গাণিতিক বিশ্লেষণের সাহায্যে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "পরীক্ষাগারে একজন শিক্ষার্থী ধারক নিয়ে কাজ করছিলো। ধারকের প্রতিটি পাতের ক্ষেত্রফল $45\\text{ cm}^2$ এবং পাতদ্বয়ের মধ্যবর্তী দূরত্ব $2\\text{ mm}$ এবং একটি $400\\text{ V}$ এর উৎসের সাথে সংযোগ দেয়া ছিলো। শিক্ষার্থী $k = 5$ মানের পরাবৈদ্যুতিক মাধ্যম একবার প্রবেশ করিয়ে চার্জিত করলো এবং আরেকবার পরাবৈদ্যুতিক মাধ্যম ব্যতীত চার্জিত করলো এবং সঞ্চিত শক্তি উভয়ক্ষেত্রে পরিমাপ করলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "গাউসের সূত্র ও কুলম্বের সূত্রের সীমাবদ্ধতা",
+          "question_text": "আধান ঘনত্ব কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "অসীম দৈর্ঘ্যের চার্জিত পরিবাহক কর্তৃক সৃষ্ট তড়িৎক্ষেত্র প্রাবল্যের পাঠের সাথে দূরত্বের সম্পর্ক কীরূপ? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "পরাবৈদ্যুতিক মাধ্যম ব্যতিরেকে ধারকটিতে প্রতিটি পাতের সঞ্চিত চার্জের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "উদ্দীপকে শিক্ষার্থীর পরীক্ষণে কোন ক্ষেত্রে সঞ্চিত শক্তির মান বেশি হবে গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "চিত্রে 1 m দৈর্ঘ্যের একটি বর্গাকার টেবিল। টেবিল এর চারটি কোণা A, B, C এবং D তে যথাক্রমে $4 \\times 10^{-12}\\text{ C}, 4 \\times 10^{-12}\\text{ C}, 2 \\times 10^{-12}\\text{ C}$ এবং $2 \\times 10^{-12}\\text{ C}$ চার্জ স্থাপন করা হলো এবং পরবর্তীতে 10 gm ভরের +1C মানের চার্জিত একটি শোলা বল বর্গাকার টেবিলের কেন্দ্রে স্থাপন করা হলো।",
+        "has_image": true,
+        "image_description": "A square table ABCD with side 1 m. Charges are at corners A, B, C, D. Center is marked.",
+        "image_url": "images/cq_DinB22_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "গাউসের সূত্র ও কুলম্বের সূত্রের সীমাবদ্ধতা",
+          "question_text": "গাউসের সূত্রটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "কোনো স্থানে তড়িৎক্ষেত্রের মান শূন্য হলে তড়িৎ বিভবের কী হবে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "কেন্দ্রে চার্জিত বস্তু স্থাপনের পূর্বে কেন্দ্রে বিভবের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "শোলা বলের উপর ক্রিয়াশীল তড়িৎ বল ও অভিকর্ষজ বলের মান নির্ণয়- গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "",
+        "has_image": true,
+        "image_description": "Circuit diagram with a 20V battery, internal resistance R2=16Ω, and two external resistors R1=12Ω and R3=12Ω in a loop.",
+        "image_url": "images/cq_DinB22_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "কার্শফের সূত্র ও এর ব্যবহার",
+          "question_text": "কার্শফের ২য় সূত্রটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "তড়িৎসাহী পরিবাহকে চার্জিত হয় কি? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "বর্তনীতে তড়িৎ প্রবাহ। এর মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "তড়িৎ প্রবাহের দরুন উৎপন্ন তাপের হিসাব",
+          "question_text": "উদ্দীপকের বর্তনীর $R_1$ এবং $R_2$ এর যদি পারস্পরিক স্থান পরিবর্তন করা হয় তাহলে $R_3$ রোধে তাপশক্তি ক্ষয়ে হ্রাসের পরিমাণ একই থাকবে কিনা? গাণিতিকভাবে যাচাইপূর্বক তোমার মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় 600 nm তরঙ্গদৈর্ঘ্যের আলো ব্যবহার করা হলো এবং বায়ুতে ডোবার প্রস্থ 2 mm পাওয়া গেল। পরবর্তীতে 500 nm এবং 400 nm তরঙ্গদৈর্ঘ্যের আলো দিয়ে ডোবার অবস্থান পর্যবেক্ষণ করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "অপবর্তন কোণ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "সমবর্তিত আলোকে ঘূর্ণায়মান সমবর্তক দিয়ে পর্যবেক্ষণ করা হলে আলোর তীব্রতার হ্রাসবৃদ্ধি ঘটে কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "উদ্দীপকে ১ম আলোক উৎসের ক্ষেত্রে পরীক্ষণটি 1.42 প্রতিসরাঙ্কের তারলে ডুবিয়ে করা হলে ডোবার প্রস্থ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "উদ্দীপকে আলোক উৎসের পরিবর্তনের সাথে সাথে পর্দার একটি নির্দিষ্ট অবস্থানে উজ্জ্বল ডোবার ক্রম সংখ্যা বাড়বে না কমবে? গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "ফটোতড়িৎ ক্রিয়ায় A, B এবং C তিনটি ধাতব প্লেট ব্যবহার করা হলো যাদের কার্যাপেক্ষক যথাক্রমে $W_A = 3\\text{ eV}, W_B = 4\\text{ eV}$ এবং $W_C = 5\\text{ eV}$ এবং আলাদাভাবে এদের উপর যথাক্রমে 500 nm, 400 nm এবং 300 nm তরঙ্গদৈর্ঘ্যের সমতীব্রতার আলো ফেলে ফটোইলেকট্রনের মান পরীক্ষা করা হলো। $[h = 6.6 \\times 10^{-34}\\text{ Js}]$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "কাল দীর্ঘায়ন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-05",
+          "topic_name": "প্লাঙ্কের কালো বস্তুর বিকিরণ ও এক্স-রে",
+          "question_text": "X-Ray পরীক্ষায় প্রাপ্ত X-Ray এর তীব্রতা পরীক্ষণের কোন বিষয়ের উপর নির্ভর করে? ব্যাখ্যাসহ লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "A প্লেটের ক্ষেত্রে নিগত ইলেকট্রনের সর্বোচ্চ গতিশক্তি নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "উদ্দীপকের তথ্য হতে তিনটি ধাতুর ক্ষেত্রে নিবৃত্তি বিভবের মানের তুলনামূলক বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "চিত্রে হাইড্রোজেন পরমাণুর শক্তিস্তর দেখা যায় এবং ইলেকট্রন স্থানান্তরের ক্ষেত্রে A, B এবং C তিনটি ধাপ দেখানো হয়েছে যেন কোনো একটি হতে 6513 \\text{ \\AA} তরঙ্গদৈর্ঘ্যের ফোটন কণা নির্গত হয়। $[C = 3 \\times 10^8\\text{ m s}^{-1}, h = 6.6 \\times 10^{-34}\\text{ Js}]$",
+        "has_image": true,
+        "image_description": "Energy level diagram of Hydrogen. n=4 (-0.85 eV), n=3 (-1.5 eV), n=2 (-3.4 eV), n=1 (-13.6 eV). Transition A from n=3 to n=2. Transition B from n=2 to n=1. Transition C from n=4 to n=1.",
+        "image_url": "images/cq_DinB22_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "গড় আয়ু কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
+          "question_text": "একটি নিউক্লিয়াসের স্থায়িত্ব নির্ভর করে নিউক্লিয়ন প্রতি বন্ধনশক্তির উপর- ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "রাদারফোর্ড ও বোরের পরমাণু মডেল",
+          "question_text": "n = 2 শক্তিস্তরে ইলেকট্রনের বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "রাদারফোর্ড ও বোরের পরমাণু মডেল",
+          "question_text": "উদ্দীপকের প্রদত্ত তরঙ্গদৈর্ঘ্যের ফোটন কণা নিঃসারণের জন্য A, B এবং C এর মধ্যে কোনটি দায়ী- গাণিতিকভাবে বিশ্লেষণ করে তোমার সিদ্ধান্ত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "0.5 V এর একটি সিগন্যালকে বিবর্ধিত করার জন্য চিত্রে প্রদত্ত ট্রানজিস্টরটি ব্যবহৃত হয়। সিগন্যালটি ইনপুটে যুক্ত করার ফলে পীঠ প্রবাহের পরিবর্তন $10\\ \\mu\\text{A}$ হয়।",
+        "has_image": true,
+        "image_description": "Transistor circuit diagram. $R_B = 100\\text{ k}\\Omega$, $V_{CC} = 20\\text{ V}$, $\\alpha = 0.98$.",
+        "image_url": "images/cq_DinB22_fig05.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "দাতা পরমাণু কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "\"Knee Voltage\" এর মান 0.7 V বলতে কী বুঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "ইনপুট রোধের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "প্রদত্ত ট্রানজিস্টর এর সাহায্যে উদ্দীপকে উল্লেখিত সিগন্যালটি বিবর্ধিত করা যাবে কি? গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

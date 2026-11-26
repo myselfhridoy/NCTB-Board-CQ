@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "দিনাজপুর বোর্ড",
+    "year": "২০১৯",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "একটি কার্নো ইঞ্জিন সমোষ্ণ প্রসারণ, রুদ্ধ তাপীয় প্রসারণ, সমোষ্ণ সংকোচন ও রুদ্ধতাপীয় সংকোচন এ চারটি ধাপে কাজ করে। ইঞ্জিনের তাপ উৎস ও তাপ গ্রাহকের তাপমাত্রা যথাক্রমে $1000^\\circ\\text{C}$ ও $500^\\circ\\text{C}$। ধাপ চারটিতে সম্পাদিত কাজের পরিমাণ যথাক্রমে $900\\ \\text{J}, 800\\ \\text{J}, 500\\ \\text{J}$ ও $250\\ \\text{J}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "তাপীয় সিস্টেম এবং অভ্যন্তরীণ শক্তি",
+          "question_text": "কার্যকর্তার সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "সমবিভব তল ও তড়িৎ দ্বিমেরু",
+          "question_text": "গোলাকের অভ্যন্তরে সকল বিন্দুতে বিভব সমান।— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "ইঞ্জিন কর্তৃক মোট সম্পাদিত কাজের পরিমাণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "উদ্দীপকের ইঞ্জিনটির তাপ উৎসের তাপমাত্রা বাড়ানোর চেয়ে তাপ গ্রাহকের তাপমাত্রা সমপরিমাণ কমালে দক্ষতা আরও বৃদ্ধি পাবে— গাণিতিক বিশ্লেষণের মাধ্যমে যাথার্থযাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "উদ্দীপকটি লক্ষ কর এবং নিচের প্রশ্নগুলোর উত্তর দাও :",
+        "has_image": true,
+        "image_description": "Circuit diagram showing a rectangular loop ABCD with a battery E=9V, internal resistance r=0.2 ohm on the left side (AB), and a resistor R=15 ohm on the top side (BC).",
+        "image_url": "images/cq_DinB19_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "এনট্রপি ও বিশৃঙ্খলা",
+          "question_text": "এন্ট্রপি কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "বড়ি স্প্রে ব্যবহারের সময় ঠান্ডা অনুভূত হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "বর্তনীর প্রবাহমাত্রা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "তড়িৎ প্রবাহের দরুন উৎপন্ন তাপের হিসাব",
+          "question_text": "বর্তনীতে অনুরূপ আরও একটি কোষ শ্রেণিতে যুক্ত করলে রোধ R-এ উৎপন্ন তাপশক্তির হার কেমন হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "চিত্রে, $PQ = RS = 0.1\\ \\text{m}$; $QR = PS = 0.05\\ \\text{m}$; পাকসংখ্যা, $N = 50$; প্রবাহমাত্রা, $I = 1\\ \\text{A}$; চৌম্বক ক্ষেত্র, $B = 0.2\\ \\text{T}$।",
+        "has_image": true,
+        "image_description": "Rectangular coil PQRS in a uniform magnetic field B pointing to the right. Current I flows from P to Q to R to S.",
+        "image_url": "images/cq_DinB19_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "বিন্দুচার্জ কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "সমবিভব তল ও তড়িৎ দ্বিমেরু",
+          "question_text": "তড়িৎ দ্বিমেরুর অক্ষের লম্ব সমদ্বিখণ্ডকের উপর একটি চার্জ গতিশীল রাখতে কোনো কাজ করতে হয় না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "আয়তাকার কয়েলটির চৌম্বক মোমেন্ট কত হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "আয়তাকার কয়েলটি সমান সংখ্যক পাকবিশিষ্ট বৃত্তাকার কয়েলে পরিণত করা হলে টর্কের মান বাড়বে কি না— বিশ্লেষণপূর্বক মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "একটি স্টেপআপ ট্রান্সফরমারে $220\\ \\text{V}$ সরবরাহ করে $2200\\ \\text{V}$ পাওয়া যায়। ট্রান্সফরমারটির মুখ্য কুণ্ডলীর পাকসংখ্যা $500$ এবং রোধ $0.5\\ \\Omega$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-01",
+          "topic_name": "তড়িচ্চৌম্বকীয় আবেশ ও আবিষ্ট তড়িচ্চালক বল",
+          "question_text": "চৌম্বক ফ্লাক্স কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-01",
+          "topic_name": "তড়িচ্চৌম্বকীয় আবেশ ও আবিষ্ট তড়িচ্চালক বল",
+          "question_text": "ডিসি উৎসের সাথে ট্রান্সফরমার যুক্ত করলে এটি কাজ করবে না কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-01",
+          "topic_name": "তড়িচ্চৌম্বকীয় আবেশ ও আবিষ্ট তড়িচ্চালক বল",
+          "question_text": "গৌণ কুণ্ডলীর পাকসংখ্যা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-03",
+          "topic_name": "স্বকীয় ও পারস্পরিক আবেশ",
+          "question_text": "উদ্দীপক অনুসারে কুণ্ডলীদ্বয়ের রোধের অনুপাত নির্ণয় করা যাবে কি-না— বিশ্লেষণপূর্বক মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "একটি উত্তল লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে $30\\ \\text{সে.মি.}$ ও $40\\ \\text{সে.মি.}$। বায়ু সাপেক্ষে কাচ ও পানির প্রতিসরাঙ্ক যথাক্রমে $1.5$ ও $1.33$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "প্রিজমে আলোর প্রতিসরণ ও বিচ্যুতি",
+          "question_text": "প্রিজম কোণ কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "খালি চোখে পানিতে ডুব দিলে পানির ভিতরে বস্তুর প্রতিচ্ছবি দেখতে পাওয়া যায় না কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "বায়ুতে লেন্সটির ফোকাস দূরত্ব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "লেন্সটিকে পানিতে নিমজ্জিত করলে ফোকাস দূরত্বের কীরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "একটি ধাতুর উপর $2800\\ \\text{\\AA}$ তরঙ্গদৈর্ঘ্যের এবং $5.55 \\times 10^{14}\\ \\text{Hz}$ সূচন কম্পাঙ্কের আলো আপতিত হলে ধাতু থেকে ফটোইলেক্ট্রন নিঃসৃত হয়।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "অপবর্তনের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "Reverse Bias-এ বিভব প্রাচীরের উচ্চতা বৃদ্ধি পায়— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "নিঃসৃত ফটোইলেক্ট্রনের সর্বোচ্চ গতিবেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ধাতু খণ্ডের উপর $3800\\ \\text{\\AA}$ তরঙ্গদৈর্ঘ্যের আলো আপতিত হলে ইলেকট্রন নিঃসৃত হবে কি না? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "$2.26$ ঘণ্টা অর্ধায়ুবিশিষ্ট তেজস্ক্রিয় আয়োডিন আইসোটোপ চিকিৎসাবিজ্ঞানে রোগ নির্ণয়ে ব্যাপকভাবে ব্যবহৃত হয়। কোনো একজন রোগীর রোগ নির্ণয়ের জন্য তার শরীরে $15\\ \\text{g}$ তেজস্ক্রিয় আয়োডিন আইসোটোপ প্রবেশ করানো হলো। ঠিক 24 ঘণ্টা পরে আবার তার শরীরে আয়োডিনের উপস্থিতি নির্ণয় করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-05",
+          "topic_name": "সংখ্যা পদ্ধতি (ডেসিমাল, বাইনারি, হেক্সাডেসিমাল)",
+          "question_text": "ডিজিটাল ভোল্টেজ সঙ্কেত কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "অনুবীক্ষণ যন্ত্রে চূড়ান্ত বিবর্ধক ঋণাত্মক— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "আয়োডিনের ক্ষয় ধ্রুবক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "24 ঘণ্টা পরে রোগীর শরীরে শতকরা কত অংশ আয়োডিন থাকবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "চিত্রে $I_E = 3\\ \\text{mA}, I_B = 15\\ \\mu\\text{A}$।",
+        "has_image": true,
+        "image_description": "NPN Transistor circuit diagram. Emitter current IE, Base current IB, Collector current IC, and load resistor RL are shown.",
+        "image_url": "images/cq_DinB19_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "মহাবিশ্বের সৃষ্টি রহস্য ও পরিণতি",
+          "question_text": "ডার্ক এনার্জি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "মহাকাশ পর্যবেক্ষণের যন্ত্র ও মূলনীতি (রেডিও টেলিস্কোপ, অপটিক্যাল টেলিস্কোপ, কৃত্রিম উপগ্রহ)",
+          "question_text": "বঙ্গবন্ধু স্যাটেলাইট-১ এর মাধ্যমে কি কি সেবা পাওয়া যাবে?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "প্রবাহ লাভ ($\\beta$) নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের ডিভাইসটি ইলেকট্রনিক সুইচ হিসেবে খুঁজবি জনপ্রিয়— বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

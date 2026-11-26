@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "ঢাকা বোর্ড",
+    "year": "২০১৭",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "চিত্র (i) এ W এবং X বিন্দুতে দুটি বিন্দুচার্জ স্থির রয়েছে।",
+        "has_image": true,
+        "image_description": "চিত্র (i): W বিন্দুতে $+2\\mu\\text{C}$ এবং X বিন্দুতে $+4\\mu\\text{C}$ চার্জ যুক্ত দুটি বিন্দু পরস্পর থেকে 2mm দূরে অবস্থিত। চিত্র (ii): W বিন্দুতে $+2\\mu\\text{C}$ চার্জ এবং Y বিন্দুতে $+4\\mu\\text{C}$ চার্জ অবস্থিত যেখানে Y বিন্দুটি W থেকে 3mm উপরে এবং X বিন্দুটি W থেকে 2mm ডানে। এখানে $\\angle \\text{XWY} = 90^\\circ$।",
+        "image_url": "images/cq_DB17_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "ধারকত্ব কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "কোনো বর্তনীতে কোষের অভ্যন্তরীণ রোধের ভূমিকা কী?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "কুলম্বের সূত্র ও ক্ষেত্র তত্ত্ব",
+          "question_text": "$+2\\mu\\text{C}$ চার্জটির উপর ক্রিয়াশীল বল নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "W বিন্দুতে $+2\\mu\\text{C}$ চার্জটিকে স্থির রেখে $+4\\mu\\text{C}$ চার্জটিকে Y বিন্দুতে সরানো হলো (চিত্র-ii)। চিত্র (i) অবস্থানে এবং চিত্র (ii) অবস্থানে $+4\\mu\\text{C}$ চার্জটির তড়িৎ বিভবের কোনো পরিবর্তন হবে কি? বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "নিচের বর্তনটি খেয়াল করো:",
+        "has_image": true,
+        "image_description": "চিত্রে একটি তড়িৎ বর্তনী দেখানো হলো। $12\\text{V}$ উৎসের সাথে রোধগুলো যুক্ত আছে। $R_1 = 2\\Omega$ ও $R_4 = 2\\Omega$ সমান্তরালে যুক্ত হয়ে একটি শাখায় আছে, অপরদিকে $R_2 = 4\\Omega$ ও $R_3 = 3\\Omega$ সমান্তরালে যুক্ত হয়ে অপর শাখায় আছে। X এবং Y বিন্দু দুটি এই দুই শাখার মাঝখানে অবস্থিত। $R_1 = R_4 = 2\\Omega$; $R_2 = 4\\Omega$; $R_3 = 3\\Omega$।",
+        "image_url": "images/cq_DB17_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "গাউসের সূত্র ও কুলম্বের সূত্রের সীমাবদ্ধতা",
+          "question_text": "গাউসের সূত্রটি লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "কোনো বর্তনীর বিভব পার্থক্য ও তড়িচ্চালক বল একই নয় কেন, ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "বর্তনীর প্রবাহমাত্রা নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "AC অংশের ভোল্টেজ কারেন্ট লেখচিত্র এবং XY অংশের ভোল্টেজ কারেন্ট লেখচিত্র মানসহ খাতায় অংকন করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "সারা ও নুবা দুই জন তেজস্ক্রিয় মৌল নিয়ে গবেষণা করছিল। তারা একই সময়ে গণনা শুরু করে। তাদের দু'জনের অক্ষত পরমাণু বনাম সময়ের লেখচিত্র নিচে দেওয়া হলো:",
+        "has_image": true,
+        "image_description": "দুটি লেখচিত্র। বাম দিকেরটি সারার জন্য যেখানে N (অক্ষত পরমাণু) $84.09 \\times 10^6$ থেকে শুরু হয়ে নির্দিষ্ট সময় পর পর কমছে। ডান দিকেরটি নুবার জন্য যেখানে $100 \\times 10^6$ থেকে শুরু হয়ে নির্দিষ্ট সময় পর পর কমছে।",
+        "image_url": "images/cq_DB17_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
+          "question_text": "ভর ত্রুটি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-05",
+          "topic_name": "প্লাঙ্কের কালো বস্তুর বিকিরণ ও এক্স-রে",
+          "question_text": "X-রশ্মি ও $\\gamma$-রশ্মির উৎপত্তিস্থল কী?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "গ্রাফ থেকে ডাটা ব্যবহার করে নুবার মোলার ক্ষয়ধ্রুবক নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "উদ্দীপকের আলোকে কার মৌল আগে ভেঙ্গে যাবে যাচাই করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "AB = 6m দীর্ঘ সরল তারটি হতে 'a' লম্ব দূরত্বে অবস্থিত P বিন্দুতে চৌম্বকক্ষেত্র $2.0 \\times 10^{-5}\\text{T}$। অফফান তারটিকে 3 পাকের কুণ্ডলীতে পরিণত করে একই পরিমাণ তড়িৎ প্রবাহিত করে বলল, কুণ্ডলীর কেন্দ্রে চৌম্বকক্ষেত্রের মান $2.0 \\times 10^{-5}\\text{T}$ অপেক্ষা বেশি হবে। চৌম্বক প্রবেশ্যতা $4\\pi \\times 10^{-7}\\text{TmA}^{-1}$।",
+        "has_image": true,
+        "image_description": "একটি সরল তার AB যার মধ্যে 1=2A তড়িৎ প্রবাহ আছে। P বিন্দুটি তার থেকে 'a' দূরত্বে অবস্থিত।",
+        "image_url": "images/cq_DB17_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "মহাবিশ্বের সৃষ্টি রহস্য ও পরিণতি",
+          "question_text": "সুপারনোভা কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "কোনো ধাতুর সূচন কম্পাঙ্ক $6.1 \\times 10^{14}\\text{Hz}$— ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "লম্ব দূরত্ব 'a' এর মান নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "অফফোনের পরীক্ষণটি সঠিক ছিল কিনা যথাযথ বিশ্লেষণসহ মন্তব্য করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "চিত্রে ABC একটি কাচ প্রিজমের প্রধান ছেদ। এখানে AB = BC = CA. প্রিজমের উপাদানের প্রতিসরাঙ্ক 1.5. AB প্রতিসারক পৃষ্ঠে আলোক রশ্মির আপতন কোণ $27^\\circ$।",
+        "has_image": true,
+        "image_description": "একটি সমবাহু ত্রিভুজাকার প্রিজম ABC। AB পৃষ্ঠে $27^\\circ$ কোণে একটি আলোকরশ্মি আপতিত হচ্ছে।",
+        "image_url": "images/cq_DB17_fig05.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "আলোর সমাবর্তন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "প্রতিফলক দূরবীক্ষণ যন্ত্রে প্রতিবিম্ব বেশি উজ্জ্বল হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "প্রিজমে আলোর প্রতিসরণ ও বিচ্যুতি",
+          "question_text": "প্রিজমটির ন্যূনতম বিচ্যুতি কোণ নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "উদ্দীপকের আলোকে রশ্মিটি AC পৃষ্ঠ দিয়ে নির্গত হবে কিনা যথাযথ গাণিতিক বিশ্লেষণসহ মন্তব্য করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "উদ্দীপকে একটি কমন এমিটার n-p-n অ্যামপ্লিফায়ার বর্তনী দেখানো হলো। বর্তনীর গতীয় রোধ $40\\Omega$। এর কারেন্ট গেইন 75। বর্তনীর $R_L = 60\\Omega$ এবং কালেক্টর কারেন্ট $5\\text{mA}$।",
+        "has_image": true,
+        "image_description": "একটি n-p-n ট্রানজিস্টর অ্যামপ্লিফায়ার বর্তনী। $R_L = 60\\Omega$, কালেক্টর কারেন্ট $I_C = 5\\text{mA}$, বেস কারেন্ট $I_B$ এবং এমিটার কারেন্ট $I_E$ চিহ্নিত।",
+        "image_url": "images/cq_DB17_fig06.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-05",
+          "topic_name": "সংখ্যা পদ্ধতি (ডেসিমাল, বাইনারি, হেক্সাডেসিমাল)",
+          "question_text": "হেক্সাডেসিমেল সংখ্যা পদ্ধতি কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-05",
+          "topic_name": "সংখ্যা পদ্ধতি (ডেসিমাল, বাইনারি, হেক্সাডেসিমাল)",
+          "question_text": "একটি ডিজিটাল ও একটি এনালগ সিগন্যাল অংকন করে দেখাও।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের বর্তনীর প্রবাহ বিবর্ধন গুণক নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের বর্তনী থেকে $100\\%$ ভোল্টেজ গেইন পাওয়া সম্ভব কিনা গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

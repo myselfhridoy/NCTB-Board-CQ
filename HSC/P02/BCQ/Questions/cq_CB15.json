@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "কুমিল্লা বোর্ড",
+    "year": "২০১৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "মেধাবী ছাত্রী সুজানা নিচের বর্তনীটি অংকন করে প্রথমে মূল প্রবাহ হিসেব করে। পরবর্তীতে সে $100\\Omega$ মানের একটি রোধ $R_4$ এর সাথে প্রথমে সমান্তরালে এবং পরে শ্রেণিতে যুক্ত করে উভয় ক্ষেত্রে মূল প্রবাহ হিসেব করে দেখল দ্বিতীয় ক্ষেত্রে প্রবাহ মাত্রার পরিমাণ হ্রাস পায়।",
+        "has_image": true,
+        "image_description": "একটি তড়িৎ বর্তনীতে $R_1 = 100\\Omega$ রোধের পর a বিন্দু, সমান্তরাল শাখায় $R_2 = 150\\Omega$ ও $R_3 = 300\\Omega$ রোধ, এরপর b বিন্দু, $R_4 = 300\\Omega$ রোধ এবং $E = 10\\text{Volt}, r = 2\\Omega$ তড়িৎ উৎস দেখানো হয়েছে।",
+        "image_url": "images/cq_CB15_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "সমবিভব তল ও তড়িৎ দ্বিমেরু",
+          "question_text": "তড়িৎ দ্বিমেরু কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "তাপমাত্রার বিবেচনায় পরিবাহী এবং অর্ধপরিবাহীর মধ্যে পার্থক্য কি?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "১ম ক্ষেত্রে $100\\Omega$ রোধ লাগানোর পূর্বে a বিন্দু এবং b বিন্দুর মধ্যকার বিভব পার্থক্য কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "$100\\Omega$ রোধ লাগানোর পরে সুজানার পর্যবেক্ষণের সত্যতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "পদার্থবিজ্ঞান গবেষণাগারে একদল শিক্ষার্থী $5$ সেন্টিমিটার ব্যাসার্ধ এবং $250$ পাকবিশিষ্ট একটি বৃত্তাকার কুণ্ডলীর ভিতর দিয়ে $20\\text{A}$ তড়িৎ প্রবাহ চালনা করে এবং কুণ্ডলীর কেন্দ্রে চৌম্বকক্ষেত্র B এর মান নির্ণয় করে। তারপর কুণ্ডলীর তারটিকে সোজা করে একই পরিমাণ তড়িৎ প্রবাহ চালিয়ে কয়েলের ব্যাসার্ধের সমান দূরত্বের কোনো বিন্দুতে B এর মান নির্ণয় করে। এমতাবস্থায় প্রবাহ স্থির রেখে পরিবাহীকে $5\\text{ Tesla}$ মানের চৌম্বক ক্ষেত্রের সাথে লম্বভাবে স্থাপন করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "অ্যাম্পিয়ারের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "সুষম চৌম্বকের ক্ষেত্রে গতিশীল চার্জের উপর ক্রিয়াশীল বল কি কি বিষয়ের উপর নির্ভরশীল।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "উদ্দীপকে তারটি সোজা করার পরে চৌম্বক ক্ষেত্রে স্থাপিত অবস্থায় এর উপর ক্রিয়াশীল বলের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "উদ্দীপকের আলোকে কোন ক্ষেত্রে B এর মান বেশি পাবে? গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "সুন্দরবন বেড়াতে গিয়ে তামান্না একটি নভোদূরবীক্ষণ যন্ত্র ব্যবহার করে, যার অভিলক্ষ্য এবং অভিনিত্রের ফোকাস দূরত্ব যথাক্রমে $20\\text{ cm}$ এবং $5\\text{ cm}$। সে যন্ত্রটিকে অসীমে এবং স্পষ্ট দর্শনের ন্যূনতম দূরত্ব উভয়ক্ষেত্রে ফোকাসিং করে প্রাকৃতিক দৃশ্য অবলোকন করে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "হাইগেনসের নীতি (তরঙ্গমুখ ও আলোর প্রতিসরণ/প্রতিফলন)",
+          "question_text": "হাইগেনের নীতিটি বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "প্রিজমে আলোর প্রতিসরণ ও বিচ্যুতি",
+          "question_text": "কোনো প্রিজমের ন্যূনতম বিচ্যুতি কোণ $36^{\\circ}$ বলতে কি বুঝ?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "তামান্না যখন যন্ত্রটিকে অসীমে ফোকাসিং করে তখন যন্ত্রের দৈর্ঘ্য কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "উভয়ক্ষেত্রে ফোকাসিং এর জন্য তামান্নার পর্যবেক্ষণকৃত বিবর্ধনের তুলনামূলক গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "বিজ্ঞান উৎসুক মেধাবী ছাত্রী হুমায়রা তার বাবার সাথে ঢাকা বিশ্ববিদ্যালয়ের পদার্থবিজ্ঞান বিভাগের গবেষণাগারে গিয়ে একটি পরীক্ষণ দেখতে পায়। উক্ত পরীক্ষায় $0.4\\text{\\AA}$ তরঙ্গদৈর্ঘ্যের একটি ফোটন কণা একটি স্থির ইলেকট্রনকে আঘাত করে $55^{\\circ}$ কোণে বিক্ষিপ্ত হয়ে যায়। গবেষণাগারের তালিকা থেকে জানা যায় যে, ইলেকট্রন ভর $= 9.1 \\times 10^{-31}\\text{ kg}$, আলোর বেগ $= 3 \\times 10^8\\text{ ms}^{-1}$ এবং প্ল্যাঙ্কের ধ্রুবক $= 6.63 \\times 10^{-34}\\text{ J-S}$।]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "আলোক তড়িৎ ক্রিয়া কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "বিভব পার্থক্যের $5.1$ একক $\\text{kgm}^2\\text{A}^{-1}\\text{S}^{-3}$ ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-05",
+          "topic_name": "প্লাঙ্কের কালো বস্তুর বিকিরণ ও এক্স-রে",
+          "question_text": "উদ্দীপকের আপতিত ফোটনের শক্তি কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "উদ্দীপকের আলোকে বিক্ষেপণের পূর্বে ও পরে ফোটনের তরঙ্গদৈর্ঘ্যের তুলনামূলক বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "দুটি তেজস্ক্রিয় পদার্থ X ও Y এর পরমাণু সংখ্যা বনাম সময় গ্রাফ নিম্নরূপ যেখানে X মৌলটির ক্ষয়ধ্রুবক $\\lambda = 6.93 \\times 10^{-3}\\text{Yr}^{-1}$।",
+        "has_image": true,
+        "image_description": "দুটি তেজস্ক্রিয় পদার্থ X ও Y এর অক্ষত পরমাণু সংখ্যা N বনাম সময় t(Yr) গ্রাফ দেখানো হয়েছে, যেখানে $N_0$ থেকে $\\frac{N_0}{3}$ মান $100\\text{ Yr}$ সময়ে নির্দেশিত।",
+        "image_url": "images/cq_CB15_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
+          "question_text": "ভর ত্রুটি কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-06",
+          "topic_name": "নিউক্লিয়ার বিক্রিয়া, চেইন বিক্রিয়া, ফিশন ও ফিউশন",
+          "question_text": "নিউক্লিয় ফিশন বিক্রিয়ায় ক্যাডমিয়াম দণ্ড ব্যবহার করা হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "X মৌলটির অর্ধায়ু কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "উদ্দীপকটির অনুসারে X মৌলটির গড় আয়ু ও Y মৌলটির অর্ধায়ু এক হবে কিনা-গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "X ও Y যথাক্রমে ত্রিযোজী ও পঞ্চযোজী মৌল। এদেরকে সিলিকন দণ্ডে ডোপিং করে তুমি একটি ডায়োড তৈরি করলে। এখন X মৌলকে অন্য একটি সিলিকন খণ্ডের মাঝখানে ডোপিং করে একটি ট্রানজিস্টরও তৈরি করলে। এটি দেখে তোমার বন্ধু Y মৌলকে মাঝখানে ডোপিং করে আরেকটি ট্রানজিস্টর তৈরি করলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-04",
+          "topic_name": "মৌলিক বল ও মহাকাশ ভ্রমণে আপেক্ষিকতার ব্যবহার",
+          "question_text": "মৌলিক বল কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "অবিশুদ্ধ অর্ধপরিবাহীর প্রয়োজনীয়তা কী?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "তোমার তৈরিকৃত ডায়োডটির সম্মুখ ঝোঁক এবং বিমুখী ঝোঁক এর বায়াস বর্তনী দেখাও।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "তোমার এবং তোমার বন্ধু দু'জনের তৈরি ট্রানজিস্টর দুটির মধ্য দিয়ে তড়িৎ প্রবাহের (সচিত্র) তুলনামূলক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

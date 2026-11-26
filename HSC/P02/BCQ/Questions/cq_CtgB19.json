@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "চট্টগ্রাম বোর্ড",
+    "year": "২০১৯",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "$30^\\circ\\text{C}$ তাপমাত্রার $0.05\\ \\text{kg}$ পানিকে স্বাভাবিক চাপে $2 \\times 10^{-3}\\ \\text{m}^3$ আয়তনের বাষ্পে পরিণত করা হলো। এ প্রক্রিয়ায় সিস্টেমের অন্তঃস্থ শক্তির পরিবর্তন $1.28 \\times 10^4\\ \\text{J}$। [পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ, $L_v = 2.26 \\times 10^6\\ \\text{J kg}^{-1}$ এবং পানির আপেক্ষিক তাপ, $S = 4200\\ \\text{J kg}^{-1}\\text{K}^{-1}$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "তাপমাত্রা পরিমাপের নীতি",
+          "question_text": "উষ্ণতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
+          "question_text": "রুদ্ধতাপীয় প্রসারণে সিস্টেম শীতল হয়- ব্যাখ্যা দাও।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "এনট্রপি ও বিশৃঙ্খলা",
+          "question_text": "উদ্দীপকের পানিকে বাষ্পে পরিণত করার জন্য এন্ট্রপির পরিবর্তন কত হবে নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-02",
+          "topic_name": "তাপগতিবিদ্যার প্রথম সূত্র",
+          "question_text": "উদ্দীপকের প্রক্রিয়াটি তাপগতিবিদ্যার প্রথম সূত্রকে সমর্থন করে কি-না- গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "একটি সমান্তরাল পাত ধারকের প্রতি পাতের ক্ষেত্রফল $10^{-4}\\ \\text{cm}^2$। পাতদ্বয় বায়ুতে পরস্পর হতে $1\\ \\text{cm}$ ব্যবধানে অবস্থিত। প্রত্যেক পাতে সরবরাহকৃত চার্জের পরিমাণ $8.9 \\times 10^{-10}\\ \\text{C}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "তড়িৎ আধান কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-08",
+          "topic_name": "ব্যবহারিক: পটেনশিওমিটার, মিটার ব্রীজ, পোস্ট অফিস বক্স",
+          "question_text": "মিটার ব্রীজের প্রান্ত সন্ধান করা হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "ধারকের পাতদ্বয়ের চার্জ ঘনত্ব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "পাতদ্বয়ের মধ্যকার বিভব পার্থক্য অর্ধেক করা হলে ধারকটির সঞ্চিত শক্তি পূর্বের সঞ্চিত শক্তির এক-চতুর্থাংশ হবে কি না- গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "তোমার বন্ধু একটি অতিদ্রুত গতিসম্পন্ন ক্লাসনিক গাড়িতে $0.76\\ \\text{c}$ গতিতে তোমার পাশ দিয়ে চলে গেল। গাড়িটি $5.80\\ \\text{m}$ লম্বা বলে তোমার কাছে মনে হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "মহাবিশ্বের মূল বস্তু ও ঘটনা",
+          "question_text": "পালসার নক্ষত্র কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "মহাবিশ্বের সৃষ্টি রহস্য ও পরিণতি",
+          "question_text": "কোন শর্তে মহাবিশ্বে মহাসংকোচন শুরু হবে? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "স্থির অবস্থায় গাড়িটির দৈর্ঘ্য কত হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "তোমার ঘড়িতে $20\\ \\text{sec}$ সময় অতিবাহিত হলে তোমার বন্ধুর ঘড়িতে অতিবাহিত সময় বেশি না কম হবে? গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "চিত্রে $R_1 = 4\\ \\Omega$, $R_2 = 2\\ \\Omega$, $R_3 = 3\\ \\Omega$, $R_4 = 3\\ \\Omega$, $R_5 = 9\\ \\Omega$ এবং $E = 24\\ \\text{V}$ যুক্ত একটি বর্তনী দেখানো হলো। এখানে A ও B দুটি লুপ নির্দেশ করে।",
+        "has_image": true,
+        "image_description": "Circuit diagram with two loops A and B, resistors R1=4 ohm, R2=2 ohm, R3=3 ohm, R4=3 ohm, R5=9 ohm and a 24V battery.",
+        "image_url": "images/cq_CtgB19_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "তুল্য রোধ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-01",
+          "topic_name": "তড়িচ্চৌম্বকীয় আবেশ ও আবিষ্ট তড়িচ্চালক বল",
+          "question_text": "তড়িৎ চৌম্বকীয় আবেশ শক্তি সৃষ্টি নয় বরং শক্তির রূপান্তর— ব্যাখ্যা দাও।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "$R_2$ রোধের মধ্য দিয়ে তড়িৎ প্রবাহের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "কার্শফের সূত্র ও এর ব্যবহার",
+          "question_text": "উদ্দীপকের 'A' লুপের $R_1$ রোধের সাথে শ্রেণিতে না কি সমান্তরালে কত রোধ যুক্ত করলে উভয় লুপে একই তড়িৎ প্রবাহিত হবে— গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "হাইড্রোজেন পরমাণুর অনুমোদিত দ্বিতীয় কোয়ান্টাম কক্ষ হতে প্রথম কোয়ান্টাম কক্ষে ইলেকট্রন যাওয়ার জন্য ফোটন নির্গত হয়। $[e = 1.6 \\times 10^{-19}\\ \\text{C}, m = 9.1 \\times 10^{-31}\\ \\text{kg}, h = 6.63 \\times 10^{-34}\\ \\text{J-s}, \\epsilon_0 = 8.85 \\times 10^{-12}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}]$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "রাদারফোর্ড ও বোরের পরমাণু মডেল",
+          "question_text": "'1' (এক) রাদারফোর্ড কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-05",
+          "topic_name": "সংখ্যা পদ্ধতি (ডেসিমাল, বাইনারি, হেক্সাডেসিমাল)",
+          "question_text": "এনালগ পদ্ধতি এবং ডিজিটাল পদ্ধতি এক না ভিন্ন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "রাদারফোর্ড ও বোরের পরমাণু মডেল",
+          "question_text": "হাইড্রোজেন পরমাণুর দ্বিতীয় বোর কক্ষের ব্যাসার্ধ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "রাদারফোর্ড ও বোরের পরমাণু মডেল",
+          "question_text": "উদ্দীপকের হাইড্রোজেন পরমাণুর দ্বিতীয় কক্ষপথ থেকে প্রথম কক্ষপথে ইলেকট্রন যাওয়ার ফলে নিঃসৃত বিকিরণ কি চোখে দেখা যাবে? গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "শিলা দিকপরিবর্তী তড়িচ্চালক শক্তির একটি সমীকরণ লিখল এভাবে $E = 6 \\sin 314t$। নাবিল বলল, কার্যকর তড়িচ্চালক শক্তির মান $6\\ \\text{V}$ এর কম হবে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "এক ফারাড কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "কোনো বস্তুর চার্জ $0.8 \\times 10^{-19}\\ \\text{C}$ হতে পারে না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-04",
+          "topic_name": "দিক পরিবর্তী প্রবাহ সৃষ্টি ও এর বিভিন্ন রাশি",
+          "question_text": "তড়িচ্চালক বলের পর্যায়কাল নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-04",
+          "topic_name": "দিক পরিবর্তী প্রবাহ সৃষ্টি ও এর বিভিন্ন রাশি",
+          "question_text": "নাবিল কি সঠিক বলেছে? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "কোনো ট্রানজিস্টরের বেস কারেন্ট $105\\ \\mu\\text{A}$ এবং কালেক্টর কারেন্ট $2.05\\ \\text{mA}$। বেস কারেন্টের $2.7\\ \\mu\\text{A}$ পরিবর্তনের ফলে কালেক্টর কারেন্টের প্রবাহ পরিবর্তন হলো $0.65\\ \\text{mA}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "ডোপায়িং বলতে কী বুঝ?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "অ্যামিটার এক প্রকার গ্যালভানোমিটার— ব্যাখ্যা দাও।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "$I_E$ এবং $\\alpha$ এর মান বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "বেস ও কালেক্টর কারেন্টের পরিবর্তনের ফলে $\\beta$ এর মান পূর্বের তুলনায় বৃদ্ধি পাবে কি-না? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "$15\\ \\text{cm}$ ও $30\\ \\text{cm}$ বক্রতার ব্যাসার্ধবিশিষ্ট একটি উত্তল লেন্সের সামনে $60\\ \\text{cm}$ দূরে একটি বস্তু স্থাপন করলে $30\\ \\text{cm}$ পিছনে প্রতিবিম্ব পাওয়া যায়।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "দৃষ্টি কোণ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "অভিলক্ষের ফোকাস দৈর্ঘ্য কমালে অণুবীক্ষণ যন্ত্রের বিবর্ধন ক্ষমতা কীভাবে পরিবর্তিত হয়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "লেন্সটির উপাদানের প্রতিসরাঙ্ক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "লেন্সের ক্ষমতা ও ফোকাস দূরত্ব",
+          "question_text": "উদ্দীপকের অন্যান্য শর্তাবলি ঠিক রেখে কী ব্যবস্থা নিলে লেন্সটির ক্ষমতা $1.54\\ \\text{D}$ করা যায়? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

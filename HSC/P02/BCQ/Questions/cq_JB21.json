@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "যশোর বোর্ড",
+    "year": "২০২১",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "একটি তাপ ইঞ্জিনে গৃহীত তাপের এক-তৃতীয়াংশ বর্জন করে। উৎসের তাপমাত্রা 200 K বৃদ্ধি করলে দক্ষতা 80% হয়। ইঞ্জিনটি তাপ উৎস থেকে 1500 J তাপ গ্রহণ করে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "তাপীয় সিস্টেম এবং অভ্যন্তরীণ শক্তি",
+          "question_text": "তাপীয় সমতা বলতে কী বুঝ?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "দুটি বরফখণ্ড একটির উপর অপরটি চেপে ধরলে তা একটি খণ্ডে পরিণত হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "উদ্দীপকের ডাটা ব্যবহার করে প্রথম পর্যায়ে ইঞ্জিনের দক্ষতা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "কার্নো চক্র",
+          "question_text": "উৎসের তাপমাত্রা স্থির রেখে উদ্দীপকে উল্লিখিত যন্ত্রটিকে কীভাবে প্রত্যাবর্তী ইঞ্জিন রূপান্তর করা যায়— গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে দুটি বর্তনী দেখানো হলো। বর্তনী-১ এ দুটি $6\\ \\Omega$ রোধ শ্রেণীতে এবং বর্তনী-২ এ দুটি $6\\ \\Omega$ রোধ সমান্তরালে $12\\ \\text{V}$ উৎসের সাথে যুক্ত আছে। উভয় ক্ষেত্রে উৎসের অভ্যন্তরীণ রোধ $r = 0.5\\ \\Omega$।",
+        "has_image": true,
+        "image_description": "Two circuit diagrams. Bortoni-1 shows two 6 ohm resistors in series with a 12V source (r=0.5 ohm). Bortoni-2 shows two 6 ohm resistors in parallel with a 12V source (r=0.5 ohm).",
+        "image_url": "images/cq_JB21_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "শান্ট কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "জুলের তাপীয় ক্রিয়া ও তাপের যান্ত্রিক সমতা",
+          "question_text": "পরিবাহীর মধ্য দিয়ে তড়িৎ প্রবাহের ফলে তাপ উৎপন্ন হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "বর্তনী-১ এ রোধকের মধ্য দিয়ে কত তড়িৎ প্রবাহিত হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "তড়িৎ প্রবাহের দরুন উৎপন্ন তাপের হিসাব",
+          "question_text": "কোন বর্তনীতে একটি নির্দিষ্ট সময়ে বেশি তাপ উৎপন্ন হবে? গাণিতিক বিশ্লেষণ দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "উপরের চিত্রে ইয়ং-এর দ্বি-চিড় পরীক্ষার একটি ব্যবস্থা দেখানো হয়েছে, যেখানে $S_1$ ও $S_2$ দুটি সুসংগত উৎস। চিড়দ্বয়ের মধ্যবর্তী দূরত্ব $2\\ \\text{mm}$ এবং পর্দার দূরত্ব $1\\ \\text{m}$। আলোর তরঙ্গদৈর্ঘ্য $5800\\ \\text{\\AA}$।",
+        "has_image": true,
+        "image_description": "Young's double slit experiment setup. Light source S, slits S1 and S2 separated by 2 mm, screen at 1 m distance showing interference pattern.",
+        "image_url": "images/cq_JB21_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "হাইগেনসের নীতি (তরঙ্গমুখ ও আলোর প্রতিসরণ/প্রতিফলন)",
+          "question_text": "তরঙ্গমুখ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "আলোর ব্যতিচারে সুসংগত আলোকক উৎস ব্যবহার করা হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "কেন্দ্রীয় উজ্জ্বল পটি হতে তৃতীয় অন্ধকারের উজ্জ্বল পটির দূরত্ব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "যদি চিড়দ্বয় হতে পর্দার দূরত্ব অর্ধেক করা হয়, তাহলে পরপর দুটি উজ্জ্বল পটির ব্যাবধান বর্তমান পটির প্রস্থের সমান হবে কি-না? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "পৃথিবীর পৃষ্ঠ হতে 250 আলোকবর্ষ দূরে একটি গ্রহের উপর গবেশনকারী করা জন্য একদল গবেষক 60 বছর বয়সি একটি প্রাণীকে 0.6 C বেগে চলমান নভোযানের মাধ্যমে ওঁ তাহে পাঠায়। ঐ প্রাণীর ভর 20 kg। 1 আলোকবর্ষ = $9.4 \\times 10^{15}\\ \\text{m}$। প্রাণীটির গড় আয়ুষ্কাল 100 বছর।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-01",
+          "topic_name": "জড় ও অজড় কাঠামো এবং মাইকেলসন-মোরলে পরীক্ষা",
+          "question_text": "জড় কাঠামো কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "কোনো বস্তু কেন আলোর বেগে চলতে পারে না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "উদ্দীপকের আলোকে চলন্ত অবস্থায় প্রাণীটির ভর কত হবে? বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "উদ্দীপকের তথ্য অনুযায়ী চলমান প্রাণীটি জীবিত ও গ্রহে পৌঁছাতে সক্ষম হবে কি-না? গাণিতিকভাবে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "চিত্রে A, B এবং C ইনপুটবিশিষ্ট একটি লজিক বর্তনী দেখানো হলো। এখানে A ও B একটি OR গেটের সাথে যুক্ত। ঐ OR গেটের আউটপুট X নির্দেশ করে। অপরদিকে OR গেটের আউটপুট এবং C ইনপুট একটি AND গেটের সাথে যুক্ত হয়ে Y আউটপুট দেয়।",
+        "has_image": true,
+        "image_description": "Logic circuit diagram. A and B are inputs to an OR gate. The output of this OR gate goes to another OR gate along with C to produce X. The output of the first OR gate also goes to an AND gate along with C to produce Y.",
+        "image_url": "images/cq_JB21_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "রেকটিফায়ার কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "P-N জাংশন এ ডিপ্রেশন স্তর কীভাবে সৃষ্টি হয়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-06",
+          "topic_name": "বাইনারি অপারেশন ও লজিক গেট (NOT, OR, AND, NOR, NAND)",
+          "question_text": "উদ্দীপকের লজিক বর্তনীর সত্যক সারণি লিখ।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-06",
+          "topic_name": "বাইনারি অপারেশন ও লজিক গেট (NOT, OR, AND, NOR, NAND)",
+          "question_text": "উদ্দীপকের আলোকে X এবং Y আউটপুটদ্বয়কে মৌলিক গেইটের মাধ্যমে বাস্তবায়ন কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "$$\\\\begin{array}{|c|c|c|c|c|} \\\\hline \\\\text{ইঞ্জিন} & \\\\text{তাপ উৎসের তাপমাত্রা} & \\\\text{তাপগ্রাহকের তাপমাত্রা} & \\\\text{কার্যকর বস্তুর ভর} & \\\\text{জ্বালানির আপেক্ষিক তাপ} \\\\\\\\ \\\\hline A & 327^\\\\circ\\\\text{C} & -13^\\\\circ\\\\text{C} & 0.8\\\\ \\\\text{kg} & 1980\\\\ \\\\text{J kg}^{-1}\\\\text{K}^{-1} \\\\\\\\ B & 627^\\\\circ\\\\text{C} & 127^\\\\circ\\\\text{C} & 1.2\\\\ \\\\text{kg} & 1230\\\\ \\\\text{J kg}^{-1}\\\\text{K}^{-1} \\\\\\\\ \\\\hline \\\\end{array}$$",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "তাপীয় সিস্টেম এবং অভ্যন্তরীণ শক্তি",
+          "question_text": "তাপীয় সমতা কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "সমোষ্ণ প্রক্রিয়ায় গ্যাস দ্বারা সম্পাদিত কাজ সর্বাধিকৃত তাপশক্তির সমান হয়— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "B ইঞ্জিনের দক্ষতা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "উদ্দীপকের আলোকে কোন ইঞ্জিনটি বেশি পরিশ্রমসাধ্য হবে গাণিতিকভাবে বিশ্লেষণ করে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "চিত্রে দুটি বর্তনী দেখানো হলো। বর্তনী-ক এ তিনটি কোষ শ্রেণীতে এবং বর্তনী-খ এ তিনটি কোষ সমান্তরালে যুক্ত। উভয় ক্ষেত্রে প্রতিটি কোষের তড়িচ্চালক বল $E = 5\\ \\text{V}$, অভ্যন্তরীণ রোধ $r = 0.2\\ \\Omega$ এবং বাহ্যিক রোধ $R = 40\\ \\Omega$।",
+        "has_image": true,
+        "image_description": "Two circuit diagrams. Bortoni-ka shows three cells in series with resistor R. Bortoni-kha shows three cells in parallel with resistor R. Each cell has E = 5V and r = 0.2 ohm. R = 40 ohm.",
+        "image_url": "images/cq_JB21_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "তড়িচ্চালক বল কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "পরিবাহীর পরিবাহিতার উপর তাপমাত্রার প্রভাব ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "'ক' বর্তনীতে তড়িৎ প্রবাহ মাত্রা কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "তড়িৎ প্রবাহের দরুন উৎপন্ন তাপের হিসাব",
+          "question_text": "কোন বর্তনীতে বেশি শক্তি অপচয় হবে, গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "চিত্রে একটি ট্রানজিস্টর বর্তনী দেওয়া হলো যেখানে বেস প্রবাহ $I_B = 20\\ \\mu\\text{A}$ এবং কালেক্টর প্রবাহ $I_C = 5\\ \\text{mA}$। লোড রোধ $R_L = 100\\ \\Omega$।",
+        "has_image": true,
+        "image_description": "Transistor circuit diagram showing IB = 20 uA, IC = 5 mA, RL = 100 ohm, VBE, and VCE.",
+        "image_url": "images/cq_JB21_fig05.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-05",
+          "topic_name": "সংখ্যা পদ্ধতি (ডেসিমাল, বাইনারি, হেক্সাডেসিমাল)",
+          "question_text": "বাইনারি কোড কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "অর্ধতরঙ্গ একমুখীকরণ প্রক্রিয়ায় কেন আউটপুটে পূর্ণ তরঙ্গ পাওয়া যায় না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের ভিত্তিতে প্রবাহ বিবর্ধক গুণক নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের তথ্যানুসারে প্রবাহ লাভ 100% পাওয়া সম্ভব কি-না— গাণিতিক ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

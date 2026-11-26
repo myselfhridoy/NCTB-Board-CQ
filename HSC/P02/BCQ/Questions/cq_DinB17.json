@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "দিনাজপুর বোর্ড",
+    "year": "২০১৭",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "একটি তাপ ইঞ্জিনের কার্যকর পদার্থ $600\\text{ K}$ তাপমাত্রার উৎস থেকে $1200\\text{ J}$ তাপ গ্রহণ করে এবং $300\\text{ K}$ তাপমাত্রার গ্রাহকে $600\\text{ J}$ তাপ বর্জন করে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
+          "question_text": "প্রত্যাগামী প্রক্রিয়া কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "তাপমাত্রা পরিমাপের নীতি",
+          "question_text": "তাপগতিবিদ্যার শূন্যতম সূত্রটি ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "তাপ ইঞ্জিনের দক্ষতা নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
+          "question_text": "তাপ ইঞ্জিনটি প্রত্যাগামী না অপ্রত্যাগামী— গাণিতিক যুক্তিসহ সিদ্ধান্ত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "একটি সমান্তরাল পাত ধারকের প্রত্যেকটি পাতের ক্ষেত্রফল $1.65\\text{ m}^2$। পাতদ্বয়ের মধ্যবর্তী দূরত্ব $2\\text{ cm}$ এবং এটি বায়ু দ্বারা পূর্ণ। পাতদ্বয়ের বিভব পার্থক্য $60\\text{ V}$। ($\\epsilon_0 = 8.854 \\times 10^{-12}\\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$)",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "তড়িৎ ধারকত্ব কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "চার্জের কোয়ান্টায়ন ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "উদ্দীপক অনুসারে ধারকটির ধারকত্ব নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "ধারকটির মধ্যবর্তী স্থানে $2.8$ ডাইইলেকট্রিক ধ্রুবকের একটি বস্তু দ্বারা পূর্ণ করলে সঞ্চিত শক্তির কিরূপ পরিবর্তন হবে? গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "চিত্রে একটি বর্তনী দেখানো হলঃ",
+        "has_image": true,
+        "image_description": "একটি তড়িৎ বর্তনীতে $R_1 = 120\\Omega$ ও $R_2 = 180\\Omega$ রোধ দুটি সমান্তরাল সমবায়ে যুক্ত হয়ে $R_3 = 200\\Omega$ রোধ এবং 'A' বিন্দুর সাথে শ্রেণিতে $12\\text{V}$ তড়িৎ উৎসের সাথে সংযুক্ত, যেখানে প্রবাহ $I$ নির্দেশিত।",
+        "image_url": "images/cq_DinB17_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-08",
+          "topic_name": "ব্যবহারিক: পটেনশিওমিটার, মিটার ব্রিজ, পোস্ট অফিস বক্স",
+          "question_text": "মিটার ব্রিজ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "হারানো ভোল্ট বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "'A' বিন্দুতে বর্তনীর প্রবাহমাত্রা নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "কোন রোধটি অপসারণ করলে বর্তনীর মোট প্রবাহ সর্বোচ্চ হবে? গাণিতিক বিশ্লেষণের মাধ্যমে দেখাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "একটি তড়িৎবাহী তার কুণ্ডলী যার ব্যাসার্ধ $15\\text{ cm}$.",
+        "has_image": true,
+        "image_description": "$15\\text{cm}$ ব্যাসার্ধের একটি বৃত্তাকার কুণ্ডলীর $90^{\\circ}$ কোণের বৃত্তচাপ বা অংশ এবং কেন্দ্রে $B = 300\\mu\\text{T}$ চৌম্বক ক্ষেত্র নির্দেশিত চিত্রে দেখানো হয়েছে।",
+        "image_url": "images/cq_DinB17_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-03",
+          "topic_name": "স্বকীয় ও পারস্পরিক আবেশ",
+          "question_text": "স্বকীয় আবেশ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-07",
+          "topic_name": "পৃথিবীর চৌম্বকত্ব ও চৌম্বক উপাদান",
+          "question_text": "ভৌগোলিক ও চৌম্বক মধ্যতলের অন্তর্ভুক্ত কোণ ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "উদ্দীপকের বৃত্তাকার কুণ্ডলীর $62$ পাকের জন্য তড়িৎ প্রবাহ নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "তার কুণ্ডলীটি থেকে পরিধির সমান অংশ নিয়ে সোজা করে লম্বা তারটি থেকে বৃত্তাকার কুণ্ডলীর ব্যাসার্ধের সমান দূরত্বে চৌম্বক ফ্লাক্স ঘনত্বের কি পরিবর্তন ঘটবে? বিশ্লেষণ করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "চিত্রে লক্ষ্যবস্তুর অবস্থান দেখানো হল।",
+        "has_image": true,
+        "image_description": "একটি উত্তল লেন্স O এর প্রধান অক্ষের উপর লেন্স থেকে $50\\text{ cm}$ দূরে PQ লক্ষ্যবস্তু স্থাপিত এবং পাশে $\\mu_g = 1.5$, $\\mu_w = 1.33$, $r_1 = 30\\text{ cm}$, $r_2 = 60\\text{ cm}$ মানগুলো দেওয়া আছে।",
+        "image_url": "images/cq_DinB17_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "ফোকাস দূরত্ব কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "লেন্সের ক্ষমতা ও ফোকাস দূরত্ব",
+          "question_text": "লেন্সের ক্ষমতা $-3.5\\text{ D}$ বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "উদ্দীপক থেকে লেন্সের ফোকাস দূরত্ব নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "লেন্সটিকে পর্যায়ক্রমে বায়ু ও পানিতে স্থাপন করলে বিম্বের প্রকৃতি কেমন হবে— গাণিতিকভাবে ব্যাখ্যা করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "করিম তার বন্ধু রহিমের সাথে আপেক্ষিক তত্ত্বের বিভিন্ন বিষয় নিয়ে আলোচনা করল। করিম বলল একজন মহাশূন্যচারী $40$ বছর বয়সে $2.62 \\times 10^8\\text{ms}^{-1}$ বেগে একটি রকেটে চড়ে একটি নতুন গ্রহের অনুসন্ধানে গেল। পৃথিবীতে রকেটের দৈর্ঘ্য ছিল $75\\text{m}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "কাল দীর্ঘায়ন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ফট Rotate তড়িৎ ক্রিয়া ব্যাখ্যায় প্লাঙ্কের তত্ত্বের প্রয়োজন কেন? ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "পৃথিবী থেকে পরিমাপকৃত গতিশীল রকেটের দৈর্ঘ্য কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "অনুসন্ধান শেষে উক্ত নভোচারী পৃথিবীর হিসাবে $45$ বছর পর ফিরে আসলে আপেক্ষিক তত্ত্ব অনুসারে পৃথিবীর ক্যালেন্ডার অনুযায়ী তাদের বয়স একই হবে কিনা— ব্যাখ্যা করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "তেজস্ক্রিয় ট্রিটিয়াম পদার্থটি প্রকৃতিতে রেখে দিলে স্বতঃস্ফূর্তভাবে ক্ষয় হতে থাকে। এরূপ একখণ্ড ট্রিটিয়ামের অবক্ষয় ধ্রুবক $5.54 \\times 10^{-2}\\text{y}^{-1}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-06",
+          "topic_name": "নিউক্লিয়ার বিক্রিয়া, চেইন বিক্রিয়া, ফিশন ও ফিউশন",
+          "question_text": "ফিশন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "তেজস্ক্রিয়তার কারণ ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "উদ্দীপকের প্রদত্ত ট্রিটিয়ামের $64\\%$ ক্ষয় হতে কত সময় লাগবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "উদ্দীপকে প্রদত্ত তেজস্ক্রিয় মৌলটির অর্ধায়ু অপেক্ষা গড় আয়ু বেশি— সত্যতা যাচাই করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "নিচে একটি ডায়োডের $V - I$ লেখচিত্র দেখানো হলঃ",
+        "has_image": true,
+        "image_description": "একটি ডায়োডের সম্মুখ ও বিমুখ ঝোঁকের V-I লেখচিত্রে সম্মুখ প্রবাহ $I_F(\\text{mA})$ বনাম $V_F(\\text{volt})$ এর উপর M (ভোল্টেজ $0.2\\text{V}$, প্রবাহ $40\\text{mA}$) ও N (ভোল্টেজ $0.3\\text{V}$, প্রবাহ $90\\text{mA}$) বিন্দু এবং বিমুখ অংশে $I_R(\\mu\\text{A})$ বনাম B, C বিন্দু দেখানো হয়েছে।",
+        "image_url": "images/cq_DinB17_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "ট্রানজিস্টর কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-02",
+          "topic_name": "ইলেকট্রন ও হোলের ধারণা এবং p-টাইপ ও n-টাইপ সেমিকন্ডাক্টর",
+          "question_text": "N শ্রেণির অর্ধপরিবাহীতে সংখ্যাগরিষ্ঠ বাহক ইলেকট্রন কেন থাকে?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "উদ্দীপকের চিত্র থেকে ডায়োডের গতীয় রোধ নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-03",
+          "topic_name": "জংশন ডায়োড, একমুখীকরণ ও ব্রিজ রেকটিফায়ার",
+          "question_text": "অনেকক্ষণ ধরে বিদ্যুৎ প্রবাহের জন্য BC অংশের প্রবাহের চেয়ে MN অংশের প্রবাহ বেশি নিরাপদ— ব্যাখ্যা করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

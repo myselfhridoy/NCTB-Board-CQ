@@ -346,7 +346,7 @@
         "text": "উদ্দীপকটি লক্ষ্য কর।",
         "has_image": true,
         "image_description": "Fig-1 এবং Fig-2 নামে দুটি বর্তনী দেখানো হয়েছে; উভয়েই $6\\text{V}$ উৎস, $2\\Omega$ রোধ এবং LED যুক্ত আছে, তবে Fig-2 এ একটি NOT গেট ও একটি OR গেট সংযুক্ত রয়েছে।",
-        "image_url": "images/cq_AB18_fig03.jpg"
+        "image_url": "images/cq_AB18_fig03.png"
       },
       "sub_questions": [
         {

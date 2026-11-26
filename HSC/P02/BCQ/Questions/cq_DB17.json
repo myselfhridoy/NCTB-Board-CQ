@@ -11,9 +11,9 @@
     {
       "question_no": 1,
       "stem": {
-        "text": "চিত্র (i) এ W এবং X বিন্দুতে দুটি বিন্দুচার্জ স্থির রয়েছে।",
+        "text": "চিত্র (i) এ W এবং X বিন্দুতে দুটি বিন্দুচার্জ স্থির রয়েছে। চিত্র (ii) এ W বিন্দুতে $+2\\mu\\text{C}$ এবং Y বিন্দুতে $+4\\mu\\text{C}$ চার্জ স্থির রয়েছে।",
         "has_image": true,
-        "image_description": "চিত্র (i): W বিন্দুতে $+2\\mu\\text{C}$ এবং X বিন্দুতে $+4\\mu\\text{C}$ চার্জ যুক্ত দুটি বিন্দু পরস্পর থেকে 2mm দূরে অবস্থিত। চিত্র (ii): W বিন্দুতে $+2\\mu\\text{C}$ চার্জ এবং Y বিন্দুতে $+4\\mu\\text{C}$ চার্জ অবস্থিত যেখানে Y বিন্দুটি W থেকে 3mm উপরে এবং X বিন্দুটি W থেকে 2mm ডানে। এখানে $\\angle \\text{XWY} = 90^\\circ$।",
+        "image_description": "চিত্র (i) এ W ও X বিন্দুতে যথাক্রমে $+2\\mu\\text{C}$ ও $+4\\mu\\text{C}$ চার্জ 2mm দূরে অবস্থিত। চিত্র (ii) এ W ও Y বিন্দুতে যথাক্রমে $+2\\mu\\text{C}$ ও $+4\\mu\\text{C}$ চার্জ অবস্থিত, যেখানে WX = 2mm, WY = 3mm এবং $\\angle \\text{XWY} = 90^\\circ$।",
         "image_url": "images/cq_DB17_fig01.jpg"
       },
       "sub_questions": [
@@ -94,9 +94,9 @@
     {
       "question_no": 2,
       "stem": {
-        "text": "নিচের বর্তনটি খেয়াল করো:",
+        "text": "নিচের বর্তনটি খেয়াল করো: $R_1 = R_4 = 2\\Omega; R_2 = 4\\Omega; R_3 = 3\\Omega$।",
         "has_image": true,
-        "image_description": "চিত্রে একটি তড়িৎ বর্তনী দেখানো হলো। $12\\text{V}$ উৎসের সাথে রোধগুলো যুক্ত আছে। $R_1 = 2\\Omega$ ও $R_4 = 2\\Omega$ সমান্তরালে যুক্ত হয়ে একটি শাখায় আছে, অপরদিকে $R_2 = 4\\Omega$ ও $R_3 = 3\\Omega$ সমান্তরালে যুক্ত হয়ে অপর শাখায় আছে। X এবং Y বিন্দু দুটি এই দুই শাখার মাঝখানে অবস্থিত। $R_1 = R_4 = 2\\Omega$; $R_2 = 4\\Omega$; $R_3 = 3\\Omega$।",
+        "image_description": "একটি তড়িৎ বর্তনী যেখানে 12V ব্যাটারির সাথে $R_1$, $R_2$, $R_3$ এবং $R_4$ রোধ যুক্ত আছে। A, B, C এবং X, Y বিন্দুসমূহ চিহ্নিত।",
         "image_url": "images/cq_DB17_fig02.jpg"
       },
       "sub_questions": [
@@ -179,7 +179,7 @@
       "stem": {
         "text": "সারা ও নুবা দুই জন তেজস্ক্রিয় মৌল নিয়ে গবেষণা করছিল। তারা একই সময়ে গণনা শুরু করে। তাদের দু'জনের অক্ষত পরমাণু বনাম সময়ের লেখচিত্র নিচে দেওয়া হলো:",
         "has_image": true,
-        "image_description": "দুটি লেখচিত্র। বাম দিকেরটি সারার জন্য যেখানে N (অক্ষত পরমাণু) $84.09 \\times 10^6$ থেকে শুরু হয়ে নির্দিষ্ট সময় পর পর কমছে। ডান দিকেরটি নুবার জন্য যেখানে $100 \\times 10^6$ থেকে শুরু হয়ে নির্দিষ্ট সময় পর পর কমছে।",
+        "image_description": "সারার লেখচিত্রে অক্ষত পরমাণুর সংখ্যা $84.09 \\times 10^6$ থেকে শুরু হয়ে কমছে। নুবার লেখচিত্রে অক্ষত পরমাণুর সংখ্যা $100 \\times 10^6$ থেকে শুরু হয়ে কমছে।",
         "image_url": "images/cq_DB17_fig03.jpg"
       },
       "sub_questions": [
@@ -226,7 +226,7 @@
           "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
           "topic_code": "T-04",
           "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
-          "question_text": "গ্রাফ থেকে ডাটা ব্যবহার করে নুবার মোলার ক্ষয়ধ্রুবক নির্ণয় করো।",
+          "question_text": "গ্রাফ থেকে ডাটা ব্যবহার করে নুবার মৌলের ক্ষয়ধ্রুবক নির্ণয় করো।",
           "marks": 3,
           "answer": {
             "full_explanation": "",
@@ -262,7 +262,7 @@
       "stem": {
         "text": "AB = 6m দীর্ঘ সরল তারটি হতে 'a' লম্ব দূরত্বে অবস্থিত P বিন্দুতে চৌম্বকক্ষেত্র $2.0 \\times 10^{-5}\\text{T}$। অফফান তারটিকে 3 পাকের কুণ্ডলীতে পরিণত করে একই পরিমাণ তড়িৎ প্রবাহিত করে বলল, কুণ্ডলীর কেন্দ্রে চৌম্বকক্ষেত্রের মান $2.0 \\times 10^{-5}\\text{T}$ অপেক্ষা বেশি হবে। চৌম্বক প্রবেশ্যতা $4\\pi \\times 10^{-7}\\text{TmA}^{-1}$।",
         "has_image": true,
-        "image_description": "একটি সরল তার AB যার মধ্যে 1=2A তড়িৎ প্রবাহ আছে। P বিন্দুটি তার থেকে 'a' দূরত্বে অবস্থিত।",
+        "image_description": "একটি সরল তার AB যার মধ্যদিয়ে I = 2A তড়িৎ প্রবাহিত হচ্ছে। P বিন্দুটি তার থেকে 'a' দূরত্বে অবস্থিত।",
         "image_url": "images/cq_DB17_fig04.jpg"
       },
       "sub_questions": [
@@ -494,6 +494,172 @@
           "topic_code": "T-04",
           "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
           "question_text": "উদ্দীপকের বর্তনী থেকে $100\\%$ ভোল্টেজ গেইন পাওয়া সম্ভব কিনা গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "ধর 370 আলোক বর্ষ দূরে অবস্থিত প্রাণীর বসবাস উপযোগী একটি গ্রহের সন্ধান পেয়ে নাসার বিজ্ঞানীরা 50 বছর বয়সী একটি ক্যাপ্টেনকে $0.7c$ বেগে চলমান নভোযানে চড়ে ঐ গ্রহের উদ্দেশ্যে পাঠায়। ক্যাপ্টেনের ভর 30kg এবং গড় আয়ু 450 বছর। 1 আলোক বর্ষ = $9.46 \\times 10^{15}\\text{m}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ফোটন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "মহাশূন্যে নভোচারীরা আকারে কি রকম দেখাবে? ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-03",
+          "topic_name": "ভর ও শক্তির সম্পর্ক (E = mc²)",
+          "question_text": "চলন্ত অবস্থায় ক্যাপ্টেনের শক্তি নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "ক্যাপ্টেনটি জীবিত অবস্থায় ঐ গ্রহে পৌঁছাতে সক্ষম হবে কিনা যাচাই করো।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "শহীদ একটি ইঞ্জিন তৈরি করে তারপর তার ইঞ্জিনটি কার্নোর প্রত্যাগামী ইঞ্জিন। এটি উৎস হতে গৃহীত তাপের এক চতুর্থাংশ কাজে পরিণত করে বাকী 300J তাপ গ্রাহকে বর্জন করে। শহীদ তার ইঞ্জিনের তাপ উৎস ও গ্রাহকের তাপমাত্রা যথাক্রমে 350K ও 310K।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
+          "question_text": "তাপ গতিবিদ্যার ২য় সূত্র লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
+          "question_text": "তাপের পরিবহন অপ্রত্যাবর্তী প্রক্রিয়া কেন? ব্যাখ্যা করো।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-07",
+          "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
+          "question_text": "তাপ উৎসের তাপ নির্ণয় করো।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-06",
+          "topic_name": "কার্নো চক্র",
+          "question_text": "বাস্তবে দেখা গেল তার দ্বিতীয় সঠিক নয়। ইঞ্জিনটিকে প্রত্যাগামী করলে কী ধরনের পরিবর্তন ঘটবে- গাণিতিক বিশ্লেষণের মাধ্যমে ব্যাখ্যা করো।",
           "marks": 4,
           "answer": {
             "full_explanation": "",

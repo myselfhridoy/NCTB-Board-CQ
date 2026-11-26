@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "যশোর বোর্ড",
+    "year": "২০১৯",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "A প্রক্রিয়ায় $2\\ \\text{kg}$ পানিকে $0^\\circ\\text{C}$ তাপমাত্রা থেকে বাষ্পে রূপান্তরিত করা হলো। অন্যদিকে B প্রক্রিয়ায় $10^\\circ\\text{C}$ তাপমাত্রার $5\\ \\text{kg}$ পানিকে $100^\\circ\\text{C}$ তাপমাত্রার পানিতে পরিণত করা হলো। (পানির আপেক্ষিক তাপ $4200\\ \\text{J kg}^{-1}\\text{K}^{-1}$ এবং পানির বাষ্পীভবনের আপেক্ষিক সুপ্ততাপ $2.26 \\times 10^6\\ \\text{J kg}^{-1}$)",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "তাপীয় সিস্টেম এবং অভ্যন্তরীণ শক্তি",
+          "question_text": "আপেক্ষিক তাপ কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "জুলের তাপীয় ক্রিয়া ও তাপের যান্ত্রিক সমতা",
+          "question_text": "তড়িৎ প্রবাহের ফলে পরিবাহীতে তাপ উৎপন্ন হয় কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "উদ্দীপকে A প্রক্রিয়ায় মোট প্রয়োজনীয় তাপ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "এনট্রপি ও বিশৃঙ্খলা",
+          "question_text": "উদ্দীপকে কোন প্রক্রিয়ায় বিশৃঙ্খলার মাত্রা বেশি? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে একটি বৈদ্যুতিক বর্তনী দেখানো হলো যেখানে $12\\ \\text{V}$ উৎসের সাথে $8\\ \\Omega$, $6\\ \\Omega$, $10\\ \\Omega$, $2\\ \\Omega$ এবং $1.2\\ \\Omega$ রোধ যুক্ত আছে। একটি অ্যামিটার এবং একটি সুইচ K বর্তনীতে সংযুক্ত রয়েছে।",
+        "has_image": true,
+        "image_description": "Circuit diagram with a 12V battery source. Resistors are arranged in a combination of series and parallel. An ammeter is in series with the main circuit, and a switch K is at the bottom.",
+        "image_url": "images/cq_JB19_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "সমবিভব তল ও তড়িৎ দ্বিমেরু",
+          "question_text": "তড়িৎ দ্বিমেরুর সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "অপরিবাহী ও ডাইইলেকট্রিক",
+          "question_text": "পানির পরাবৈদ্যুতিক ধ্রুবকের মান বেশি হওয়া সত্ত্বেও কেন ডাইইলেকট্রিক হিসেবে পানি ব্যবহার করা হয় না? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "বর্তনীর তুল্য রোধ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "তড়িৎ প্রবাহের দরুন উৎপন্ন তাপের হিসাব",
+          "question_text": "বর্তনীর আউটপুটে $(220\\ \\text{V} - 100\\ \\text{W})$ এর একটি বাল্ব সংযোজন করা হলে বাল্বটির কোনো ক্ষতি হবে কি না যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "সমান ব্যাসার্ধের দুটি গোলক A ও B শূন্যস্থানে পরস্পর থেকে $15\\ \\text{cm}$ দূরে অবস্থিত। A গোলকে চার্জ $+3 \\times 10^{-12}\\ \\text{C}$ এবং B গোলকে চার্জ $+12 \\times 10^{-12}\\ \\text{C}$ আছে।",
+        "has_image": true,
+        "image_description": "Two spheres A and B separated by a distance of 15 cm. Point P is located 5 cm from A between the two spheres.",
+        "image_url": "images/cq_JB19_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "তাপমাত্রা পরিমাপের নীতি",
+          "question_text": "তাপগতিবিদ্যার শূন্যতম সূত্রটি লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "এনট্রপি ও বিশৃঙ্খলা",
+          "question_text": "রুদ্ধতাপীয় প্রক্রিয়া একটি সমএন্ট্রপি প্রক্রিয়া— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "P বিন্দুতে তড়িৎ বিভব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "P বিন্দুতে তড়িৎ প্রাবল্য শূন্য হতে পারে কি? গাণিতিক বিশ্লেষণ করে যুক্তি উপস্থাপন কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "সুমি প্রতি সেন্টিমিটারে $6000$ দাগবিশিষ্ট অপবর্তন গ্রেটিং এর $5890\\ \\text{\\AA}$ তরঙ্গদৈর্ঘ্যের আলোক ফেলল। অপরদিকে রুমি প্রতি সেন্টিমিটারে $1.25 \\times 10^5$ সংখ্যক দাগবিশিষ্ট অপবর্তন গ্রেটিং-এ $2200\\ \\text{\\AA}$ তরঙ্গদৈর্ঘ্যের আলো ফেলল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "ফার্মাটের নীতিটি লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "অসীম দূরত্বে অবস্থিত বস্তুর আকার অত্যন্ত ছোট হয় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "সুমির পরীক্ষণে প্রথম চরমের জন্য অপবর্তন কোণ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "রুমির পরীক্ষণে তরঙ্গদৈর্ঘ্যের কীরূপ পরিবর্তন আনলে দ্বিতীয় চরমের জন্য সুমি ও রুমি উভয়ের ক্ষেত্রে অপবর্তন কোণ একই পাওয়া যাবে? গাণিতিক বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "উভয় চিত্রে ABCD আয়তাকার কুণ্ডলীর দৈর্ঘ্য $15\\ \\text{cm}$ এবং প্রস্থ $10\\ \\text{cm}$। কুণ্ডলীর পাকসংখ্যা $500$। চিত্র-১ এ কুণ্ডলীর তল চৌম্বকক্ষেত্রের সমান্তরাল এবং চিত্র-২ এ কুণ্ডলীর তল চৌম্বকক্ষেত্রের লম্বভাবে রয়েছে। চৌম্বকক্ষেত্রের মান $B = 5 \\times 10^{-3}\\ \\text{T}$ এবং প্রবাহ $I = 5\\ \\text{A}$।",
+        "has_image": true,
+        "image_description": "Two diagrams of a rectangular coil ABCD. Figure-1 shows the coil with its plane parallel to the magnetic field. Figure-2 shows the coil with its plane perpendicular to the magnetic field.",
+        "image_url": "images/cq_JB19_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-03",
+          "topic_name": "স্বকীয় ও পারস্পরিক আবেশ",
+          "question_text": "স্বকীয় আবেশ গুণাঙ্কের সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-04",
+          "topic_name": "দিক পরিবর্তী প্রবাহ সৃষ্টি ও এর বিভিন্ন রাশি",
+          "question_text": "দিক পরিবর্তী তড়িচ্চালক বলের ক্ষেত্রে গড় মানের চেয়ে আপাত মান বেশি গুরুত্বপূর্ণ কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "১নং চিত্রে কুণ্ডলীর উপর প্রযুক্ত টর্কের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "২য় চিত্রে পাকসংখ্যার কত পরিবর্তন করলে উভয় টর্কের মান একই থাকবে? গাণিতিক বিশ্লেষণে দেখাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "নিচের চিত্রে সময়ের সাপেক্ষে অক্ষত তেজজ্ঞীয় পরমাণুর পরিবর্তন দেখানো হলো।",
+        "has_image": true,
+        "image_description": "Graph showing radioactive decay. The y-axis is the number of undecayed nuclei N and the x-axis is time t. The curve starts at N0, passes through 0.5 N0 at time T1/2 (point A), and 0.37 N0 at time T (point B).",
+        "image_url": "images/cq_JB19_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "অর্ধ পরিবাহীর সংজ্ঞা দাও।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "ডোপায়ন করলে অর্ধ পরিবাহীর পরিবাহিতা বৃদ্ধি পায় কেন?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "উদ্দীপকের তেজজ্ঞীয় পদার্থের অক্ষয় ধ্রুবক $4.02 \\times 10^{-4}\\ \\text{s}^{-1}$ হলে কত সময় পরে উক্ত পরমাণু আদি পরমাণুর এক-পঞ্চমাংশ হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "উদ্দীপকের তেজজ্ঞীয় পদার্থটি গড় আয়ুর সমান সময়ের পর তার অক্ষত পরমাণুর সংখ্যা B বিন্দুতে হবে কি-না? গাণিতিক বিশ্লেষণে দেখাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "চিত্রে A ও B দুটি ধাতব পাত। পাত দুটির কার্য অপেক্ষক $W_A$ এবং $W_B$ যথাক্রমে $2.1\\ \\text{eV}$ এবং $2.0\\ \\text{eV}$। আলোক উৎস থেকে যথাক্রমে $6800\\ \\text{\\AA}$ এবং $5500\\ \\text{\\AA}$ তরঙ্গদৈর্ঘ্যের আলোকরশ্মি আপতিত হয়।",
+        "has_image": true,
+        "image_description": "Two metal plates A and B exposed to light of wavelengths 6800 A and 5500 A respectively.",
+        "image_url": "images/cq_JB19_fig05.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "দৈর্ঘ্য সংকোচন কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "আপেক্ষিকতার তত্ত্বমতে কোনো বস্তুর বেগ আলোর বেগের সমান হতে পারে না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "B ধাতব পাতের সূচন কম্পাঙ্ক কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "উদ্দীপকে A ও B উভয় পাতৈ ফটোইলেক্ট্রিক ক্রিয়া সংঘটিত হবে কি-না— গাণিতিকভাবে মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "একটি NPN ট্রানজিস্টর বর্তনীতে পীঠ প্রবাহ $I_B = 0.05\\ \\text{mA}$ এবং নিঃসারক প্রবাহ $I_E = 0.95\\ \\text{mA}$।",
+        "has_image": true,
+        "image_description": "Circuit diagram of an NPN transistor showing base current 0.05 mA and emitter current 0.95 mA.",
+        "image_url": "images/cq_JB19_fig06.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "মহাবিশ্বের সৃষ্টি রহস্য ও পরিণতি",
+          "question_text": "সুপারনোভা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "মহাবিশ্বের মূল বস্তু ও ঘটনা",
+          "question_text": "সূর্য কখনও কৃষ্ণগহ্বরে পরিণত হবে না? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "বর্তনীর প্রবাহ লাভ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের ডিভাইসটি দিক পরিবর্তী সঙ্কেতের বিস্তার বৃদ্ধি করে— বিশ্লেষণসহ বিচার কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

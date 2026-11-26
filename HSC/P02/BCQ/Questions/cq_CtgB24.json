@@ -593,9 +593,9 @@
       "question_no": 8,
       "stem": {
         "text": "সাধারণ এমিটার ট্রানজিস্টর সার্কিট এর ইনপুট ভোল্টেজ 1.1 V থেকে বৃদ্ধি করে 1.6 V করা হয়। এতে পীঠ প্রবাহ 8 mA থেকে বৃদ্ধি পেয়ে 28 mA হয়। ফলে আউটপুট লোড রেজিস্ট্যান্স 150 Ω এর জন্য কারেন্ট গেইন 75 পাওয়া যায়।",
-        "has_image": true,
-        "image_description": "n-p-n ট্রানজিস্টর সার্কিট; ইনপুট ভোল্টেজ 1.1V, পীঠ প্রবাহ 8mA, লোড 150Ω।",
-        "image_url": "images/cq_CtgB24_fig05.jpg"
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
       },
       "sub_questions": [
         {

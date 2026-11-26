@@ -12,9 +12,9 @@
       "question_no": 1,
       "stem": {
         "text": "স্রোতের অনুকূলে নৌকার বেগ $20 \\mathrm{~km} \\mathrm{~h}^{-1}$ এবং স্রোতের প্রতিকূলে নৌকার বেগ $10 \\mathrm{~km} \\mathrm{~h}^{-1}$। নদীর বিস্তার $2 \\mathrm{~km}$।",
-        "has_image": false,
+        "has_image": true,
         "image_description": "",
-        "image_url": ""
+        "image_url": "images/cq_DinB24_fig01.jpg"
       },
       "sub_questions": [
         {

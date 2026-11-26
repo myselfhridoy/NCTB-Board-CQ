@@ -1,0 +1,676 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "সিলেট বোর্ড",
+    "year": "২০১৯",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "তাসিম নিচের লেখচিত্রের চক্রটি বিশ্লেষণ করে বলল, এটি কার্নো চক্র।\nমোলার গ্যাস ধ্রুবক $8.31\\ \\text{J mol}^{-1}\\ \\text{K}^{-1}$",
+        "has_image": true,
+        "image_description": "P-V diagram showing a Carnot cycle ABCD. A is at $(P_1, 10)$, B is at $(P_2, 20)$, C is at $(P_3, 30)$, D is at $(P_4, 15)$. $T_1 = 434\\ \\text{K}$, $T_2 = 350\\ \\text{K}$.",
+        "image_url": "images/cq_SB19_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "আধানের কোয়ান্টায়ন কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "সমান্তরাল পাত ধারকের ধারকত্ব পাতদ্বয়ের মধ্যবর্তী মাধ্যমের উপর নির্ভর করে কি? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "1 মোল আদর্শ গ্যাসের জন্য উদ্দীপকের AB অংশে কৃতকাজ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-08",
+          "topic_name": "এনট্রপি ও বিশৃঙ্খলা",
+          "question_text": "তাসিমের বিশ্লেষণ সঠিক ছিল কি না এন্ট্রপি পরিবর্তনের সাপেক্ষে গাণিতিক বিশ্লেষণসহ মতব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "ভূমি অবস্থায় হাইড্রোজেন পরমাণুর ইলেকট্রনের শক্তি $-13.6\\ \\text{eV}$। ভূমি অবস্থার ইলেকট্রনকে $8.2 \\times 10^{14}\\ \\text{Hz}$ কম্পাঙ্কের একটি ফোটন দ্বারা আঘাত করা হলো। এখানে, $m_e = 9.1 \\times 10^{-31}\\ \\text{kg}$, $e = 1.6 \\times 10^{-19}\\ \\text{C}$, $h = 6.63 \\times 10^{-34}\\ \\text{Js}$ এবং $\\epsilon_0 = 8.85 \\times 10^{-12}\\ \\text{C}^2\\text{N}^{-1}\\text{m}^{-2}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "তড়িৎ বিভব কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "সকল কম্পাঙ্কের আলোর জন্য ফটোতড়িৎ ক্রিয়া সম্পন্ন হয় না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "রাদারফোর্ড ও বোরের পরমাণু মডেল",
+          "question_text": "দ্বিতীয় কক্ষপথের ব্যাসার্ধ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "ফোটন দ্বারা আঘাতের পর ইলেকট্রনটির কি ঘটেছিল গাণিতিক বিশ্লেষণসহ মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "স্বাভাবিক তাপমাত্রায় ($25^\\circ\\text{C}$) টাংস্টেন তারের রোধ $65\\ \\Omega$। এরূপ তার দিয়ে দুটি বৈদ্যুতিক হিটারের কুণ্ডলী তৈরি করে বৈদ্যুতিক লাইনের সাথে ($220\\ \\text{V}$) সমান্তরালে যুক্ত করা হলো। এতে কুণ্ডলী তারের তাপমাত্রা $250^\\circ\\text{C}$-এ উন্নীত হলো। 1ম কুণ্ডলী তারের দৈর্ঘ্য ও ব্যাস উভয়ই 2য় কুণ্ডলীর তুলনায় দ্বিগুণ। টাংস্টেন রোধের উষ্ণতা গুণাঙ্ক, $\\alpha = 4.5 \\times 10^{-3}\\ ^\\circ\\text{C}^{-1}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "কার্শফের সূত্র ও এর ব্যবহার",
+          "question_text": "কার্শফের ২য় সূত্রটি লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "সরু ধাতব তারকে সান্ট হিসেবে ব্যবহার করা হয় না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "$250^\\circ\\text{C}$ এ টাংস্টেন তারের রোধ কত হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-03",
+          "topic_name": "তড়িৎ প্রবাহের দরুন উৎপন্ন তাপের হিসাব",
+          "question_text": "কোন কুণ্ডলীতে বেশি তাপ উৎপন্ন হবে? গাণিতিক বিশ্লেষণসহ মতব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "পরবর্তীতে বর্গক্ষেত্রের কেন্দ্র (O) তে $+1\\ \\text{C}$ চার্জে চার্জিত $9.8\\ \\text{kg}$ ভরের একটি বস্তু রাখা হলো।",
+        "has_image": true,
+        "image_description": "A square with side 4m. Charges are placed at the corners: +2C at top-left, +2C at top-right, +4C at bottom-left, +4C at bottom-right. Point O is at the center of the square.",
+        "image_url": "images/cq_SB19_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "অপরিবাহী ও ডাইইলেকট্রিক",
+          "question_text": "পোলার ডাই ইলেকট্রিক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "চার্জের কোয়ান্টায়ন, সংরক্ষণশীলতা",
+          "question_text": "কোনো বস্তুতে যেকোনো মানের চার্জ থাকতে পারে না— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "উদ্দীপকে 'O' বিন্দুতে বিভব কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "কুলম্বের সূত্র ও ক্ষেত্র তত্ত্ব",
+          "question_text": "২য় ক্ষেত্রে বস্তুটি সাম্যাবস্থায় থাকবে কি-না গাণিতিক বিশ্লেষণের মাধ্যমে মতব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "একটি বিদ্যুৎ উৎপাদনকারী কুণ্ডলীকে $20\\ \\text{Wb m}^{-2}$ মানের সুষম চৌম্বক ক্ষেত্রে $6.28\\ \\text{rad s}^{-1}$ সমকৌণিক বেগে ঘুরতে দেয়া হলো। কুণ্ডলীর পাক সংখ্যা ও ক্ষেত্রফল যথাক্রমে $100$ এবং $1.0\\ \\text{m}^2$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-03",
+          "topic_name": "স্বকীয় ও পারস্পরিক আবেশ",
+          "question_text": "স্বকীয় আবেশ গুণাঙ্ক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-02",
+          "topic_name": "আইনস্টাইনের আপেক্ষিকতা তত্ত্ব ও গ্যালিলিয়ান/লরেন্টজ রূপান্তর",
+          "question_text": "গ্যালিলিওর রূপান্তরের লরেঞ্জ রূপান্তরের একটি বিশেষ অবস্থা— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-01",
+          "topic_name": "তড়িচ্চৌম্বকীয় আবেশ ও আবিষ্ট তড়িচ্চালক বল",
+          "question_text": "যখন কুণ্ডলীটি চৌম্বক ক্ষেত্রের সাথে লম্বালম্বিভাবে থাকে তখন কুণ্ডলীতে আবিষ্ট ভোল্টেজের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-02",
+          "topic_name": "ফ্যারাডে ও লেঞ্জের সূত্র (শক্তি সংরক্ষণসহ)",
+          "question_text": "কুণ্ডলীর মধ্যদিয়ে অতিক্রান্ত চৌম্বক ফ্লাক্সের সর্বোচ্চ মান এবং কুণ্ডলীতে আবিষ্ট ভোল্টেজের সর্বোচ্চ মান একই সময়ে হবে কি? গাণিতিক বিশ্লেষণসহ বক্তব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "1, 2, 3, 4 প্রত্যেক ধাতব তারের মধ্যদিয়ে উদ্দীপক অনুসারে তড়িৎ প্রবাহিত হচ্ছে। $I_1 = I_2 = I_3 = I_4 = 1\\ \\text{amp}$; $d_1 = d_2 = 0.5\\ \\text{m}$; প্রত্যেক তারের দৈর্ঘ্য $10\\ \\text{m}$ এবং $\\mu_0 = 4\\pi \\times 10^{-7}\\ \\text{Wb A}^{-1}\\text{m}^{-1}$।",
+        "has_image": true,
+        "image_description": "Two setups. ব্যবস্থা-a shows two parallel wires 1 and 2 with currents in the same direction, separated by distance d1. Point p is between them. ব্যবস্থা-b shows two parallel wires 3 and 4 with currents in opposite directions, separated by distance d2.",
+        "image_url": "images/cq_SB19_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-03",
+          "topic_name": "লরেঞ্জ বল ও হলের প্রভাব",
+          "question_text": "লরেঞ্জ বল কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-06",
+          "topic_name": "তড়িৎ চুম্বক ও স্থায়ী চুম্বক",
+          "question_text": "তড়িৎ প্রবাহ বন্ধ করলে, ইস্পাতের চুম্বকত্ব লোপ পায় না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "উদ্দীপকে ব্যবস্থা-a এর p বিন্দুতে সৃষ্ট চৌম্বকক্ষেত্রের মান কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "ব্যবস্থা-a এবং ব্যবস্থা-b এর তারগুলোর মধ্যে কোনো পার্থক্য সৃষ্টি হবে কি? গাণিতিক বিশ্লেষণসহ বক্তব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "উভয় ট্রানজিস্টর জামেনিয়াম দ্বারা তৈরি। জামেনিয়ামের নী ভোল্টেজ $0.3\\ \\text{volt}$। দেওয়া আছে— $I_E = 5.05 \\times 10^3\\ \\mu\\text{A}$ এবং $I_B = 50\\ \\mu\\text{A}$",
+        "has_image": true,
+        "image_description": "Two transistor circuits. চিত্র-১: An NPN transistor with base resistor R=100 ohm, connected to a 5V source and a 1V input. চিত্র-২: An NPN transistor with base resistor R=100 ohm, connected to a 5V source and a 0.1V input.",
+        "image_url": "images/cq_SB19_fig04.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "মহাকাশ পর্যবেক্ষণের যন্ত্র ও মূলনীতি (রেডিও টেলিস্কোপ, অপটিক্যাল টেলিস্কোপ, কৃত্রিম উপগ্রহ)",
+          "question_text": "কৃত্রিম উপগ্রহ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 11,
+          "chapter_name": "জ্যোতির্বিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "মহাবিশ্বের মূল বস্তু ও ঘটনা",
+          "question_text": "ঘটনা দিগন্তের ভোট তত্ত্বপূর্ণ লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "চিত্র-১ এর জন্য প্রবাহ লাভ এর মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের কোন ক্ষেত্রে বাতিটি বেশি উজ্জ্বল হবে? গাণিতিক যুক্তিসহকারে উপস্থাপন কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 8,
+      "stem": {
+        "text": "একটি $3\\ \\text{m}$ ব্যাসার্ধবিশিষ্ট ঘনক আকৃতির ট্যাংকে পানিশূন্য অবস্থায় দুই দেয়ালের মধ্যবর্তী স্থানে একটি উত্তল লেন্স স্থাপন করলে এর বিপরীত দেয়ালে একটি বস্তুর দ্বিগুণ বিবর্ধিত বাস্তব বিম্ব পাওয়া যায়। পরবর্তীতে ট্যাংকটি পানিপূর্ণ করা হয়। [পানি ও কাচের প্রতিসরাঙ্ক যথাক্রমে $1.33$ এবং $1.5$]",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-02",
+          "topic_name": "ফ্যারাডে ও লেঞ্জের সূত্র (শক্তি সংরক্ষণসহ)",
+          "question_text": "ফ্যারাডের তড়িৎ আবেশ সংক্রান্ত দ্বিতীয় সূত্রটি লিখ।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-02",
+          "topic_name": "প্রিজমে আলোর প্রতিসরণ ও বিচ্যুতি",
+          "question_text": "প্রিজমের বিচ্ছুরিত আলোর বর্ণের উপর নির্ভর করে— ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "লেন্সটির ফোকাস দূরত্ব কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "পানিপূর্ণ ট্যাংকে লেন্স ও বস্তুর অবস্থান অপরিবর্তিত রেখে বিম্বের প্রকৃতির কোনো রূপ পরিবর্তন হবে কি না? গাণিতিক বিশ্লেষণের মাধ্যমে যাচাই করে মতব্য কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

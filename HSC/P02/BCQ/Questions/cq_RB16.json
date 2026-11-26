@@ -1,0 +1,593 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "রাজশাহী বোর্ড",
+    "year": "২০১৬",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "নিচের বর্তনটি লক্ষ্য কর: $C_1 = 5\\mu\\text{F}$, $C_2 = 3\\mu\\text{F}$, $C_3 = 2\\mu\\text{F}$ এবং $10\\text{ V}$ উৎস।",
+        "has_image": true,
+        "image_description": "Circuit diagram showing a capacitor C1 (5 microfarad) in series with a parallel combination of C2 (3 microfarad) and C3 (2 microfarad). The circuit is connected to a 10V DC source.",
+        "image_url": "images/cq_RB16_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "তড়িৎ প্রাবল্য কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "কোনো চৌম্বকক্ষেত্রের মান $10\\text{T}$ বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "$C_2$ ধারকে চার্জের পরিমাণ কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
+          "question_text": "বর্তনীর $C_2$ ও $C_3$ কে শ্রেণিতে যুক্ত করলে সঞ্চিত শক্তির পরিমাণ বাড়বে কিনা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "চিত্রে হুইটস্টোন ব্রীজের চার বাহুর রোধ যথাক্রমে $P = 8\\Omega$, $Q = 12\\Omega$, $R = 18\\Omega$ এবং $S = 22\\Omega$।",
+        "has_image": true,
+        "image_description": "Wheatstone bridge circuit diagram with resistors P, Q, R, S and a galvanometer G. A 12V battery is connected.",
+        "image_url": "images/cq_RB16_fig02.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "আপেক্ষিক রোধ কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "তোমার তড়িৎ রাসায়নিক তুল্যাংক $32.95 \\times 10^{-8}\\text{kgC}^{-1}$ বলতে কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-08",
+          "topic_name": "ব্যবহারিক: পটেনশিওমিটার, মিটার ব্রীজ, পোস্ট অফিস বক্স",
+          "question_text": "চতুর্থ বাহুতে কত রোধ কিভাবে যুক্ত করলে ব্রীজটি সাম্যাবস্থা প্রাপ্ত হবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-06",
+          "topic_name": "কার্শফের সূত্র ও এর ব্যবহার",
+          "question_text": "বর্তনী হতে গ্যালভানোমিটারটি বিচ্ছিন্ন করলে ABC পথে ও ADC পথে তড়িৎ প্রবাহ সমান হবে কিনা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "একটি দিক পরিবর্তী প্রবাহকে $I = 10 \\sin 100\\pi t$ সমীকরণ দ্বারা প্রকাশ করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "গোলীয় দর্পণের প্রধান ফোকাস কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-04",
+          "topic_name": "কোষের অভ্যন্তরীণ রোধ, তড়িৎচালক বল এবং সমবায়",
+          "question_text": "কোনো কোনো ক্ষেত্রে তড়িচ্চালক শক্তি $10\\text{V}$ বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-04",
+          "topic_name": "দিক পরিবর্তী প্রবাহ সৃষ্টি ও এর বিভিন্ন রাশি",
+          "question_text": "তড়িৎ প্রবাহের মান শূন্য থেকে শীর্ষমানে পৌঁছাতে কত সময় লাগবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-05",
+          "topic_name": "এ.সি. বর্তনীতে উৎপাদিত শক্তি ক্ষয়",
+          "question_text": "গাণিতিক যুক্তির সাহায্যে দেখাও যে, উদ্দীপকে বর্ণিত প্রবাহটি $100\\Omega$ রোধের কোনো পরিবাহীর মধ্য দিয়ে চালনা করলে উৎপাদনিত শক্তি ক্ষয়ের হার $5000\\text{ Js}^{-1}$।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "চিত্রে বায়ুতে একটি কাচখণ্ডের সঙ্কট কোণ $30^\\circ$।",
+        "has_image": true,
+        "image_description": "Diagram showing a glass block in air with a critical angle of 30 degrees. A light ray is shown refracting at the critical angle.",
+        "image_url": "images/cq_RB16_fig03.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "লেন্সের সূত্র বিবৃত কর।",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 5,
+          "chapter_name": "তড়িচ্চৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "topic_code": "T-03",
+          "topic_name": "স্বকীয় ও পারস্পরিক আবেশ",
+          "question_text": "কোনো তার কুণ্ডলীর স্বকীয় আবেশ গুণাঙ্ক $10\\text{H}$ বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "বায়ুতে আলোর বেগ $3 \\times 10^8\\text{ms}^{-1}$ হলে কাচে আলোর বেগ নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "উদ্দীপক বায়ুর পরিবর্তে $\\sqrt{2}$ প্রতিসরাঙ্কের তরল কাচ খণ্ডটি নিমজ্জিত করলে কোণের কোনো পরিবর্তন হবে কিনা তা গাণিতিকভাবে যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "দ্বি-চির পরীক্ষায় $0.4\\text{ mm}$ ব্যবধানে দুটি চির স্থাপন করে $5000\\text{\\AA}$ তরঙ্গদৈর্ঘ্যের একবর্ণী আলোরা আবার আলোকিত করা হচ্ছে। এতে চির থেকে $1\\text{m}$ দূরে স্থাপিত পর্দায় পর্যায়ক্রমিক উজ্জ্বল ও অন্ধকার ডোরা সৃষ্টি হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "চক্ষুর উপযোজনী ক্ষমতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-05",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "স্বাভাবিক দর্শনের ক্ষেত্রে একটি নেতা দুরবীক্ষণ যন্ত্রের নলের দৈর্ঘ্য $22\\text{cm}$ দ্বারা কী বুঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "পর্যবেক্ষণে সৃষ্ট ডোবার উপর পর দুইটি উজ্জ্বল ডোবার মধ্যবর্তী দূরত্ব বের কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "চিড়দ্বয়ের একটি বন্ধ করে দিলে পর্দার ডোবার কীরূপ পরিবর্তন লক্ষ্য করা যাবে তা বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "একটি তেজস্ক্রিয় পদার্থে প্রারম্ভিক অবস্থায় $10^8$ সংখ্যক পরমাণু আছে। এর অর্ধায়ু $2.70\\text{d}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-01",
+          "topic_name": "জড় ও অজড় কাঠামো এবং মাইকেলসন-মোরলে পরীক্ষা",
+          "question_text": "জড় প্রসঙ্গ কাঠামো কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-01",
+          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
+          "question_text": "কোনো চৌম্বকক্ষেত্রের মান $10\\text{T}$ বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "পদার্থটির গড় আয়ু কত?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "প্রথম দিনের পর যতখানি পরমাণু ভেঙ্গে যাবে দ্বিতীয় দিনের চেয়ে কম সংখ্যক পরমাণু ভাঙবে-গাণিতিক যুক্তিসহ নিশ্চিত কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 7,
+      "stem": {
+        "text": "$40\\Omega$ রোধবিশিষ্ট একটি গ্যালভানোমিটারের সাথে $5\\Omega$ রোধের একটি শান্ট যুক্ত করলে বর্তনীর মূল প্রবাহ $4\\text{A}$ হয়। গ্যালভানোমিটারের সাথে শান্ট যুক্ত না করে $200\\text{V}$ সরবরাহ লাইনে যুক্ত করা হলো।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "কার্যপেক্ষক কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "কোনো ধাতব তারের রোধের উষ্ণতা গুণাঙ্ক $0.004/^\\circ\\text{C}$ বলতে কী বোঝায়?",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "গ্যালভানোমিটার দিয়ে কত তড়িৎ প্রবাহ যাবে?",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "গ্যালভানোমিটারটি বর্তনীতে যুক্ত থাকলে কি ক্ষতি হবে? গাণিতিক বিশ্লেষণসহ মতামত দাও।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

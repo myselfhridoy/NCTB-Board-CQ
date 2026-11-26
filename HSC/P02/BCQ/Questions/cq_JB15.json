@@ -1,0 +1,510 @@
+{
+  "metadata": {
+    "subject": "পদার্থবিজ্ঞান",
+    "paper": "২য় পত্র",
+    "source": "যশোর বোর্ড",
+    "year": "২০১৫",
+    "exam_type": "বোর্ড",
+    "question_type": "সৃজনশীল"
+  },
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": {
+        "text": "উপরের চিত্রে A ও B উভয় বিন্দুতেই $100\\text{C}$ চার্জ দেয়া আছে।",
+        "has_image": true,
+        "image_description": "$10\\text{ cm}$ বাহুবিশিষ্ট একটি সমবাহু ত্রিভুজ ABC দেখানো হয়েছে যার A ও B বিন্দুতে $100\\text{C}$ চার্জ চিহ্নিত করা আছে।",
+        "image_url": "images/cq_JB15_fig01.jpg"
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "অতি পরিবাহিতা কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-01",
+          "topic_name": "রোধের ওপর তাপমাত্রার প্রভাব",
+          "question_text": "রোধের উষ্ণতা সহগ বলতে কি বুঝ? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "'C' বিন্দুর তড়িৎ প্রাবল্যের মান নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 2,
+          "chapter_name": "স্থির তড়িৎ",
+          "topic_code": "T-02",
+          "topic_name": "বিন্দু চার্জের তড়িৎ বল, তড়িৎক্ষেত্র প্রাবল্য ও বিভব",
+          "question_text": "'C' বিন্দুর তড়িৎ প্রাবল্যের দিক কোন দিকে হবে? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 2,
+      "stem": {
+        "text": "$1\\text{ KW}$ ক্ষমতার একটি ইলেকট্রিক কেটলীতে গ্রীষ্মকালে। লিটার পানি $5$ মিনিটে ফুটে। কিন্তু শীতকালে একই পরিমাণ পানি ফুটতে। মিনিট সময় বেশি লাগে। কক্ষতাপমাত্রার তারতম্যের কারণে এরূপ হয়ে থাকে।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-05",
+          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
+          "question_text": "রুদ্ধতাপীয় প্রক্রিয়া কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-03",
+          "topic_name": "তাপীয় সিস্টেম এবং অভ্যন্তরীণ শক্তি",
+          "question_text": "গ্যাসের ক্ষেত্রে দুটি আপেক্ষিক তাপ থাকে কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-04",
+          "topic_name": "তাপ, অভ্যন্তরীণ শক্তি এবং কাজের মধ্যে সম্পর্ক",
+          "question_text": "শীতকালে কেটলীটি কত ক্যালরি তাপ উৎপন্ন কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 1,
+          "chapter_name": "তাপগতিবিদ্যা",
+          "topic_code": "T-01",
+          "topic_name": "তাপমাত্রা পরিমাপের নীতি",
+          "question_text": "উদ্দীপকের আলোকে কক্ষতাপমাত্রার তারতম্য নির্ণয় করে শেষোক্ত উক্তিটির যথার্থতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 3,
+      "stem": {
+        "text": "$0.001\\text{m}^2$ প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট একখণ্ড ইস্পাতকে চুম্বকায়ন করার জন্য একটি চুম্বক ক্ষেত্রে স্থাপন করা হল। চৌম্বক প্রাবল্যের মান যত বৃদ্ধি করা হয় চুম্বকায়নের মাত্রা তত বৃদ্ধি পায়। কিন্তু চুম্বকায়ন মাত্রা একটি সম্পৃক্ত মানে পৌঁছার পর চৌম্বক প্রাবল্যের বৃদ্ধির সাথে চুম্বকায়ন মাত্রা আর বৃদ্ধি পায় না। অবশেষে ইস্পাত খণ্ডটি $1\\text{ Am}$ মেরুশক্তির একখণ্ড চুম্বকে পরিণত হল।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-07",
+          "topic_name": "শান্ট (Shunt)",
+          "question_text": "সান্ট কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 3,
+          "chapter_name": "চল তড়িৎ",
+          "topic_code": "T-05",
+          "topic_name": "ও’মের সূত্র ও তড়িৎ বর্তনী",
+          "question_text": "তুলারোধ এবং তুল্য ধারকত্বের মধ্যে পার্থক্য লিখ।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-04",
+          "topic_name": "চৌম্বক পদার্থের শ্রেণিবিভাগ",
+          "question_text": "উদ্দীপকে উল্লেখিত ইস্পাত খণ্ডকে চুম্বকে পরিণত করার ফলে উহার চুম্বকায়ন মাত্রা নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 4,
+          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "topic_code": "T-05",
+          "topic_name": "চৌম্বক ডোমেইন ও হিস্টেরেসিস লুপ",
+          "question_text": "চুম্বকায়ন মাত্রা বনাম চৌম্বক প্রাবল্যের লেখ অঙ্কনপূর্বক চৌম্বক সম্পৃক্তি ব্যাখ্যা কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 4,
+      "stem": {
+        "text": "$1.5$ প্রতিসরাঙ্কের একটি উত্তল লেন্সের বক্রতার ব্যাসার্ধ যথাক্রমে $0.2\\text{ m}$ ও $0.3\\text{m}$। বায়ু সাপেক্ষে কাচের প্রতিসরাঙ্ক $\\frac{3}{2}$ এবং পানির প্রতিসরাঙ্ক $\\frac{4}{3}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "আলোর অপবর্তন ও সমবর্তন",
+          "question_text": "অপবর্তন গ্রেটিং কি?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-01",
+          "topic_name": "আলোর প্রতিফলন ও প্রতিসরণ (ফার্মাটের নীতিসহ)",
+          "question_text": "উড্ডয়ন উড়োজাহাজের ছায়া মাটিতে পরে না কেন? ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "বায়ু-মাধ্যমে লেন্সটির ফোকাস দূরত্ব নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "লেন্সের প্রস্তুতকারক সমীকরণ ও লেন্সের সমীকরণ",
+          "question_text": "পানিতে লেন্সটির ফোকাস দূরত্বের তারতম্য হবে কি? গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 5,
+      "stem": {
+        "text": "$0.2500\\text{nm}$ তরঙ্গদৈর্ঘ্যের এক্স-রশ্মি কোনো লক্ষ্যবস্তুতে আঘাত হেনে $60^\\circ$ কোণে বিক্ষিপ্ত হল। যেখানে ইলেকট্রনের নিশ্চল ভর $9.1 \\times 10^{-31}\\text{ kg}$ এবং প্ল্যাঙ্কের ধ্রুবক $6.63 \\times 10^{-34}\\text{ Js}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "অর্ধায়ু কাকে বলে?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 9,
+          "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "topic_code": "T-06",
+          "topic_name": "নিউক্লিয়ার বিক্রিয়া, চেইন বিক্রিয়া, ফিশন ও ফিউশন",
+          "question_text": "নিউক্লিয় ফিউশন ব্যাখ্যা কর।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "বিক্ষিপ্ত এক্স-রশ্মির তরঙ্গদৈর্ঘ্য নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-06",
+          "topic_name": "ফটোইলেকট্রিক ক্রিয়া, দ্য ব্রগলি তরঙ্গ ও কম্পটন ক্রিয়া",
+          "question_text": "বিক্ষিপ্ত এক্স-রশ্মির শক্তি, আপতিত রশ্মির চেয়ে অতি সামান্য কম। গাণিতিকভাবে বিশ্লেষণের মাধ্যমে এর সত্যতা যাচাই কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    },
+    {
+      "question_no": 6,
+      "stem": {
+        "text": "একটি কমন বেস সংযোগে থাকা ট্রানজিস্টরের নিঃসারক ও বেস প্রবাহ যথাক্রমে $0.83 \\times 30.05\\text{ mA}$।",
+        "has_image": false,
+        "image_description": "",
+        "image_url": ""
+      },
+      "sub_questions": [
+        {
+          "label": "ক",
+          "type": "জ্ঞানমূলক",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-01",
+          "topic_name": "পরিবাহী, অপরিবাহী ও সেমিকন্ডাক্টর (ইনট্রিনসিক ও এক্সট্রিনসিক)",
+          "question_text": "ডোপিং কী?",
+          "marks": 1,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "খ",
+          "type": "অনুধাবন",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "ট্রানজিস্টরের বেস অংশ পাতলা হয় কেন? ব্যাখ্যা দাও।",
+          "marks": 2,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "গ",
+          "type": "প্রয়োগ",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "উদ্দীপকের ট্রানজিস্টরটির বিবর্ধন ফ্যাক্টর নির্ণয় কর।",
+          "marks": 3,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        },
+        {
+          "label": "ঘ",
+          "type": "উচ্চতর দক্ষতা",
+          "chapter_no": 10,
+          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
+          "topic_code": "T-04",
+          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
+          "question_text": "নিসারক ও বেস প্রবাহদ্বয় দ্বিগুণ করা হলে ট্রানজিস্টরটির প্রবাহ লাভের পরিবর্তন গাণিতিকভাবে বিশ্লেষণ কর।",
+          "marks": 4,
+          "answer": {
+            "full_explanation": "",
+            "final_answer": "",
+            "steps": [],
+            "has_image": false,
+            "image_description": "",
+            "image_url": ""
+          }
+        }
+      ]
+    }
+  ]
+}

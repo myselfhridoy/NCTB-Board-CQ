@@ -11,9 +11,9 @@
     {
       "question_no": 1,
       "stem": {
-        "text": "কার্নো ইঞ্জিনের প্রত্যেকটি সংকোচন বা প্রসারণের অনুপাত $1:2$। এতে কার্যনির্বাহক বস্তু হিসাব $3\\ \\text{mole}$ দ্বিপরমাণুক গ্যাস ব্যবহার করা হল। (দ্বিপরমাণুক গ্যাসের $\\gamma = 1.4$).",
+        "text": "কার্নো ইঞ্জিনের প্রতিস্তরে সংকোচন বা প্রসারণের অনুপাত $1 : 2$। এতে কার্যনির্বাহক বস্তু হিসেবে $3\\text{ mole}$ দ্বিপরমাণুক গ্যাস ব্যবহার করা হল। (দ্বিপরমাণুক গ্যাসের $\\gamma = 1.4$)",
         "has_image": true,
-        "image_description": "Carnot cycle P-V diagram showing isothermal expansion A to B at T1 = 30°C, adiabatic expansion B to C, isothermal compression C to D at T2, and adiabatic compression D to A.",
+        "image_description": "P-V indicator diagram of a Carnot cycle ABCD with isothermal expansion AB at temperature T1 = 30°C, adiabatic expansion BC, isothermal compression CD at temperature T2, and adiabatic compression DA.",
         "image_url": "images/cq_RB15_fig01.jpg"
       },
       "sub_questions": [
@@ -24,7 +24,7 @@
           "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
           "topic_code": "T-05",
           "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
-          "question_text": "কোণিক বিবর্ধন কী?",
+          "question_text": "কৌণিক বিবর্ধন কী?",
           "marks": 1,
           "answer": {
             "full_explanation": "",
@@ -42,7 +42,7 @@
           "chapter_name": "ভৌত আলোকবিজ্ঞান",
           "topic_code": "T-03",
           "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
-          "question_text": "আলোর ব্যতিচারে সুসংগত আলোকক উৎস ব্যবহার করা হয় কেন?",
+          "question_text": "আলোর ব্যতিচারে সুসংগত আলোক উৎস ব্যবহার করা হয় কেন?",
           "marks": 2,
           "answer": {
             "full_explanation": "",
@@ -60,7 +60,7 @@
           "chapter_name": "তাপগতিবিদ্যা",
           "topic_code": "T-06",
           "topic_name": "কার্নো চক্র",
-          "question_text": "কার্নো-চক্রের লেখচিত্র A হতে B বিন্দুতে আনতে কৃতকাজ হিসাব কর।",
+          "question_text": "কার্নো-চক্রের লেখটি A হতে B বিন্দুতে আনতে কৃতকাজ হিসাব কর।",
           "marks": 3,
           "answer": {
             "full_explanation": "",
@@ -78,7 +78,7 @@
           "chapter_name": "তাপগতিবিদ্যা",
           "topic_code": "T-07",
           "topic_name": "তাপীয় ইঞ্জিন: রেফ্রিজারেটর, ইঞ্জিনের দক্ষতা",
-          "question_text": "উদ্দীপকে প্রদত্ত ইঞ্জিনের দক্ষতা $33\\%$ অপেক্ষা বেশি হওয়া সম্ভব কী?— গাণিতিক যুক্তির সাহায্যে উত্তর দাও।",
+          "question_text": "উদ্দীপকে প্রদত্ত ইঞ্জিনের দক্ষতা $33\\%$ অপেক্ষা বেশি হওয়া সম্ভব কী?—গাণিতিক যুক্তির সাহায্যে উত্তর দাও।",
           "marks": 4,
           "answer": {
             "full_explanation": "",
@@ -94,7 +94,7 @@
     {
       "question_no": 2,
       "stem": {
-        "text": "প্রতি মিটার $6 \\times 10^5$ সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে $450\\ \\text{nm}$ তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হল।",
+        "text": "প্রতি মিটারে $6 \\times 10^5$ সংখ্যক রেখাসম্পন্ন কোনো অপবর্তন গ্রেটিং এর মধ্য দিয়ে $450\\text{ nm}$ তরঙ্গদৈর্ঘ্যের আলো কোনো ফিল্টারের সাহায্যে লম্বভাবে আপতিত করা হল।",
         "has_image": false,
         "image_description": "",
         "image_url": ""
@@ -125,7 +125,7 @@
           "chapter_name": "চল তড়িৎ",
           "topic_code": "T-02",
           "topic_name": "জুলের তাপীয় ক্রিয়া ও তাপের যান্ত্রিক সমতা",
-          "question_text": "বেগুনী পরিবাহীর মধ্য দিয়ে তড়িৎ প্রবাহ চালানোর সময় তাপ উৎপন্ন হয় কেন?",
+          "question_text": "কোনো পরিবাহীর মধ্য দিয়ে তড়িৎ প্রবাহ চলার সময় তাপ উৎপন্ন হয় কেন?",
           "marks": 2,
           "answer": {
             "full_explanation": "",
@@ -143,7 +143,7 @@
           "chapter_name": "ভৌত আলোকবিজ্ঞান",
           "topic_code": "T-04",
           "topic_name": "আলোর অপবর্তন ও সমবর্তন",
-          "question_text": "$450\\ \\text{nm}$ তরঙ্গদৈর্ঘ্যের আলোর প্রথম ক্রমের অপবর্তন কোণ কত?",
+          "question_text": "$450\\text{ nm}$ তরঙ্গদৈর্ঘ্যের আলোর প্রথম ক্রমের অপবর্তন কোণ কত?",
           "marks": 3,
           "answer": {
             "full_explanation": "",
@@ -177,9 +177,9 @@
     {
       "question_no": 3,
       "stem": {
-        "text": "নিচের চিত্রে দুটি ধারক দেওয়া আছে :\nচিত্র-১: $E_0 = 2 \\times 10^4\\ \\text{Vm}^{-1}$, $+20\\text{C}$, $d = 5\\text{mm}$, $-20\\text{C}$, শূন্যস্থান।\nচিত্র-২: $E_0 = 2 \\times 10^4\\ \\text{Vm}^{-1}$, $+20\\text{C}$, $k=5$, $t=2\\text{mm}$, $-20\\text{C}$।",
+        "text": "নিচের চিত্রে দুটি ধারক দেওয়া আছে:",
         "has_image": true,
-        "image_description": "Figure 1 shows a parallel plate capacitor with electric field E0 = 2 x 10^4 V/m, plate separation d = 5mm, and charges +20C and -20C. Figure 2 shows the same capacitor but with a dielectric slab (k=5) of thickness t=2mm inserted, still connected to the same voltage source.",
+        "image_description": "Two parallel plate capacitors connected to batteries. Figure 1 shows plates with +20C and -20C charges, plate separation d = 5mm, vacuum inside, and electric field E0 = 2 × 10^5 Vm^-1. Figure 2 shows plates with +20C and -20C charges, a dielectric slab of k = 5 and thickness t = 2mm inside, and E0 = 2 × 10^5 Vm^-1.",
         "image_url": "images/cq_RB15_fig02.jpg"
       },
       "sub_questions": [
@@ -244,7 +244,7 @@
           "chapter_name": "স্থির তড়িৎ",
           "topic_code": "T-06",
           "topic_name": "ধারকত্ব: ধারক, সমবায়, শক্তি, ব্যবহার",
-          "question_text": "চিত্র-২ এ $(k = 5)$ পরাবৈদ্যুতিক পদার্থ স্থাপন করা হলে ধারকটির ধারকত্বের কীরূপ পরিবর্তন হবে গাণিতিক যুক্তির সাহায্যে দেখাও।",
+          "question_text": "চিত্র-২ এ ($k = 5$) পরাবৈদ্যুতিক পদার্থ স্থাপন করা হলে ধারকটির ধারকত্বের কিরূপ পরিবর্তন হবে গাণিতিক যুক্তির সাহায্যে দেখাও।",
           "marks": 4,
           "answer": {
             "full_explanation": "",
@@ -260,9 +260,9 @@
     {
       "question_no": 4,
       "stem": {
-        "text": "$5 \\times 10^{-3}\\ \\text{kg}$ ভর, $0.6\\ \\text{m}$ দৈর্ঘ্য এবং $0.1\\Omega$ রোধবিশিষ্ট একটি পরিবাহী তার $1.8 \\times 10^{-3}\\ \\text{T}$ ফ্লাক্স ঘনত্বের সুষম চৌম্বকক্ষেত্রে লম্বভাবে রাখা আছে। তারটির দুই প্রান্তে $4.5\\text{V}$ বিভব পার্থক্য প্রয়োগ করে, এতে তড়িৎপ্রবাহ সৃষ্টি করা হল। (চৌম্বক প্রাবল্য $H = 18.10^{-3}\\text{T}$)",
+        "text": "$5 \\times 10^{-3}\\text{ kg}$ ভর, $0.6\\text{ m}$ দৈর্ঘ্য এবং $0.1\\Omega$ রোধবিশিষ্ট একটি পরিবাহী তার $1.8 \\times 10^{-3}\\text{ T}$ ফ্লাক্স ঘনত্বের সুষম চৌম্বকক্ষেত্রে লম্বভাবে রাখা আছে। তারটির দুই প্রান্তে $4.5\\text{ V}$ বিভব পার্থক্য প্রয়োগ করে, এতে তড়িৎপ্রবাহ সৃষ্টি করা হল। (চৌম্বক প্রাবল্য $H = 18.10^{-4}\\text{ T}$)",
         "has_image": true,
-        "image_description": "A conducting rod placed perpendicularly in a uniform magnetic field pointing into the page. The rod is connected to a circuit.",
+        "image_description": "A horizontal conducting wire placed inside a uniform magnetic field directed into the page (represented by crosses), experiencing an upward magnetic force labeled 'তাড়িত চৌম্বক বল'.",
         "image_url": "images/cq_RB15_fig03.jpg"
       },
       "sub_questions": [
@@ -327,7 +327,7 @@
           "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
           "topic_code": "T-02",
           "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
-          "question_text": "তারাটি চৌম্বকক্ষেত্রে সাম্যাবস্থায় থাকবে— উক্তিটি যথার্থতা যাচাই কর।",
+          "question_text": "তারটি চৌম্বকক্ষেত্রে সাম্যাবস্থায় থাকবে— উক্তিটি যথার্থতা যাচাই কর।",
           "marks": 4,
           "answer": {
             "full_explanation": "",
@@ -343,9 +343,9 @@
     {
       "question_no": 5,
       "stem": {
-        "text": "চিত্রে একটি ট্রানজিস্টর দেওয়া আছে :\n$I_B = 200\\mu\\text{A}$, $I_C = 10\\text{mA}$, $R_L$",
+        "text": "চিত্রে একটি ট্রানজিস্টর দেওয়া আছে:",
         "has_image": true,
-        "image_description": "An NPN transistor circuit diagram with base current IB = 200 microA, collector current IC = 10mA, and load resistor RL.",
+        "image_description": "Common emitter NPN transistor circuit diagram with base current IB = 200 μA, collector current IC = 10 mA, load resistor RL, base bias supply VBB, and collector bias supply VCC.",
         "image_url": "images/cq_RB15_fig04.jpg"
       },
       "sub_questions": [
@@ -370,11 +370,11 @@
         {
           "label": "খ",
           "type": "অনুধাবন",
-          "chapter_no": 4,
-          "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "chapter_no": 6,
+          "chapter_name": "জ্যামিতিক আলোকবিজ্ঞান",
           "topic_code": "T-05",
-          "topic_name": "চৌম্বক ডোমেইন ও হিস্টেরেসিস লুপ",
-          "question_text": "বিচ্ছিন্ন চৌম্বক মেরু পাওয়া সম্ভব নয় কেন?",
+          "topic_name": "আলোকযন্ত্র: অণুবীক্ষণ যন্ত্র (সরল ও জটিল) ও দূরবীক্ষণ যন্ত্র",
+          "question_text": "স্বাভাবিক দর্শনের ক্ষেত্রে একটি নভো দূরবীক্ষণ যন্ত্রের নলের দৈর্ঘ্য $22\\text{cm}$ দ্বারা কী বুঝায়?",
           "marks": 2,
           "answer": {
             "full_explanation": "",
@@ -388,11 +388,11 @@
         {
           "label": "গ",
           "type": "প্রয়োগ",
-          "chapter_no": 10,
-          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
-          "topic_code": "T-04",
-          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
-          "question_text": "প্রবাহ বিবর্ধন গুণক নির্ণয় কর।",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "পর্যবেক্ষণে সৃষ্ট ডোরাগুলোর পর পর দুটো উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব বের কর।",
           "marks": 3,
           "answer": {
             "full_explanation": "",
@@ -406,11 +406,11 @@
         {
           "label": "ঘ",
           "type": "উচ্চতর দক্ষতা",
-          "chapter_no": 10,
-          "chapter_name": "সেমিকন্ডাক্টর ও ইলেকট্রনিক্স",
-          "topic_code": "T-04",
-          "topic_name": "ট্রানজিস্টর (PNP, NPN) ও এর ব্যবহার (অ্যামপ্লিফায়ার, সুইচ)",
-          "question_text": "ইনপুট ভোল্টেজের পরিবর্তন করে ট্রানজিস্টরটিকে একটি সুইচ হিসেবে ব্যবহার করা যায় কি? বিশ্লেষণ কর।",
+          "chapter_no": 7,
+          "chapter_name": "ভৌত আলোকবিজ্ঞান",
+          "topic_code": "T-03",
+          "topic_name": "আলোর ব্যতিচার (ইয়ং-এর দ্বি-চিড় পরীক্ষা)",
+          "question_text": "চিরদ্বয়ের একটি বন্ধ করে দিলে পর্দার ডোরার কিরূপ পরিবর্তন লক্ষ করা যাবে তা বিশ্লেষণ কর।",
           "marks": 4,
           "answer": {
             "full_explanation": "",
@@ -426,7 +426,7 @@
     {
       "question_no": 6,
       "stem": {
-        "text": "নিচে একটি তথ্য ছক দেওয়া আছে :\n$$\\begin{array}{|c|c|c|c|l|} \\hline \\text{মৌল} & \\text{প্রোটন সংখ্যা} & \\text{ভরসংখ্যা} & \\text{নিউক্লিয়াসের ভর amu} & 1\\text{ amu} = 931\\text{ MeV} \\\\ \\hline \\text{U} & 92 & 235 & 235.0439 & \\text{প্রোটনের ভর}, m_p = 1.00728\\text{ amu} \\\\ \\text{C} & 6 & 12 & 12.00000 & \\text{নিউট্রনের ভর}, m_n = 1.00876\\text{ amu} \\\\ \\text{Fe} & 26 & 56 & 56.0000 & \\text{আলোর বেগ}, c = 3 \\times 10^8\\text{ ms}^{-1} \\\\ \\text{He} & 2 & 4 & 4.00276 & \\\\ \\hline \\end{array}$$",
+        "text": "একটি তেজস্ক্রিয় পদার্থে প্রারম্ভিক অবস্থায় $10^8$ সংখ্যক পরমাণু আছে। এর অর্ধায়ু $2.70\\text{d}$.",
         "has_image": false,
         "image_description": "",
         "image_url": ""
@@ -435,11 +435,11 @@
         {
           "label": "ক",
           "type": "জ্ঞানমূলক",
-          "chapter_no": 1,
-          "chapter_name": "তাপগতিবিদ্যা",
-          "topic_code": "T-05",
-          "topic_name": "প্রত্যাবর্তী ও অপ্রত্যাবর্তী প্রক্রিয়া",
-          "question_text": "প্রত্যাবর্তী প্রক্রিয়া কাকে বলে?",
+          "chapter_no": 8,
+          "chapter_name": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "topic_code": "T-01",
+          "topic_name": "জড় ও অজড় কাঠামো এবং মাইকেলসন-মোরলে পরীক্ষা",
+          "question_text": "জড় প্রসঙ্গ কাঠামো কী?",
           "marks": 1,
           "answer": {
             "full_explanation": "",
@@ -455,9 +455,9 @@
           "type": "অনুধাবন",
           "chapter_no": 4,
           "chapter_name": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
-          "topic_code": "T-01",
-          "topic_name": "ওরস্টেডের চৌম্বকক্ষেত্রের ধারণা ও বায়ো-স্যাভার্টের সূত্র",
-          "question_text": "একক চার্জ দ্বারা স্বত্ব তড়িচ্চুম্বকীয় ক্ষেত্র সৃষ্টি হয় না কেন?",
+          "topic_code": "T-02",
+          "topic_name": "অ্যাম্পিয়ারের সূত্র ও গতিশীল চার্জের ওপর বল",
+          "question_text": "কোনো চৌম্বকক্ষেত্রের মান $10\\text{T}$ বলতে কী বোঝায়?",
           "marks": 2,
           "answer": {
             "full_explanation": "",
@@ -473,9 +473,9 @@
           "type": "প্রয়োগ",
           "chapter_no": 9,
           "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
-          "topic_code": "T-05",
-          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
-          "question_text": "ইউরেনিয়ামের ভরত্রুটি বের কর।",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "পদার্থটির গড় আয়ু কত?",
           "marks": 3,
           "answer": {
             "full_explanation": "",
@@ -491,9 +491,9 @@
           "type": "উচ্চতর দক্ষতা",
           "chapter_no": 9,
           "chapter_name": "পরমাণু মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
-          "topic_code": "T-05",
-          "topic_name": "ভরত্রুটি ও বন্ধনশক্তি",
-          "question_text": "উদ্দীপকে প্রদত্ত তথ্য ব্যবহার করে নিউক্লিয়নপ্রতি বন্ধনশক্তি বনাম ভরসংখ্যা লেখচিত্র অঙ্কন কর।",
+          "topic_code": "T-04",
+          "topic_name": "তেজস্ক্রিয়তা, অর্ধজীবন ও গড় জীবন",
+          "question_text": "প্রথম দিনে যত সংখ্যক পরমাণু ভেঙ্গে যাবে দ্বিতীয় দিনে তার চেয়ে কম সংখ্যক পরমাণু ভাঙবে—গাণিতিক যুক্তিসহ নিশ্চিত কর।",
           "marks": 4,
           "answer": {
             "full_explanation": "",
